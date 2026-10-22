@@ -1,0 +1,4148 @@
+[
+ {
+  "id": "C0001",
+  "name": "Mateo Horváth",
+  "email": "customer0001@example.com",
+  "allergy_codes": [
+   "EGG",
+   "GLU",
+   "MLK",
+   "NUT"
+  ],
+  "created_at": "2026-01-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0002",
+  "name": "Noah Takács",
+  "email": "customer0002@example.com",
+  "allergy_codes": [
+   "CRU",
+   "GLU",
+   "PNT",
+   "SOY"
+  ],
+  "created_at": "2026-05-30T12:00:00+00:00"
+ },
+ {
+  "id": "C0003",
+  "name": "Kata Molnár",
+  "email": "customer0003@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-07-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0004",
+  "name": "Emma Novak",
+  "email": "customer0004@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK"
+  ],
+  "created_at": "2025-07-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0005",
+  "name": "István Szabó",
+  "email": "customer0005@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-10-31T12:00:00+00:00"
+ },
+ {
+  "id": "C0006",
+  "name": "Noémi García",
+  "email": "customer0006@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-05-29T12:00:00+00:00"
+ },
+ {
+  "id": "C0007",
+  "name": "László Mészáros",
+  "email": "customer0007@example.com",
+  "allergy_codes": [
+   "EGG",
+   "GLU",
+   "MLK",
+   "NUT"
+  ],
+  "created_at": "2025-06-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0008",
+  "name": "Noémi Dubois",
+  "email": "customer0008@example.com",
+  "allergy_codes": [
+   "EGG",
+   "GLU",
+   "MLK"
+  ],
+  "created_at": "2025-08-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0009",
+  "name": "Noémi Tóth",
+  "email": "customer0009@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2026-07-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0010",
+  "name": "Viktória Schmidt",
+  "email": "customer0010@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-01-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0011",
+  "name": "Sofia Oláh",
+  "email": "customer0011@example.com",
+  "allergy_codes": [
+   "SOY"
+  ],
+  "created_at": "2024-11-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0012",
+  "name": "Viktória Juhász",
+  "email": "customer0012@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2026-06-12T12:00:00+00:00"
+ },
+ {
+  "id": "C0013",
+  "name": "Tamás Jensen",
+  "email": "customer0013@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MOL",
+   "SOY"
+  ],
+  "created_at": "2025-12-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0014",
+  "name": "Sándor Rácz",
+  "email": "customer0014@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-07-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0015",
+  "name": "Lukas Szabó",
+  "email": "customer0015@example.com",
+  "allergy_codes": [
+   "CEL"
+  ],
+  "created_at": "2025-03-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0016",
+  "name": "Gabriella Lakatos",
+  "email": "customer0016@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-10-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0017",
+  "name": "Bálint Németh",
+  "email": "customer0017@example.com",
+  "allergy_codes": [
+   "FSH"
+  ],
+  "created_at": "2025-01-10T12:00:00+00:00"
+ },
+ {
+  "id": "C0018",
+  "name": "Lukas Nagy",
+  "email": "customer0018@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-05-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0019",
+  "name": "Kata Jensen",
+  "email": "customer0019@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2025-07-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0020",
+  "name": "Máté Silva",
+  "email": "customer0020@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-10T12:00:00+00:00"
+ },
+ {
+  "id": "C0021",
+  "name": "Clara García",
+  "email": "customer0021@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-05-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0022",
+  "name": "Petra Balogh",
+  "email": "customer0022@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2024-05-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0023",
+  "name": "Kata Tóth",
+  "email": "customer0023@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-07-29T12:00:00+00:00"
+ },
+ {
+  "id": "C0024",
+  "name": "Anna Takács",
+  "email": "customer0024@example.com",
+  "allergy_codes": [
+   "MLK",
+   "PNT",
+   "SES"
+  ],
+  "created_at": "2026-05-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0025",
+  "name": "Liam Lakatos",
+  "email": "customer0025@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-23T12:00:00+00:00"
+ },
+ {
+  "id": "C0026",
+  "name": "Noah García",
+  "email": "customer0026@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-04-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0027",
+  "name": "Ines Papp",
+  "email": "customer0027@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0028",
+  "name": "Lili Dubois",
+  "email": "customer0028@example.com",
+  "allergy_codes": [
+   "SOY"
+  ],
+  "created_at": "2025-10-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0029",
+  "name": "Hanna Nagy",
+  "email": "customer0029@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-02-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0030",
+  "name": "Bence Rossi",
+  "email": "customer0030@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-02-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0031",
+  "name": "Olivér Juhász",
+  "email": "customer0031@example.com",
+  "allergy_codes": [
+   "MLK",
+   "PNT"
+  ],
+  "created_at": "2024-04-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0032",
+  "name": "László Tóth",
+  "email": "customer0032@example.com",
+  "allergy_codes": [
+   "CRU"
+  ],
+  "created_at": "2025-10-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0033",
+  "name": "Noémi Nagy",
+  "email": "customer0033@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2026-05-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0034",
+  "name": "István García",
+  "email": "customer0034@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-12T12:00:00+00:00"
+ },
+ {
+  "id": "C0035",
+  "name": "Sofia Mészáros",
+  "email": "customer0035@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-08-12T12:00:00+00:00"
+ },
+ {
+  "id": "C0036",
+  "name": "Noémi Juhász",
+  "email": "customer0036@example.com",
+  "allergy_codes": [
+   "FSH",
+   "GLU",
+   "MLK",
+   "NUT"
+  ],
+  "created_at": "2024-04-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0037",
+  "name": "Clara Fekete",
+  "email": "customer0037@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-08-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0038",
+  "name": "Sofia Takács",
+  "email": "customer0038@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2025-04-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0039",
+  "name": "Ines Brown",
+  "email": "customer0039@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-10-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0040",
+  "name": "Elena Tóth",
+  "email": "customer0040@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK",
+   "PNT"
+  ],
+  "created_at": "2025-12-01T12:00:00+00:00"
+ },
+ {
+  "id": "C0041",
+  "name": "Bálint Lakatos",
+  "email": "customer0041@example.com",
+  "allergy_codes": [
+   "EGG",
+   "MLK",
+   "SES"
+  ],
+  "created_at": "2024-09-17T12:00:00+00:00"
+ },
+ {
+  "id": "C0042",
+  "name": "Judit Farkas",
+  "email": "customer0042@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-08-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0043",
+  "name": "Bálint Lakatos",
+  "email": "customer0043@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-01-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0044",
+  "name": "Clara Brown",
+  "email": "customer0044@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-30T12:00:00+00:00"
+ },
+ {
+  "id": "C0045",
+  "name": "Noah Kowalski",
+  "email": "customer0045@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-04-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0046",
+  "name": "Sándor García",
+  "email": "customer0046@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2024-09-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0047",
+  "name": "Máté Jensen",
+  "email": "customer0047@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-10-12T12:00:00+00:00"
+ },
+ {
+  "id": "C0048",
+  "name": "Liam Dubois",
+  "email": "customer0048@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2024-04-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0049",
+  "name": "Marcell Farkas",
+  "email": "customer0049@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0050",
+  "name": "Hanna Varga",
+  "email": "customer0050@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2026-02-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0051",
+  "name": "Sofia Szabó",
+  "email": "customer0051@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-06-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0052",
+  "name": "Sofia Farkas",
+  "email": "customer0052@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-01-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0053",
+  "name": "Dániel Nagy",
+  "email": "customer0053@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-08-30T12:00:00+00:00"
+ },
+ {
+  "id": "C0054",
+  "name": "Lukas Kovács",
+  "email": "customer0054@example.com",
+  "allergy_codes": [
+   "EGG",
+   "MLK",
+   "SES"
+  ],
+  "created_at": "2024-05-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0055",
+  "name": "Noémi Szabó",
+  "email": "customer0055@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-12-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0056",
+  "name": "Elena Molnár",
+  "email": "customer0056@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-04-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0057",
+  "name": "Ádám Dubois",
+  "email": "customer0057@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-09-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0058",
+  "name": "Elena Németh",
+  "email": "customer0058@example.com",
+  "allergy_codes": [
+   "CRU"
+  ],
+  "created_at": "2026-03-31T12:00:00+00:00"
+ },
+ {
+  "id": "C0059",
+  "name": "Gergő Szabó",
+  "email": "customer0059@example.com",
+  "allergy_codes": [
+   "CRU",
+   "EGG",
+   "MLK",
+   "MUS"
+  ],
+  "created_at": "2024-06-23T12:00:00+00:00"
+ },
+ {
+  "id": "C0060",
+  "name": "Gabriella Jensen",
+  "email": "customer0060@example.com",
+  "allergy_codes": [
+   "CRU"
+  ],
+  "created_at": "2025-02-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0061",
+  "name": "Gabriella Varga",
+  "email": "customer0061@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0062",
+  "name": "Marcell Brown",
+  "email": "customer0062@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-08-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0063",
+  "name": "Sándor Rossi",
+  "email": "customer0063@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-06-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0064",
+  "name": "Gabriella Horváth",
+  "email": "customer0064@example.com",
+  "allergy_codes": [
+   "PNT"
+  ],
+  "created_at": "2024-11-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0065",
+  "name": "Hanna Szabó",
+  "email": "customer0065@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-04-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0066",
+  "name": "Máté Novak",
+  "email": "customer0066@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-07-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0067",
+  "name": "Liam Balogh",
+  "email": "customer0067@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-11-12T12:00:00+00:00"
+ },
+ {
+  "id": "C0068",
+  "name": "Ferenc Németh",
+  "email": "customer0068@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-08-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0069",
+  "name": "Olivér Horváth",
+  "email": "customer0069@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2024-07-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0070",
+  "name": "Nóra Horváth",
+  "email": "customer0070@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2024-06-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0071",
+  "name": "Máté Silva",
+  "email": "customer0071@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-05-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0072",
+  "name": "Ferenc Balogh",
+  "email": "customer0072@example.com",
+  "allergy_codes": [
+   "CRU",
+   "GLU",
+   "MLK",
+   "MUS"
+  ],
+  "created_at": "2025-10-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0073",
+  "name": "Judit Juhász",
+  "email": "customer0073@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-07-01T12:00:00+00:00"
+ },
+ {
+  "id": "C0074",
+  "name": "Csilla Schmidt",
+  "email": "customer0074@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0075",
+  "name": "Mateo Kovács",
+  "email": "customer0075@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0076",
+  "name": "Tamás García",
+  "email": "customer0076@example.com",
+  "allergy_codes": [
+   "MOL",
+   "NUT",
+   "SES",
+   "SOY"
+  ],
+  "created_at": "2024-08-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0077",
+  "name": "Bálint Nagy",
+  "email": "customer0077@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-05-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0078",
+  "name": "Maja Fekete",
+  "email": "customer0078@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-04-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0079",
+  "name": "Marcell Silva",
+  "email": "customer0079@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2025-02-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0080",
+  "name": "Zoltán Rossi",
+  "email": "customer0080@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2025-09-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0081",
+  "name": "Hanna Oláh",
+  "email": "customer0081@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK",
+   "NUT",
+   "SOY"
+  ],
+  "created_at": "2025-02-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0082",
+  "name": "Ferenc Oláh",
+  "email": "customer0082@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-02-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0083",
+  "name": "Ádám Novak",
+  "email": "customer0083@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0084",
+  "name": "Bence Silva",
+  "email": "customer0084@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-06-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0085",
+  "name": "Petra Molnár",
+  "email": "customer0085@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-05-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0086",
+  "name": "Lukas Szabó",
+  "email": "customer0086@example.com",
+  "allergy_codes": [
+   "SOY"
+  ],
+  "created_at": "2024-08-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0087",
+  "name": "Dóra Németh",
+  "email": "customer0087@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0088",
+  "name": "Gergő Kovács",
+  "email": "customer0088@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-07-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0089",
+  "name": "Tamás Rácz",
+  "email": "customer0089@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2024-08-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0090",
+  "name": "Ádám Molnár",
+  "email": "customer0090@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-05-30T12:00:00+00:00"
+ },
+ {
+  "id": "C0091",
+  "name": "Jonas Kowalski",
+  "email": "customer0091@example.com",
+  "allergy_codes": [
+   "PNT"
+  ],
+  "created_at": "2024-12-31T12:00:00+00:00"
+ },
+ {
+  "id": "C0092",
+  "name": "Tamás Farkas",
+  "email": "customer0092@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-10-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0093",
+  "name": "Hanna Rossi",
+  "email": "customer0093@example.com",
+  "allergy_codes": [
+   "SOY"
+  ],
+  "created_at": "2025-08-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0094",
+  "name": "Olivér Szabó",
+  "email": "customer0094@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-10-01T12:00:00+00:00"
+ },
+ {
+  "id": "C0095",
+  "name": "László Jensen",
+  "email": "customer0095@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-06-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0096",
+  "name": "Gabriella Horváth",
+  "email": "customer0096@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0097",
+  "name": "Máté Tóth",
+  "email": "customer0097@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-05-30T12:00:00+00:00"
+ },
+ {
+  "id": "C0098",
+  "name": "Hanna Mészáros",
+  "email": "customer0098@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-01-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0099",
+  "name": "Dóra Schmidt",
+  "email": "customer0099@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-03-12T12:00:00+00:00"
+ },
+ {
+  "id": "C0100",
+  "name": "Elena Oláh",
+  "email": "customer0100@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-06-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0101",
+  "name": "Petra Rácz",
+  "email": "customer0101@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-04-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0102",
+  "name": "Sofia García",
+  "email": "customer0102@example.com",
+  "allergy_codes": [
+   "LUP"
+  ],
+  "created_at": "2025-07-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0103",
+  "name": "Lukas Kowalski",
+  "email": "customer0103@example.com",
+  "allergy_codes": [
+   "NUT",
+   "PNT"
+  ],
+  "created_at": "2025-03-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0104",
+  "name": "Marcell Lakatos",
+  "email": "customer0104@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-05-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0105",
+  "name": "Judit Simon",
+  "email": "customer0105@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-08-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0106",
+  "name": "Gergő Papp",
+  "email": "customer0106@example.com",
+  "allergy_codes": [
+   "EGG",
+   "NUT"
+  ],
+  "created_at": "2025-01-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0107",
+  "name": "Maja Horváth",
+  "email": "customer0107@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-05-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0108",
+  "name": "Dóra Farkas",
+  "email": "customer0108@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-11-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0109",
+  "name": "István Horváth",
+  "email": "customer0109@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-06-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0110",
+  "name": "Tamás Silva",
+  "email": "customer0110@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2025-11-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0111",
+  "name": "Sofia Nagy",
+  "email": "customer0111@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-04-29T12:00:00+00:00"
+ },
+ {
+  "id": "C0112",
+  "name": "Eszter Kowalski",
+  "email": "customer0112@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-07-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0113",
+  "name": "Mateo Farkas",
+  "email": "customer0113@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-01-30T12:00:00+00:00"
+ },
+ {
+  "id": "C0114",
+  "name": "Ádám Dubois",
+  "email": "customer0114@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-08-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0115",
+  "name": "Noah Horváth",
+  "email": "customer0115@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-07-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0116",
+  "name": "Viktória Novak",
+  "email": "customer0116@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-05-29T12:00:00+00:00"
+ },
+ {
+  "id": "C0117",
+  "name": "Zsófia Tóth",
+  "email": "customer0117@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2024-06-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0118",
+  "name": "Emma Molnár",
+  "email": "customer0118@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2025-07-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0119",
+  "name": "Csilla Schmidt",
+  "email": "customer0119@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-06-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0120",
+  "name": "Judit Rossi",
+  "email": "customer0120@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2026-08-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0121",
+  "name": "Tamás Simon",
+  "email": "customer0121@example.com",
+  "allergy_codes": [
+   "CRU"
+  ],
+  "created_at": "2024-11-10T12:00:00+00:00"
+ },
+ {
+  "id": "C0122",
+  "name": "Elena Tóth",
+  "email": "customer0122@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-02-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0123",
+  "name": "Gergő Schmidt",
+  "email": "customer0123@example.com",
+  "allergy_codes": [
+   "MLK",
+   "NUT",
+   "PNT",
+   "SES"
+  ],
+  "created_at": "2025-03-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0124",
+  "name": "Bence Németh",
+  "email": "customer0124@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-06-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0125",
+  "name": "Clara Lakatos",
+  "email": "customer0125@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-06-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0126",
+  "name": "Lili Rácz",
+  "email": "customer0126@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2026-07-17T12:00:00+00:00"
+ },
+ {
+  "id": "C0127",
+  "name": "Bence Balogh",
+  "email": "customer0127@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-06-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0128",
+  "name": "Bence Kowalski",
+  "email": "customer0128@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-03-10T12:00:00+00:00"
+ },
+ {
+  "id": "C0129",
+  "name": "Petra Tóth",
+  "email": "customer0129@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-05-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0130",
+  "name": "Zsófia Varga",
+  "email": "customer0130@example.com",
+  "allergy_codes": [
+   "EGG",
+   "GLU",
+   "MLK",
+   "NUT"
+  ],
+  "created_at": "2026-08-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0131",
+  "name": "Gabriella Balogh",
+  "email": "customer0131@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2026-04-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0132",
+  "name": "Zsófia Németh",
+  "email": "customer0132@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-08-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0133",
+  "name": "Noah Rácz",
+  "email": "customer0133@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK"
+  ],
+  "created_at": "2026-01-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0134",
+  "name": "Lukas Takács",
+  "email": "customer0134@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-05-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0135",
+  "name": "Zsófia Lakatos",
+  "email": "customer0135@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-02-12T12:00:00+00:00"
+ },
+ {
+  "id": "C0136",
+  "name": "Liam Nagy",
+  "email": "customer0136@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-07-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0137",
+  "name": "Bence Németh",
+  "email": "customer0137@example.com",
+  "allergy_codes": [
+   "CEL"
+  ],
+  "created_at": "2025-02-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0138",
+  "name": "Zoltán Tóth",
+  "email": "customer0138@example.com",
+  "allergy_codes": [
+   "CRU",
+   "EGG",
+   "MLK",
+   "PNT"
+  ],
+  "created_at": "2024-04-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0139",
+  "name": "István Papp",
+  "email": "customer0139@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2025-02-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0140",
+  "name": "Elena Lakatos",
+  "email": "customer0140@example.com",
+  "allergy_codes": [
+   "NUT",
+   "PNT"
+  ],
+  "created_at": "2026-07-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0141",
+  "name": "Viktória Jensen",
+  "email": "customer0141@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-12-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0142",
+  "name": "Judit Nagy",
+  "email": "customer0142@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-07-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0143",
+  "name": "Marcell Rácz",
+  "email": "customer0143@example.com",
+  "allergy_codes": [
+   "EGG",
+   "GLU",
+   "LUP"
+  ],
+  "created_at": "2024-04-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0144",
+  "name": "Csilla Varga",
+  "email": "customer0144@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-08-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0145",
+  "name": "Eszter Farkas",
+  "email": "customer0145@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-06-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0146",
+  "name": "Gergő Jensen",
+  "email": "customer0146@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-04-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0147",
+  "name": "Noémi Kiss",
+  "email": "customer0147@example.com",
+  "allergy_codes": [
+   "LUP"
+  ],
+  "created_at": "2024-12-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0148",
+  "name": "Zsófia Silva",
+  "email": "customer0148@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-10-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0149",
+  "name": "Ádám Kiss",
+  "email": "customer0149@example.com",
+  "allergy_codes": [
+   "CRU",
+   "GLU",
+   "MOL",
+   "NUT"
+  ],
+  "created_at": "2025-05-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0150",
+  "name": "Anna Fekete",
+  "email": "customer0150@example.com",
+  "allergy_codes": [
+   "EGG",
+   "MLK",
+   "SOY"
+  ],
+  "created_at": "2025-05-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0151",
+  "name": "Anna Schmidt",
+  "email": "customer0151@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-03-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0152",
+  "name": "Sofia Novak",
+  "email": "customer0152@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-07-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0153",
+  "name": "Eszter Simon",
+  "email": "customer0153@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-08-01T12:00:00+00:00"
+ },
+ {
+  "id": "C0154",
+  "name": "Emma Varga",
+  "email": "customer0154@example.com",
+  "allergy_codes": [
+   "EGG",
+   "MLK",
+   "MOL",
+   "NUT"
+  ],
+  "created_at": "2024-04-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0155",
+  "name": "Anna Szabó",
+  "email": "customer0155@example.com",
+  "allergy_codes": [
+   "SOY"
+  ],
+  "created_at": "2025-05-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0156",
+  "name": "László Lakatos",
+  "email": "customer0156@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-08-23T12:00:00+00:00"
+ },
+ {
+  "id": "C0157",
+  "name": "Bence Novak",
+  "email": "customer0157@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-11-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0158",
+  "name": "László Tóth",
+  "email": "customer0158@example.com",
+  "allergy_codes": [
+   "SOY"
+  ],
+  "created_at": "2024-05-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0159",
+  "name": "Nóra Molnár",
+  "email": "customer0159@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2025-04-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0160",
+  "name": "Noah Kiss",
+  "email": "customer0160@example.com",
+  "allergy_codes": [
+   "CEL",
+   "GLU"
+  ],
+  "created_at": "2026-08-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0161",
+  "name": "Lili Szabó",
+  "email": "customer0161@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-11-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0162",
+  "name": "Elena Kiss",
+  "email": "customer0162@example.com",
+  "allergy_codes": [
+   "PNT"
+  ],
+  "created_at": "2024-10-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0163",
+  "name": "Noah Rácz",
+  "email": "customer0163@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2026-03-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0164",
+  "name": "Hanna García",
+  "email": "customer0164@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-06-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0165",
+  "name": "Mateo Kowalski",
+  "email": "customer0165@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-01-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0166",
+  "name": "Jonas Fekete",
+  "email": "customer0166@example.com",
+  "allergy_codes": [
+   "CRU",
+   "EGG",
+   "LUP",
+   "MLK"
+  ],
+  "created_at": "2025-12-17T12:00:00+00:00"
+ },
+ {
+  "id": "C0167",
+  "name": "Anna Juhász",
+  "email": "customer0167@example.com",
+  "allergy_codes": [
+   "SES"
+  ],
+  "created_at": "2024-11-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0168",
+  "name": "Zsófia Juhász",
+  "email": "customer0168@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2024-04-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0169",
+  "name": "Dániel Németh",
+  "email": "customer0169@example.com",
+  "allergy_codes": [
+   "MLK",
+   "PNT",
+   "SOY"
+  ],
+  "created_at": "2025-06-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0170",
+  "name": "Zsófia Nagy",
+  "email": "customer0170@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-07-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0171",
+  "name": "Ferenc Silva",
+  "email": "customer0171@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-01-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0172",
+  "name": "Nóra Rossi",
+  "email": "customer0172@example.com",
+  "allergy_codes": [
+   "MOL"
+  ],
+  "created_at": "2025-06-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0173",
+  "name": "Gabriella Nagy",
+  "email": "customer0173@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK"
+  ],
+  "created_at": "2025-04-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0174",
+  "name": "Bence Rácz",
+  "email": "customer0174@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-06-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0175",
+  "name": "Petra Molnár",
+  "email": "customer0175@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2026-05-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0176",
+  "name": "Ádám Jensen",
+  "email": "customer0176@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-07-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0177",
+  "name": "Ferenc Kovács",
+  "email": "customer0177@example.com",
+  "allergy_codes": [
+   "CRU",
+   "EGG",
+   "MUS",
+   "PNT"
+  ],
+  "created_at": "2026-07-29T12:00:00+00:00"
+ },
+ {
+  "id": "C0178",
+  "name": "Eszter Dubois",
+  "email": "customer0178@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-04-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0179",
+  "name": "Zoltán Kovács",
+  "email": "customer0179@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-10-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0180",
+  "name": "Gabriella Schmidt",
+  "email": "customer0180@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2026-07-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0181",
+  "name": "Emma Takács",
+  "email": "customer0181@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2026-05-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0182",
+  "name": "Noah Dubois",
+  "email": "customer0182@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2024-10-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0183",
+  "name": "Viktória Dubois",
+  "email": "customer0183@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2025-06-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0184",
+  "name": "Clara Dubois",
+  "email": "customer0184@example.com",
+  "allergy_codes": [
+   "EGG",
+   "MLK",
+   "PNT",
+   "SOY"
+  ],
+  "created_at": "2024-04-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0185",
+  "name": "Mateo Horváth",
+  "email": "customer0185@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0186",
+  "name": "Bálint Juhász",
+  "email": "customer0186@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-04-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0187",
+  "name": "Olivér Horváth",
+  "email": "customer0187@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2024-06-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0188",
+  "name": "Hanna Farkas",
+  "email": "customer0188@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-01-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0189",
+  "name": "Bálint Farkas",
+  "email": "customer0189@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-01-12T12:00:00+00:00"
+ },
+ {
+  "id": "C0190",
+  "name": "Ádám Farkas",
+  "email": "customer0190@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK"
+  ],
+  "created_at": "2025-08-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0191",
+  "name": "Dániel Juhász",
+  "email": "customer0191@example.com",
+  "allergy_codes": [
+   "EGG",
+   "FSH",
+   "MLK",
+   "PNT"
+  ],
+  "created_at": "2025-09-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0192",
+  "name": "László Müller",
+  "email": "customer0192@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-02-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0193",
+  "name": "Liam Rossi",
+  "email": "customer0193@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2024-09-23T12:00:00+00:00"
+ },
+ {
+  "id": "C0194",
+  "name": "Tamás Juhász",
+  "email": "customer0194@example.com",
+  "allergy_codes": [
+   "FSH",
+   "GLU",
+   "PNT",
+   "SOY"
+  ],
+  "created_at": "2025-09-30T12:00:00+00:00"
+ },
+ {
+  "id": "C0195",
+  "name": "Viktória Silva",
+  "email": "customer0195@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-06-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0196",
+  "name": "Olivér Mészáros",
+  "email": "customer0196@example.com",
+  "allergy_codes": [
+   "EGG",
+   "GLU",
+   "MLK"
+  ],
+  "created_at": "2024-08-10T12:00:00+00:00"
+ },
+ {
+  "id": "C0197",
+  "name": "Emma Kiss",
+  "email": "customer0197@example.com",
+  "allergy_codes": [
+   "FSH"
+  ],
+  "created_at": "2025-07-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0198",
+  "name": "Anna Papp",
+  "email": "customer0198@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-08-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0199",
+  "name": "Bence Simon",
+  "email": "customer0199@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-05-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0200",
+  "name": "Zoltán Kiss",
+  "email": "customer0200@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0201",
+  "name": "Csilla Nagy",
+  "email": "customer0201@example.com",
+  "allergy_codes": [
+   "CRU"
+  ],
+  "created_at": "2026-02-10T12:00:00+00:00"
+ },
+ {
+  "id": "C0202",
+  "name": "Kata Molnár",
+  "email": "customer0202@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-12-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0203",
+  "name": "Elena Molnár",
+  "email": "customer0203@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2026-03-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0204",
+  "name": "Kata Jensen",
+  "email": "customer0204@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-12-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0205",
+  "name": "Gergő Balogh",
+  "email": "customer0205@example.com",
+  "allergy_codes": [
+   "FSH",
+   "MLK"
+  ],
+  "created_at": "2026-01-29T12:00:00+00:00"
+ },
+ {
+  "id": "C0206",
+  "name": "Olivér Papp",
+  "email": "customer0206@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-05-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0207",
+  "name": "Judit Oláh",
+  "email": "customer0207@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-06-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0208",
+  "name": "László Kiss",
+  "email": "customer0208@example.com",
+  "allergy_codes": [
+   "CEL",
+   "MLK",
+   "SES"
+  ],
+  "created_at": "2025-03-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0209",
+  "name": "Dóra Balogh",
+  "email": "customer0209@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-12-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0210",
+  "name": "Olivér Brown",
+  "email": "customer0210@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-07-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0211",
+  "name": "Jonas Farkas",
+  "email": "customer0211@example.com",
+  "allergy_codes": [
+   "PNT"
+  ],
+  "created_at": "2024-06-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0212",
+  "name": "Olivér Kovács",
+  "email": "customer0212@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0213",
+  "name": "Lukas Rácz",
+  "email": "customer0213@example.com",
+  "allergy_codes": [
+   "SES"
+  ],
+  "created_at": "2025-04-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0214",
+  "name": "Ferenc Dubois",
+  "email": "customer0214@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-05-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0215",
+  "name": "Judit Oláh",
+  "email": "customer0215@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2025-07-31T12:00:00+00:00"
+ },
+ {
+  "id": "C0216",
+  "name": "Lukas Papp",
+  "email": "customer0216@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2025-04-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0217",
+  "name": "Kata Balogh",
+  "email": "customer0217@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0218",
+  "name": "Liam Rossi",
+  "email": "customer0218@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-04-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0219",
+  "name": "Clara Takács",
+  "email": "customer0219@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-17T12:00:00+00:00"
+ },
+ {
+  "id": "C0220",
+  "name": "Olivér Takács",
+  "email": "customer0220@example.com",
+  "allergy_codes": [
+   "EGG",
+   "GLU",
+   "NUT",
+   "SES"
+  ],
+  "created_at": "2026-01-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0221",
+  "name": "Emma Rácz",
+  "email": "customer0221@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-03-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0222",
+  "name": "Sándor Lakatos",
+  "email": "customer0222@example.com",
+  "allergy_codes": [
+   "CRU",
+   "GLU",
+   "MLK"
+  ],
+  "created_at": "2025-03-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0223",
+  "name": "Clara Kovács",
+  "email": "customer0223@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-05-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0224",
+  "name": "Ádám Juhász",
+  "email": "customer0224@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-05-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0225",
+  "name": "Máté Papp",
+  "email": "customer0225@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-05-31T12:00:00+00:00"
+ },
+ {
+  "id": "C0226",
+  "name": "Réka Takács",
+  "email": "customer0226@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-08-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0227",
+  "name": "Nóra Németh",
+  "email": "customer0227@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-10T12:00:00+00:00"
+ },
+ {
+  "id": "C0228",
+  "name": "Ferenc Farkas",
+  "email": "customer0228@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-04-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0229",
+  "name": "Jonas Müller",
+  "email": "customer0229@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-06-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0230",
+  "name": "Gabriella Szabó",
+  "email": "customer0230@example.com",
+  "allergy_codes": [
+   "CEL"
+  ],
+  "created_at": "2026-06-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0231",
+  "name": "Jonas Kiss",
+  "email": "customer0231@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-09-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0232",
+  "name": "Ádám Németh",
+  "email": "customer0232@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-10-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0233",
+  "name": "Réka Kiss",
+  "email": "customer0233@example.com",
+  "allergy_codes": [
+   "CRU"
+  ],
+  "created_at": "2024-09-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0234",
+  "name": "Jonas Brown",
+  "email": "customer0234@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2025-12-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0235",
+  "name": "Tamás Farkas",
+  "email": "customer0235@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-05-12T12:00:00+00:00"
+ },
+ {
+  "id": "C0236",
+  "name": "Lili Takács",
+  "email": "customer0236@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-05-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0237",
+  "name": "Liam Müller",
+  "email": "customer0237@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2025-03-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0238",
+  "name": "Marcell Mészáros",
+  "email": "customer0238@example.com",
+  "allergy_codes": [
+   "GLU",
+   "SES"
+  ],
+  "created_at": "2026-01-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0239",
+  "name": "Elena Novak",
+  "email": "customer0239@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-05-10T12:00:00+00:00"
+ },
+ {
+  "id": "C0240",
+  "name": "Ferenc Balogh",
+  "email": "customer0240@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2024-04-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0241",
+  "name": "Máté Kiss",
+  "email": "customer0241@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-06-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0242",
+  "name": "Elena Nagy",
+  "email": "customer0242@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-08-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0243",
+  "name": "Hanna Farkas",
+  "email": "customer0243@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-08-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0244",
+  "name": "Bálint Balogh",
+  "email": "customer0244@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-01-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0245",
+  "name": "Lili Novak",
+  "email": "customer0245@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-06-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0246",
+  "name": "Clara Nagy",
+  "email": "customer0246@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2025-01-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0247",
+  "name": "István Balogh",
+  "email": "customer0247@example.com",
+  "allergy_codes": [
+   "CEL"
+  ],
+  "created_at": "2025-01-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0248",
+  "name": "Noah Rácz",
+  "email": "customer0248@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2025-07-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0249",
+  "name": "Emma Kiss",
+  "email": "customer0249@example.com",
+  "allergy_codes": [
+   "MLK",
+   "MUS"
+  ],
+  "created_at": "2025-05-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0250",
+  "name": "Mateo Lakatos",
+  "email": "customer0250@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0251",
+  "name": "Kata Kovács",
+  "email": "customer0251@example.com",
+  "allergy_codes": [
+   "EGG",
+   "MLK"
+  ],
+  "created_at": "2024-05-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0252",
+  "name": "Kata Kiss",
+  "email": "customer0252@example.com",
+  "allergy_codes": [
+   "PNT"
+  ],
+  "created_at": "2026-06-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0253",
+  "name": "Dániel Papp",
+  "email": "customer0253@example.com",
+  "allergy_codes": [
+   "EGG",
+   "GLU",
+   "MLK"
+  ],
+  "created_at": "2025-03-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0254",
+  "name": "Zsófia Kowalski",
+  "email": "customer0254@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-07-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0255",
+  "name": "Gergő Horváth",
+  "email": "customer0255@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-03-01T12:00:00+00:00"
+ },
+ {
+  "id": "C0256",
+  "name": "Eszter Takács",
+  "email": "customer0256@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-02-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0257",
+  "name": "Marcell Farkas",
+  "email": "customer0257@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-06-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0258",
+  "name": "Judit Fekete",
+  "email": "customer0258@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2025-01-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0259",
+  "name": "Zoltán Tóth",
+  "email": "customer0259@example.com",
+  "allergy_codes": [
+   "GLU",
+   "LUP",
+   "NUT",
+   "SOY"
+  ],
+  "created_at": "2024-05-10T12:00:00+00:00"
+ },
+ {
+  "id": "C0260",
+  "name": "Olivér Oláh",
+  "email": "customer0260@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-09-30T12:00:00+00:00"
+ },
+ {
+  "id": "C0261",
+  "name": "Sándor Müller",
+  "email": "customer0261@example.com",
+  "allergy_codes": [
+   "NUT",
+   "PNT",
+   "SOY"
+  ],
+  "created_at": "2025-05-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0262",
+  "name": "Tamás Takács",
+  "email": "customer0262@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-12-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0263",
+  "name": "Ines García",
+  "email": "customer0263@example.com",
+  "allergy_codes": [
+   "MLK",
+   "NUT"
+  ],
+  "created_at": "2025-06-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0264",
+  "name": "Kata Rossi",
+  "email": "customer0264@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-01-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0265",
+  "name": "Csilla Molnár",
+  "email": "customer0265@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-03-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0266",
+  "name": "Jonas Farkas",
+  "email": "customer0266@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-10-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0267",
+  "name": "Elena Szabó",
+  "email": "customer0267@example.com",
+  "allergy_codes": [
+   "CEL",
+   "NUT",
+   "SES",
+   "SOY"
+  ],
+  "created_at": "2025-08-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0268",
+  "name": "Gabriella Oláh",
+  "email": "customer0268@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-07-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0269",
+  "name": "Judit Németh",
+  "email": "customer0269@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2026-02-01T12:00:00+00:00"
+ },
+ {
+  "id": "C0270",
+  "name": "Viktória Nagy",
+  "email": "customer0270@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-06-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0271",
+  "name": "Viktória Takács",
+  "email": "customer0271@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2025-09-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0272",
+  "name": "Lili Kovács",
+  "email": "customer0272@example.com",
+  "allergy_codes": [
+   "SES"
+  ],
+  "created_at": "2026-08-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0273",
+  "name": "Hanna Balogh",
+  "email": "customer0273@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-10-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0274",
+  "name": "Eszter Tóth",
+  "email": "customer0274@example.com",
+  "allergy_codes": [
+   "PNT"
+  ],
+  "created_at": "2025-02-17T12:00:00+00:00"
+ },
+ {
+  "id": "C0275",
+  "name": "Zoltán Horváth",
+  "email": "customer0275@example.com",
+  "allergy_codes": [
+   "SOY"
+  ],
+  "created_at": "2025-05-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0276",
+  "name": "Jonas García",
+  "email": "customer0276@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK"
+  ],
+  "created_at": "2025-07-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0277",
+  "name": "Anna Schmidt",
+  "email": "customer0277@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-11-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0278",
+  "name": "Bálint Varga",
+  "email": "customer0278@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-01-23T12:00:00+00:00"
+ },
+ {
+  "id": "C0279",
+  "name": "Jonas Kiss",
+  "email": "customer0279@example.com",
+  "allergy_codes": [
+   "SES"
+  ],
+  "created_at": "2025-06-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0280",
+  "name": "Maja Müller",
+  "email": "customer0280@example.com",
+  "allergy_codes": [
+   "FSH"
+  ],
+  "created_at": "2024-10-23T12:00:00+00:00"
+ },
+ {
+  "id": "C0281",
+  "name": "Emma Rossi",
+  "email": "customer0281@example.com",
+  "allergy_codes": [
+   "SES"
+  ],
+  "created_at": "2025-10-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0282",
+  "name": "Noah Nagy",
+  "email": "customer0282@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-07-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0283",
+  "name": "Olivér Papp",
+  "email": "customer0283@example.com",
+  "allergy_codes": [
+   "CRU"
+  ],
+  "created_at": "2025-12-31T12:00:00+00:00"
+ },
+ {
+  "id": "C0284",
+  "name": "Bence Juhász",
+  "email": "customer0284@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-08-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0285",
+  "name": "Gabriella Dubois",
+  "email": "customer0285@example.com",
+  "allergy_codes": [
+   "EGG",
+   "FSH",
+   "MLK"
+  ],
+  "created_at": "2024-04-29T12:00:00+00:00"
+ },
+ {
+  "id": "C0286",
+  "name": "Lukas Szabó",
+  "email": "customer0286@example.com",
+  "allergy_codes": [
+   "MLK",
+   "SOY"
+  ],
+  "created_at": "2024-05-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0287",
+  "name": "Elena Müller",
+  "email": "customer0287@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-02-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0288",
+  "name": "Lili Juhász",
+  "email": "customer0288@example.com",
+  "allergy_codes": [
+   "MUS"
+  ],
+  "created_at": "2026-05-01T12:00:00+00:00"
+ },
+ {
+  "id": "C0289",
+  "name": "Gabriella Papp",
+  "email": "customer0289@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-10-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0290",
+  "name": "Lili Müller",
+  "email": "customer0290@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-10-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0291",
+  "name": "Marcell Lakatos",
+  "email": "customer0291@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-01-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0292",
+  "name": "Réka Müller",
+  "email": "customer0292@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-12-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0293",
+  "name": "Eszter Silva",
+  "email": "customer0293@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-01-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0294",
+  "name": "Noah Mészáros",
+  "email": "customer0294@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-05-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0295",
+  "name": "Mateo Varga",
+  "email": "customer0295@example.com",
+  "allergy_codes": [
+   "CRU"
+  ],
+  "created_at": "2025-12-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0296",
+  "name": "Hanna Balogh",
+  "email": "customer0296@example.com",
+  "allergy_codes": [
+   "CEL",
+   "EGG",
+   "GLU",
+   "NUT"
+  ],
+  "created_at": "2026-03-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0297",
+  "name": "Zsófia Kowalski",
+  "email": "customer0297@example.com",
+  "allergy_codes": [
+   "SES"
+  ],
+  "created_at": "2024-10-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0298",
+  "name": "Ádám Nagy",
+  "email": "customer0298@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-12-17T12:00:00+00:00"
+ },
+ {
+  "id": "C0299",
+  "name": "Clara Rossi",
+  "email": "customer0299@example.com",
+  "allergy_codes": [
+   "EGG",
+   "GLU",
+   "NUT"
+  ],
+  "created_at": "2026-08-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0300",
+  "name": "Ines Novak",
+  "email": "customer0300@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-04-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0301",
+  "name": "Noémi Novak",
+  "email": "customer0301@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-12-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0302",
+  "name": "Dóra Mészáros",
+  "email": "customer0302@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2025-11-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0303",
+  "name": "Emma Kiss",
+  "email": "customer0303@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0304",
+  "name": "Noah Lakatos",
+  "email": "customer0304@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-08-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0305",
+  "name": "Csilla Oláh",
+  "email": "customer0305@example.com",
+  "allergy_codes": [
+   "EGG",
+   "GLU"
+  ],
+  "created_at": "2024-06-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0306",
+  "name": "Ádám Molnár",
+  "email": "customer0306@example.com",
+  "allergy_codes": [
+   "CRU",
+   "FSH",
+   "GLU",
+   "SOY"
+  ],
+  "created_at": "2026-02-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0307",
+  "name": "Olivér Dubois",
+  "email": "customer0307@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0308",
+  "name": "Emma Oláh",
+  "email": "customer0308@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2025-10-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0309",
+  "name": "Anna Tóth",
+  "email": "customer0309@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-04-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0310",
+  "name": "László Kovács",
+  "email": "customer0310@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0311",
+  "name": "Marcell Molnár",
+  "email": "customer0311@example.com",
+  "allergy_codes": [
+   "MLK",
+   "PNT"
+  ],
+  "created_at": "2025-03-31T12:00:00+00:00"
+ },
+ {
+  "id": "C0312",
+  "name": "Viktória Farkas",
+  "email": "customer0312@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-03-17T12:00:00+00:00"
+ },
+ {
+  "id": "C0313",
+  "name": "Kata Fekete",
+  "email": "customer0313@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2025-12-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0314",
+  "name": "Mateo Lakatos",
+  "email": "customer0314@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0315",
+  "name": "Liam Tóth",
+  "email": "customer0315@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-08-29T12:00:00+00:00"
+ },
+ {
+  "id": "C0316",
+  "name": "Judit Mészáros",
+  "email": "customer0316@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-06-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0317",
+  "name": "Ines García",
+  "email": "customer0317@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-06-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0318",
+  "name": "Liam Nagy",
+  "email": "customer0318@example.com",
+  "allergy_codes": [
+   "FSH"
+  ],
+  "created_at": "2024-07-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0319",
+  "name": "Ferenc Novak",
+  "email": "customer0319@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-10-29T12:00:00+00:00"
+ },
+ {
+  "id": "C0320",
+  "name": "Kata Németh",
+  "email": "customer0320@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2025-08-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0321",
+  "name": "Viktória Farkas",
+  "email": "customer0321@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-08-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0322",
+  "name": "Ádám Horváth",
+  "email": "customer0322@example.com",
+  "allergy_codes": [
+   "PNT"
+  ],
+  "created_at": "2024-08-30T12:00:00+00:00"
+ },
+ {
+  "id": "C0323",
+  "name": "István Brown",
+  "email": "customer0323@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-02-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0324",
+  "name": "Lukas García",
+  "email": "customer0324@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-08-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0325",
+  "name": "Lili Brown",
+  "email": "customer0325@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-07-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0326",
+  "name": "Gergő Takács",
+  "email": "customer0326@example.com",
+  "allergy_codes": [
+   "EGG",
+   "MLK",
+   "NUT",
+   "PNT"
+  ],
+  "created_at": "2025-01-30T12:00:00+00:00"
+ },
+ {
+  "id": "C0327",
+  "name": "Noémi Németh",
+  "email": "customer0327@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-07-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0328",
+  "name": "Dániel Müller",
+  "email": "customer0328@example.com",
+  "allergy_codes": [
+   "EGG",
+   "GLU",
+   "NUT",
+   "SOY"
+  ],
+  "created_at": "2025-08-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0329",
+  "name": "Bence Rossi",
+  "email": "customer0329@example.com",
+  "allergy_codes": [
+   "CEL",
+   "GLU",
+   "NUT",
+   "SOY"
+  ],
+  "created_at": "2024-10-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0330",
+  "name": "Viktória Schmidt",
+  "email": "customer0330@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2026-04-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0331",
+  "name": "Noah Rácz",
+  "email": "customer0331@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-10-23T12:00:00+00:00"
+ },
+ {
+  "id": "C0332",
+  "name": "Emma Takács",
+  "email": "customer0332@example.com",
+  "allergy_codes": [
+   "MLK",
+   "SOY"
+  ],
+  "created_at": "2024-09-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0333",
+  "name": "Maja Brown",
+  "email": "customer0333@example.com",
+  "allergy_codes": [
+   "SES"
+  ],
+  "created_at": "2026-02-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0334",
+  "name": "Tamás Oláh",
+  "email": "customer0334@example.com",
+  "allergy_codes": [
+   "FSH",
+   "GLU"
+  ],
+  "created_at": "2025-03-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0335",
+  "name": "Tamás García",
+  "email": "customer0335@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2025-07-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0336",
+  "name": "Ferenc Szabó",
+  "email": "customer0336@example.com",
+  "allergy_codes": [
+   "CEL"
+  ],
+  "created_at": "2024-11-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0337",
+  "name": "István Németh",
+  "email": "customer0337@example.com",
+  "allergy_codes": [
+   "CRU"
+  ],
+  "created_at": "2024-07-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0338",
+  "name": "Lili Rossi",
+  "email": "customer0338@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-10-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0339",
+  "name": "Judit Jensen",
+  "email": "customer0339@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-04-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0340",
+  "name": "Eszter Novak",
+  "email": "customer0340@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0341",
+  "name": "Máté Müller",
+  "email": "customer0341@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-11-10T12:00:00+00:00"
+ },
+ {
+  "id": "C0342",
+  "name": "Dóra Varga",
+  "email": "customer0342@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2024-09-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0343",
+  "name": "Sofia Varga",
+  "email": "customer0343@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-04-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0344",
+  "name": "László Németh",
+  "email": "customer0344@example.com",
+  "allergy_codes": [
+   "GLU",
+   "PNT",
+   "SOY"
+  ],
+  "created_at": "2025-07-10T12:00:00+00:00"
+ },
+ {
+  "id": "C0345",
+  "name": "Ines Szabó",
+  "email": "customer0345@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0346",
+  "name": "Sándor Tóth",
+  "email": "customer0346@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-08-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0347",
+  "name": "Eszter Balogh",
+  "email": "customer0347@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-08-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0348",
+  "name": "Gabriella Nagy",
+  "email": "customer0348@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2026-07-01T12:00:00+00:00"
+ },
+ {
+  "id": "C0349",
+  "name": "Anna Schmidt",
+  "email": "customer0349@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-01-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0350",
+  "name": "Marcell Oláh",
+  "email": "customer0350@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2024-06-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0351",
+  "name": "Noah Oláh",
+  "email": "customer0351@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-07-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0352",
+  "name": "Sofia Mészáros",
+  "email": "customer0352@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-07-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0353",
+  "name": "Noémi Balogh",
+  "email": "customer0353@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-08-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0354",
+  "name": "Zsófia Jensen",
+  "email": "customer0354@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2025-12-30T12:00:00+00:00"
+ },
+ {
+  "id": "C0355",
+  "name": "Gabriella Nagy",
+  "email": "customer0355@example.com",
+  "allergy_codes": [
+   "EGG",
+   "MOL",
+   "NUT",
+   "SES"
+  ],
+  "created_at": "2025-05-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0356",
+  "name": "Noah Szabó",
+  "email": "customer0356@example.com",
+  "allergy_codes": [
+   "MLK",
+   "SES",
+   "SOY"
+  ],
+  "created_at": "2025-03-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0357",
+  "name": "Olivér Papp",
+  "email": "customer0357@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-05-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0358",
+  "name": "Liam Oláh",
+  "email": "customer0358@example.com",
+  "allergy_codes": [
+   "EGG"
+  ],
+  "created_at": "2025-07-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0359",
+  "name": "Zsófia Nagy",
+  "email": "customer0359@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2024-11-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0360",
+  "name": "Csilla Dubois",
+  "email": "customer0360@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-08-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0361",
+  "name": "Zoltán Molnár",
+  "email": "customer0361@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-12-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0362",
+  "name": "Ines Dubois",
+  "email": "customer0362@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-06-10T12:00:00+00:00"
+ },
+ {
+  "id": "C0363",
+  "name": "Liam Schmidt",
+  "email": "customer0363@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0364",
+  "name": "Mateo Dubois",
+  "email": "customer0364@example.com",
+  "allergy_codes": [
+   "EGG",
+   "NUT",
+   "SES",
+   "SOY"
+  ],
+  "created_at": "2024-08-29T12:00:00+00:00"
+ },
+ {
+  "id": "C0365",
+  "name": "Hanna Mészáros",
+  "email": "customer0365@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-06-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0366",
+  "name": "Elena Kowalski",
+  "email": "customer0366@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-05-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0367",
+  "name": "Zoltán Szabó",
+  "email": "customer0367@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-04-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0368",
+  "name": "Marcell Varga",
+  "email": "customer0368@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2024-07-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0369",
+  "name": "Emma Novak",
+  "email": "customer0369@example.com",
+  "allergy_codes": [
+   "CEL",
+   "MLK",
+   "NUT",
+   "SOY"
+  ],
+  "created_at": "2025-11-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0370",
+  "name": "Petra Schmidt",
+  "email": "customer0370@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-05-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0371",
+  "name": "Mateo Novak",
+  "email": "customer0371@example.com",
+  "allergy_codes": [
+   "MLK",
+   "PNT",
+   "SES",
+   "SOY"
+  ],
+  "created_at": "2024-12-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0372",
+  "name": "Ádám Takács",
+  "email": "customer0372@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-08-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0373",
+  "name": "Elena Kowalski",
+  "email": "customer0373@example.com",
+  "allergy_codes": [
+   "SOY"
+  ],
+  "created_at": "2025-06-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0374",
+  "name": "Gergő Farkas",
+  "email": "customer0374@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2026-06-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0375",
+  "name": "Ádám García",
+  "email": "customer0375@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-01-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0376",
+  "name": "Emma Rácz",
+  "email": "customer0376@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK",
+   "MUS",
+   "PNT"
+  ],
+  "created_at": "2024-08-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0377",
+  "name": "Dániel Rácz",
+  "email": "customer0377@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-03-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0378",
+  "name": "Emma Juhász",
+  "email": "customer0378@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-10-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0379",
+  "name": "Hanna Oláh",
+  "email": "customer0379@example.com",
+  "allergy_codes": [
+   "CRU"
+  ],
+  "created_at": "2024-10-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0380",
+  "name": "Lili Nagy",
+  "email": "customer0380@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2025-02-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0381",
+  "name": "Sofia Schmidt",
+  "email": "customer0381@example.com",
+  "allergy_codes": [
+   "FSH",
+   "MLK",
+   "MUS"
+  ],
+  "created_at": "2025-05-23T12:00:00+00:00"
+ },
+ {
+  "id": "C0382",
+  "name": "Sándor Horváth",
+  "email": "customer0382@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-07-29T12:00:00+00:00"
+ },
+ {
+  "id": "C0383",
+  "name": "Csilla Fekete",
+  "email": "customer0383@example.com",
+  "allergy_codes": [
+   "CRU"
+  ],
+  "created_at": "2025-10-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0384",
+  "name": "Gergő Németh",
+  "email": "customer0384@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-04-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0385",
+  "name": "Marcell Mészáros",
+  "email": "customer0385@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2025-11-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0386",
+  "name": "Ádám Horváth",
+  "email": "customer0386@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2024-05-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0387",
+  "name": "Nóra Rossi",
+  "email": "customer0387@example.com",
+  "allergy_codes": [
+   "FSH"
+  ],
+  "created_at": "2024-08-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0388",
+  "name": "Kata Kowalski",
+  "email": "customer0388@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-04-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0389",
+  "name": "Judit Nagy",
+  "email": "customer0389@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2025-02-17T12:00:00+00:00"
+ },
+ {
+  "id": "C0390",
+  "name": "Noémi Schmidt",
+  "email": "customer0390@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-05-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0391",
+  "name": "László Rossi",
+  "email": "customer0391@example.com",
+  "allergy_codes": [
+   "GLU",
+   "NUT",
+   "PNT"
+  ],
+  "created_at": "2025-02-17T12:00:00+00:00"
+ },
+ {
+  "id": "C0392",
+  "name": "Hanna Balogh",
+  "email": "customer0392@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-07-23T12:00:00+00:00"
+ },
+ {
+  "id": "C0393",
+  "name": "Dániel Kowalski",
+  "email": "customer0393@example.com",
+  "allergy_codes": [
+   "SES"
+  ],
+  "created_at": "2024-09-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0394",
+  "name": "Judit Rácz",
+  "email": "customer0394@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-04-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0395",
+  "name": "Liam Farkas",
+  "email": "customer0395@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-04-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0396",
+  "name": "László García",
+  "email": "customer0396@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0397",
+  "name": "Mateo Szabó",
+  "email": "customer0397@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-10-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0398",
+  "name": "Emma Juhász",
+  "email": "customer0398@example.com",
+  "allergy_codes": [
+   "SES"
+  ],
+  "created_at": "2024-10-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0399",
+  "name": "Kata Kovács",
+  "email": "customer0399@example.com",
+  "allergy_codes": [
+   "MLK",
+   "MOL"
+  ],
+  "created_at": "2026-05-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0400",
+  "name": "Olivér Kovács",
+  "email": "customer0400@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK",
+   "NUT",
+   "SOY"
+  ],
+  "created_at": "2026-05-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0401",
+  "name": "Sofia Farkas",
+  "email": "customer0401@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0402",
+  "name": "Emma Novak",
+  "email": "customer0402@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2024-09-23T12:00:00+00:00"
+ },
+ {
+  "id": "C0403",
+  "name": "Zoltán Papp",
+  "email": "customer0403@example.com",
+  "allergy_codes": [
+   "CRU",
+   "EGG",
+   "GLU",
+   "SES"
+  ],
+  "created_at": "2026-08-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0404",
+  "name": "Ferenc Szabó",
+  "email": "customer0404@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-04-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0405",
+  "name": "Nóra Nagy",
+  "email": "customer0405@example.com",
+  "allergy_codes": [
+   "CEL"
+  ],
+  "created_at": "2025-01-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0406",
+  "name": "Réka Rossi",
+  "email": "customer0406@example.com",
+  "allergy_codes": [
+   "PNT"
+  ],
+  "created_at": "2024-07-30T12:00:00+00:00"
+ },
+ {
+  "id": "C0407",
+  "name": "Clara Varga",
+  "email": "customer0407@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-08-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0408",
+  "name": "Noémi Farkas",
+  "email": "customer0408@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-01-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0409",
+  "name": "Zsófia Tóth",
+  "email": "customer0409@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-01T12:00:00+00:00"
+ },
+ {
+  "id": "C0410",
+  "name": "Gergő Novak",
+  "email": "customer0410@example.com",
+  "allergy_codes": [
+   "FSH",
+   "MLK",
+   "PNT",
+   "SOY"
+  ],
+  "created_at": "2024-07-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0411",
+  "name": "Gergő Varga",
+  "email": "customer0411@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-12-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0412",
+  "name": "Zoltán Dubois",
+  "email": "customer0412@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2025-10-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0413",
+  "name": "Hanna Rácz",
+  "email": "customer0413@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-02-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0414",
+  "name": "Petra Kowalski",
+  "email": "customer0414@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2024-07-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0415",
+  "name": "Gergő Oláh",
+  "email": "customer0415@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-10-31T12:00:00+00:00"
+ },
+ {
+  "id": "C0416",
+  "name": "Jonas Varga",
+  "email": "customer0416@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-06-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0417",
+  "name": "Sándor Schmidt",
+  "email": "customer0417@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK",
+   "MUS",
+   "PNT"
+  ],
+  "created_at": "2025-03-04T12:00:00+00:00"
+ },
+ {
+  "id": "C0418",
+  "name": "Mateo Mészáros",
+  "email": "customer0418@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0419",
+  "name": "Bálint Fekete",
+  "email": "customer0419@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-02-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0420",
+  "name": "Gabriella Schmidt",
+  "email": "customer0420@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-05-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0421",
+  "name": "Csilla Kiss",
+  "email": "customer0421@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-04-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0422",
+  "name": "Marcell Horváth",
+  "email": "customer0422@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-12-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0423",
+  "name": "Réka Horváth",
+  "email": "customer0423@example.com",
+  "allergy_codes": [
+   "PNT"
+  ],
+  "created_at": "2024-08-16T12:00:00+00:00"
+ },
+ {
+  "id": "C0424",
+  "name": "Petra Németh",
+  "email": "customer0424@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2025-08-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0425",
+  "name": "Viktória Tóth",
+  "email": "customer0425@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2025-12-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0426",
+  "name": "István Simon",
+  "email": "customer0426@example.com",
+  "allergy_codes": [
+   "MUS"
+  ],
+  "created_at": "2026-02-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0427",
+  "name": "Réka Müller",
+  "email": "customer0427@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0428",
+  "name": "Mateo Schmidt",
+  "email": "customer0428@example.com",
+  "allergy_codes": [
+   "SOY"
+  ],
+  "created_at": "2024-11-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0429",
+  "name": "Emma Nagy",
+  "email": "customer0429@example.com",
+  "allergy_codes": [
+   "CRU",
+   "FSH",
+   "GLU",
+   "MLK"
+  ],
+  "created_at": "2024-12-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0430",
+  "name": "Réka Szabó",
+  "email": "customer0430@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-03-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0431",
+  "name": "Elena Juhász",
+  "email": "customer0431@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-06-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0432",
+  "name": "Ferenc Papp",
+  "email": "customer0432@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-09-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0433",
+  "name": "Nóra Németh",
+  "email": "customer0433@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2026-08-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0434",
+  "name": "Nóra Takács",
+  "email": "customer0434@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-05-17T12:00:00+00:00"
+ },
+ {
+  "id": "C0435",
+  "name": "Maja García",
+  "email": "customer0435@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2025-10-23T12:00:00+00:00"
+ },
+ {
+  "id": "C0436",
+  "name": "Gabriella Oláh",
+  "email": "customer0436@example.com",
+  "allergy_codes": [
+   "CRU"
+  ],
+  "created_at": "2025-09-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0437",
+  "name": "Elena Németh",
+  "email": "customer0437@example.com",
+  "allergy_codes": [
+   "SES"
+  ],
+  "created_at": "2024-12-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0438",
+  "name": "Dániel Varga",
+  "email": "customer0438@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-10-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0439",
+  "name": "Jonas Simon",
+  "email": "customer0439@example.com",
+  "allergy_codes": [
+   "CRU",
+   "EGG",
+   "MLK"
+  ],
+  "created_at": "2025-01-01T12:00:00+00:00"
+ },
+ {
+  "id": "C0440",
+  "name": "István Schmidt",
+  "email": "customer0440@example.com",
+  "allergy_codes": [
+   "MLK",
+   "NUT",
+   "PNT"
+  ],
+  "created_at": "2026-04-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0441",
+  "name": "Mateo García",
+  "email": "customer0441@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-12-02T12:00:00+00:00"
+ },
+ {
+  "id": "C0442",
+  "name": "Dóra Rossi",
+  "email": "customer0442@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-06-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0443",
+  "name": "Noah Juhász",
+  "email": "customer0443@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0444",
+  "name": "Zoltán Papp",
+  "email": "customer0444@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-06-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0445",
+  "name": "Sándor Németh",
+  "email": "customer0445@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-06-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0446",
+  "name": "Nóra Farkas",
+  "email": "customer0446@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0447",
+  "name": "Ferenc Tóth",
+  "email": "customer0447@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK",
+   "NUT"
+  ],
+  "created_at": "2024-08-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0448",
+  "name": "Ferenc Varga",
+  "email": "customer0448@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-01-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0449",
+  "name": "Sándor Simon",
+  "email": "customer0449@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-04-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0450",
+  "name": "Noémi Schmidt",
+  "email": "customer0450@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2025-03-30T12:00:00+00:00"
+ },
+ {
+  "id": "C0451",
+  "name": "Jonas Rossi",
+  "email": "customer0451@example.com",
+  "allergy_codes": [
+   "NUT",
+   "PNT"
+  ],
+  "created_at": "2026-04-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0452",
+  "name": "Ines Kiss",
+  "email": "customer0452@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-05-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0453",
+  "name": "Jonas García",
+  "email": "customer0453@example.com",
+  "allergy_codes": [
+   "SOY"
+  ],
+  "created_at": "2025-09-13T12:00:00+00:00"
+ },
+ {
+  "id": "C0454",
+  "name": "Maja Schmidt",
+  "email": "customer0454@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-12-17T12:00:00+00:00"
+ },
+ {
+  "id": "C0455",
+  "name": "Zoltán Varga",
+  "email": "customer0455@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-10-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0456",
+  "name": "Dániel Juhász",
+  "email": "customer0456@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK",
+   "NUT",
+   "SES"
+  ],
+  "created_at": "2025-04-12T12:00:00+00:00"
+ },
+ {
+  "id": "C0457",
+  "name": "Dóra Szabó",
+  "email": "customer0457@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-09-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0458",
+  "name": "Sándor Farkas",
+  "email": "customer0458@example.com",
+  "allergy_codes": [
+   "FSH",
+   "SES"
+  ],
+  "created_at": "2025-04-25T12:00:00+00:00"
+ },
+ {
+  "id": "C0459",
+  "name": "Marcell Nagy",
+  "email": "customer0459@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-08-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0460",
+  "name": "Tamás Brown",
+  "email": "customer0460@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2024-11-12T12:00:00+00:00"
+ },
+ {
+  "id": "C0461",
+  "name": "Csilla Brown",
+  "email": "customer0461@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-05-15T12:00:00+00:00"
+ },
+ {
+  "id": "C0462",
+  "name": "Gabriella Nagy",
+  "email": "customer0462@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK",
+   "NUT"
+  ],
+  "created_at": "2025-09-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0463",
+  "name": "Noémi Mészáros",
+  "email": "customer0463@example.com",
+  "allergy_codes": [
+   "MLK",
+   "NUT"
+  ],
+  "created_at": "2026-02-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0464",
+  "name": "Lukas Silva",
+  "email": "customer0464@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-03-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0465",
+  "name": "Sofia Nagy",
+  "email": "customer0465@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-03-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0466",
+  "name": "Liam Takács",
+  "email": "customer0466@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2025-08-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0467",
+  "name": "Noémi Silva",
+  "email": "customer0467@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-02-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0468",
+  "name": "Réka Szabó",
+  "email": "customer0468@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-06-09T12:00:00+00:00"
+ },
+ {
+  "id": "C0469",
+  "name": "Hanna Papp",
+  "email": "customer0469@example.com",
+  "allergy_codes": [
+   "NUT"
+  ],
+  "created_at": "2024-07-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0470",
+  "name": "Bálint Silva",
+  "email": "customer0470@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-09-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0471",
+  "name": "László Farkas",
+  "email": "customer0471@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-07-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0472",
+  "name": "Máté García",
+  "email": "customer0472@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-09-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0473",
+  "name": "Réka Szabó",
+  "email": "customer0473@example.com",
+  "allergy_codes": [
+   "EGG",
+   "MUS"
+  ],
+  "created_at": "2025-06-27T12:00:00+00:00"
+ },
+ {
+  "id": "C0474",
+  "name": "Sofia Dubois",
+  "email": "customer0474@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-10-03T12:00:00+00:00"
+ },
+ {
+  "id": "C0475",
+  "name": "Lili Oláh",
+  "email": "customer0475@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2024-08-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0476",
+  "name": "Hanna Horváth",
+  "email": "customer0476@example.com",
+  "allergy_codes": [
+   "CRU",
+   "MLK",
+   "SUL"
+  ],
+  "created_at": "2025-09-14T12:00:00+00:00"
+ },
+ {
+  "id": "C0477",
+  "name": "Olivér Kovács",
+  "email": "customer0477@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-10-07T12:00:00+00:00"
+ },
+ {
+  "id": "C0478",
+  "name": "Sándor Farkas",
+  "email": "customer0478@example.com",
+  "allergy_codes": [
+   "MOL",
+   "NUT",
+   "SOY"
+  ],
+  "created_at": "2025-04-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0479",
+  "name": "Noémi Molnár",
+  "email": "customer0479@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-12-08T12:00:00+00:00"
+ },
+ {
+  "id": "C0480",
+  "name": "Lukas Varga",
+  "email": "customer0480@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-12-20T12:00:00+00:00"
+ },
+ {
+  "id": "C0481",
+  "name": "Gergő Kowalski",
+  "email": "customer0481@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-12-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0482",
+  "name": "Liam Rossi",
+  "email": "customer0482@example.com",
+  "allergy_codes": [
+   "EGG",
+   "NUT"
+  ],
+  "created_at": "2024-06-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0483",
+  "name": "Lukas Fekete",
+  "email": "customer0483@example.com",
+  "allergy_codes": [
+   "SOY"
+  ],
+  "created_at": "2026-02-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0484",
+  "name": "Clara Müller",
+  "email": "customer0484@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0485",
+  "name": "Gergő Horváth",
+  "email": "customer0485@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-07-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0486",
+  "name": "László Brown",
+  "email": "customer0486@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-04-05T12:00:00+00:00"
+ },
+ {
+  "id": "C0487",
+  "name": "Ines Kiss",
+  "email": "customer0487@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-05-31T12:00:00+00:00"
+ },
+ {
+  "id": "C0488",
+  "name": "Nóra Molnár",
+  "email": "customer0488@example.com",
+  "allergy_codes": [
+   "EGG",
+   "GLU",
+   "NUT"
+  ],
+  "created_at": "2025-09-22T12:00:00+00:00"
+ },
+ {
+  "id": "C0489",
+  "name": "Dániel Oláh",
+  "email": "customer0489@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-06-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0490",
+  "name": "Réka Papp",
+  "email": "customer0490@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2025-11-18T12:00:00+00:00"
+ },
+ {
+  "id": "C0491",
+  "name": "Marcell Farkas",
+  "email": "customer0491@example.com",
+  "allergy_codes": [
+   "GLU",
+   "MLK",
+   "NUT",
+   "SOY"
+  ],
+  "created_at": "2025-05-06T12:00:00+00:00"
+ },
+ {
+  "id": "C0492",
+  "name": "Noah Szabó",
+  "email": "customer0492@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-06-17T12:00:00+00:00"
+ },
+ {
+  "id": "C0493",
+  "name": "Sofia Papp",
+  "email": "customer0493@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-09-24T12:00:00+00:00"
+ },
+ {
+  "id": "C0494",
+  "name": "Gabriella Schmidt",
+  "email": "customer0494@example.com",
+  "allergy_codes": [],
+  "created_at": "2026-08-19T12:00:00+00:00"
+ },
+ {
+  "id": "C0495",
+  "name": "Hanna Balogh",
+  "email": "customer0495@example.com",
+  "allergy_codes": [
+   "CRU"
+  ],
+  "created_at": "2025-08-28T12:00:00+00:00"
+ },
+ {
+  "id": "C0496",
+  "name": "Clara Oláh",
+  "email": "customer0496@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2024-12-21T12:00:00+00:00"
+ },
+ {
+  "id": "C0497",
+  "name": "Réka Kiss",
+  "email": "customer0497@example.com",
+  "allergy_codes": [],
+  "created_at": "2025-01-11T12:00:00+00:00"
+ },
+ {
+  "id": "C0498",
+  "name": "Gabriella Horváth",
+  "email": "customer0498@example.com",
+  "allergy_codes": [],
+  "created_at": "2024-11-26T12:00:00+00:00"
+ },
+ {
+  "id": "C0499",
+  "name": "Clara Brown",
+  "email": "customer0499@example.com",
+  "allergy_codes": [
+   "MLK"
+  ],
+  "created_at": "2024-10-31T12:00:00+00:00"
+ },
+ {
+  "id": "C0500",
+  "name": "Zoltán Brown",
+  "email": "customer0500@example.com",
+  "allergy_codes": [
+   "GLU"
+  ],
+  "created_at": "2026-05-23T12:00:00+00:00"
+ }
+]

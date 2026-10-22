@@ -1,0 +1,58 @@
+[
+ {
+  "code": "GLU",
+  "name": "cereals containing gluten"
+ },
+ {
+  "code": "CRU",
+  "name": "crustaceans"
+ },
+ {
+  "code": "EGG",
+  "name": "eggs"
+ },
+ {
+  "code": "FSH",
+  "name": "fish"
+ },
+ {
+  "code": "PNT",
+  "name": "peanuts"
+ },
+ {
+  "code": "SOY",
+  "name": "soybeans"
+ },
+ {
+  "code": "MLK",
+  "name": "milk"
+ },
+ {
+  "code": "NUT",
+  "name": "tree nuts"
+ },
+ {
+  "code": "CEL",
+  "name": "celery"
+ },
+ {
+  "code": "MUS",
+  "name": "mustard"
+ },
+ {
+  "code": "SES",
+  "name": "sesame"
+ },
+ {
+  "code": "SUL",
+  "name": "sulphur dioxide and sulphites"
+ },
+ {
+  "code": "LUP",
+  "name": "lupin"
+ },
+ {
+  "code": "MOL",
+  "name": "molluscs"
+ }
+]

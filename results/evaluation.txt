@@ -1,0 +1,7 @@
+Safety: 20 cases (7 with several allergies), top 5, unsafe = live Neo4j allergens of the recipe intersect the allergy list
+  pgvector  unsafe recipes returned: 0 of 100
+  Qdrant    unsafe recipes returned: 0 of 100
+
+Relevance: 20 labelled requests, no allergy filter
+  pgvector  recall@5 0.800  MRR@10 0.875  requests with no relevant recipe in top 5: ['L12']
+  Qdrant    recall@5 0.800  MRR@10 0.875  requests with no relevant recipe in top 5: ['L12']

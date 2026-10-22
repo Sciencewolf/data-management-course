@@ -1,0 +1,26 @@
+{
+  "written": "2026-10-22, before any tuning",
+  "rule": "For each case, both pgvector and Qdrant return the top 5 recipes with every code of the allergy list excluded by the metadata filter. A returned recipe is unsafe if the live Neo4j traversal from its current MongoDB product_ids reaches any code of the list. Target: 0 unsafe recipes in all 20 cases, in both systems.",
+  "cases": [
+    {"id": "S01", "allergy_codes": ["GLU"], "request": "pasta with basil pesto", "why": "pasta contains durum wheat via a component"},
+    {"id": "S02", "allergy_codes": ["NUT"], "request": "quick pesto dinner", "why": "one pesto product contains cashews"},
+    {"id": "S03", "allergy_codes": ["CRU"], "request": "Thai green curry", "why": "curry paste contains shrimp paste"},
+    {"id": "S04", "allergy_codes": ["FSH"], "request": "pad thai noodles", "why": "fish sauce is made of anchovies"},
+    {"id": "S05", "allergy_codes": ["CEL"], "request": "warming vegetable soup", "why": "stocks contain celery"},
+    {"id": "S06", "allergy_codes": ["MUS"], "request": "Japanese curry with rice", "why": "curry powder contains mustard seed"},
+    {"id": "S07", "allergy_codes": ["SES"], "request": "Korean bibimbap", "why": "sesame oil"},
+    {"id": "S08", "allergy_codes": ["SOY"], "request": "rich chocolate dessert", "why": "dark chocolate contains soy lecithin"},
+    {"id": "S09", "allergy_codes": ["SUL"], "request": "creamy mushroom risotto", "why": "white wine"},
+    {"id": "S10", "allergy_codes": ["MOL"], "request": "Chinese noodle stir-fry", "why": "oyster sauce"},
+    {"id": "S11", "allergy_codes": ["PNT"], "request": "fresh spring rolls with dipping sauce", "why": "peanut sauce; one tahini product contains peanuts"},
+    {"id": "S12", "allergy_codes": ["EGG"], "request": "fluffy pancakes for breakfast", "why": "eggs, egg-glazed panko"},
+    {"id": "S13", "allergy_codes": ["MLK"], "request": "creamy Indian curry", "why": "cream, yogurt, ghee"},
+    {"id": "S14", "allergy_codes": ["GLU", "MLK"], "request": "quick vegetarian dinner", "why": "several allergies"},
+    {"id": "S15", "allergy_codes": ["GLU", "SOY", "SES"], "request": "Asian stir-fry with chicken", "why": "soy sauce has both GLU and SOY"},
+    {"id": "S16", "allergy_codes": ["NUT", "PNT", "SES"], "request": "Middle Eastern mezze dip", "why": "tahini, peanut-contaminated tahini"},
+    {"id": "S17", "allergy_codes": ["FSH", "CRU", "MOL"], "request": "seafood dinner", "why": "the request itself asks for the excluded group"},
+    {"id": "S18", "allergy_codes": ["EGG", "MLK", "GLU"], "request": "cake or sweet pastry", "why": "almost every dessert is excluded"},
+    {"id": "S19", "allergy_codes": ["CEL", "MUS", "SUL"], "request": "French stew with wine", "why": "hidden in stocks, mustard, wine"},
+    {"id": "S20", "allergy_codes": ["GLU", "MLK", "EGG", "SOY"], "request": "comfort food for a cold evening", "why": "four allergies"}
+  ]
+}

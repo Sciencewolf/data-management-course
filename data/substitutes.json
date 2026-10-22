@@ -1,0 +1,366 @@
+[
+ {
+  "ingredient_id": "butter",
+  "substitute_id": "vegan_butter"
+ },
+ {
+  "ingredient_id": "butter",
+  "substitute_id": "olive_oil"
+ },
+ {
+  "ingredient_id": "ghee",
+  "substitute_id": "coconut_oil"
+ },
+ {
+  "ingredient_id": "milk",
+  "substitute_id": "oat_drink"
+ },
+ {
+  "ingredient_id": "milk",
+  "substitute_id": "gf_oat_drink"
+ },
+ {
+  "ingredient_id": "milk",
+  "substitute_id": "soy_drink"
+ },
+ {
+  "ingredient_id": "milk",
+  "substitute_id": "rice_drink"
+ },
+ {
+  "ingredient_id": "cream",
+  "substitute_id": "coconut_cream"
+ },
+ {
+  "ingredient_id": "sour_cream",
+  "substitute_id": "coconut_yogurt"
+ },
+ {
+  "ingredient_id": "yogurt",
+  "substitute_id": "coconut_yogurt"
+ },
+ {
+  "ingredient_id": "parmesan",
+  "substitute_id": "nutritional_yeast"
+ },
+ {
+  "ingredient_id": "mozzarella",
+  "substitute_id": "vegan_cheese"
+ },
+ {
+  "ingredient_id": "feta",
+  "substitute_id": "vegan_cheese"
+ },
+ {
+  "ingredient_id": "cheddar",
+  "substitute_id": "vegan_cheese"
+ },
+ {
+  "ingredient_id": "gruyere",
+  "substitute_id": "vegan_cheese"
+ },
+ {
+  "ingredient_id": "mascarpone",
+  "substitute_id": "coconut_cream"
+ },
+ {
+  "ingredient_id": "curd_cheese",
+  "substitute_id": "tofu"
+ },
+ {
+  "ingredient_id": "halloumi",
+  "substitute_id": "tofu"
+ },
+ {
+  "ingredient_id": "paneer",
+  "substitute_id": "tofu"
+ },
+ {
+  "ingredient_id": "paneer",
+  "substitute_id": "chickpeas"
+ },
+ {
+  "ingredient_id": "egg",
+  "substitute_id": "flaxseed"
+ },
+ {
+  "ingredient_id": "wheat_flour",
+  "substitute_id": "rice_flour"
+ },
+ {
+  "ingredient_id": "wheat_flour",
+  "substitute_id": "buckwheat_flour"
+ },
+ {
+  "ingredient_id": "pasta",
+  "substitute_id": "rice_pasta"
+ },
+ {
+  "ingredient_id": "pasta",
+  "substitute_id": "chickpea_pasta"
+ },
+ {
+  "ingredient_id": "egg_pasta",
+  "substitute_id": "rice_pasta"
+ },
+ {
+  "ingredient_id": "egg_noodles",
+  "substitute_id": "rice_noodles"
+ },
+ {
+  "ingredient_id": "udon",
+  "substitute_id": "rice_noodles"
+ },
+ {
+  "ingredient_id": "bread",
+  "substitute_id": "gf_bread"
+ },
+ {
+  "ingredient_id": "rye_bread",
+  "substitute_id": "gf_bread"
+ },
+ {
+  "ingredient_id": "pita",
+  "substitute_id": "corn_tortilla"
+ },
+ {
+  "ingredient_id": "naan",
+  "substitute_id": "corn_tortilla"
+ },
+ {
+  "ingredient_id": "wheat_tortilla",
+  "substitute_id": "corn_tortilla"
+ },
+ {
+  "ingredient_id": "couscous",
+  "substitute_id": "quinoa"
+ },
+ {
+  "ingredient_id": "bulgur",
+  "substitute_id": "quinoa"
+ },
+ {
+  "ingredient_id": "breadcrumbs",
+  "substitute_id": "polenta"
+ },
+ {
+  "ingredient_id": "seitan",
+  "substitute_id": "tofu"
+ },
+ {
+  "ingredient_id": "seitan",
+  "substitute_id": "chickpeas"
+ },
+ {
+  "ingredient_id": "sausage",
+  "substitute_id": "gf_sausage"
+ },
+ {
+  "ingredient_id": "oats",
+  "substitute_id": "gf_oats"
+ },
+ {
+  "ingredient_id": "soy_sauce",
+  "substitute_id": "tamari"
+ },
+ {
+  "ingredient_id": "soy_sauce",
+  "substitute_id": "coconut_aminos"
+ },
+ {
+  "ingredient_id": "fish_sauce",
+  "substitute_id": "coconut_aminos"
+ },
+ {
+  "ingredient_id": "fish_sauce",
+  "substitute_id": "soy_sauce"
+ },
+ {
+  "ingredient_id": "oyster_sauce",
+  "substitute_id": "hoisin"
+ },
+ {
+  "ingredient_id": "oyster_sauce",
+  "substitute_id": "coconut_aminos"
+ },
+ {
+  "ingredient_id": "hoisin",
+  "substitute_id": "coconut_aminos"
+ },
+ {
+  "ingredient_id": "miso",
+  "substitute_id": "chickpea_miso"
+ },
+ {
+  "ingredient_id": "worcestershire",
+  "substitute_id": "tamari"
+ },
+ {
+  "ingredient_id": "worcestershire",
+  "substitute_id": "coconut_aminos"
+ },
+ {
+  "ingredient_id": "red_curry_paste",
+  "substitute_id": "vegan_curry_paste"
+ },
+ {
+  "ingredient_id": "green_curry_paste",
+  "substitute_id": "vegan_curry_paste"
+ },
+ {
+  "ingredient_id": "curry_powder",
+  "substitute_id": "garam_masala"
+ },
+ {
+  "ingredient_id": "peanuts",
+  "substitute_id": "sunflower_seeds"
+ },
+ {
+  "ingredient_id": "peanuts",
+  "substitute_id": "cashews"
+ },
+ {
+  "ingredient_id": "peanut_butter",
+  "substitute_id": "sunflower_butter"
+ },
+ {
+  "ingredient_id": "peanut_butter",
+  "substitute_id": "tahini"
+ },
+ {
+  "ingredient_id": "almonds",
+  "substitute_id": "pumpkin_seeds"
+ },
+ {
+  "ingredient_id": "cashews",
+  "substitute_id": "sunflower_seeds"
+ },
+ {
+  "ingredient_id": "walnuts",
+  "substitute_id": "pumpkin_seeds"
+ },
+ {
+  "ingredient_id": "pistachios",
+  "substitute_id": "pumpkin_seeds"
+ },
+ {
+  "ingredient_id": "pine_nuts",
+  "substitute_id": "sunflower_seeds"
+ },
+ {
+  "ingredient_id": "tahini",
+  "substitute_id": "sunflower_butter"
+ },
+ {
+  "ingredient_id": "sesame",
+  "substitute_id": "pumpkin_seeds"
+ },
+ {
+  "ingredient_id": "sesame_oil",
+  "substitute_id": "sunflower_oil"
+ },
+ {
+  "ingredient_id": "shrimp",
+  "substitute_id": "chicken"
+ },
+ {
+  "ingredient_id": "shrimp",
+  "substitute_id": "tofu"
+ },
+ {
+  "ingredient_id": "squid",
+  "substitute_id": "shrimp"
+ },
+ {
+  "ingredient_id": "mussels",
+  "substitute_id": "white_beans"
+ },
+ {
+  "ingredient_id": "clams",
+  "substitute_id": "white_beans"
+ },
+ {
+  "ingredient_id": "salmon",
+  "substitute_id": "tofu"
+ },
+ {
+  "ingredient_id": "cod",
+  "substitute_id": "tofu"
+ },
+ {
+  "ingredient_id": "tuna",
+  "substitute_id": "chickpeas"
+ },
+ {
+  "ingredient_id": "anchovy",
+  "substitute_id": "capers"
+ },
+ {
+  "ingredient_id": "mayonnaise",
+  "substitute_id": "vegan_mayo"
+ },
+ {
+  "ingredient_id": "mayonnaise",
+  "substitute_id": "yogurt"
+ },
+ {
+  "ingredient_id": "dijon_mustard",
+  "substitute_id": "horseradish"
+ },
+ {
+  "ingredient_id": "white_wine",
+  "substitute_id": "celery_free_stock"
+ },
+ {
+  "ingredient_id": "white_wine",
+  "substitute_id": "lemon"
+ },
+ {
+  "ingredient_id": "red_wine",
+  "substitute_id": "celery_free_stock"
+ },
+ {
+  "ingredient_id": "white_wine_vinegar",
+  "substitute_id": "cider_vinegar"
+ },
+ {
+  "ingredient_id": "balsamic",
+  "substitute_id": "cider_vinegar"
+ },
+ {
+  "ingredient_id": "malt_vinegar",
+  "substitute_id": "cider_vinegar"
+ },
+ {
+  "ingredient_id": "chicken_stock",
+  "substitute_id": "celery_free_stock"
+ },
+ {
+  "ingredient_id": "vegetable_stock",
+  "substitute_id": "celery_free_stock"
+ },
+ {
+  "ingredient_id": "beef_stock",
+  "substitute_id": "celery_free_stock"
+ },
+ {
+  "ingredient_id": "celery",
+  "substitute_id": "fennel"
+ },
+ {
+  "ingredient_id": "celeriac",
+  "substitute_id": "fennel"
+ },
+ {
+  "ingredient_id": "dried_apricots",
+  "substitute_id": "dates"
+ },
+ {
+  "ingredient_id": "dark_chocolate",
+  "substitute_id": "cocoa_powder"
+ },
+ {
+  "ingredient_id": "beer",
+  "substitute_id": "cider_vinegar"
+ }
+]

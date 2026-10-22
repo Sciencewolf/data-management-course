@@ -1,0 +1,26 @@
+{
+  "written": "2026-10-22, before any tuning",
+  "use": "The 20 fixed queries run in both pgvector and Qdrant to compare HNSW top-10 with exact top-10.",
+  "queries": [
+    "quick vegetarian dinner",
+    "spicy noodle soup",
+    "something sweet for dessert",
+    "healthy salad with fresh vegetables",
+    "slow-cooked meat stew",
+    "easy breakfast with eggs",
+    "creamy pasta",
+    "street food snack",
+    "curry with coconut milk",
+    "grilled chicken with yogurt sauce",
+    "comfort food for a cold evening",
+    "light lunch sandwich",
+    "fried rice with egg",
+    "baked dish with cheese on top",
+    "fish dinner with lemon",
+    "vegan protein bowl",
+    "traditional Hungarian food",
+    "dumplings",
+    "party finger food",
+    "festive centrepiece for guests"
+  ]
+}

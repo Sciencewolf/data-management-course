@@ -1,0 +1,5537 @@
+[
+ {
+  "id": "P0001",
+  "name": "Golden Grain Wheat Flour 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "wheat_flour"
+  ],
+  "unit_price": 1429,
+  "stock": 154,
+  "updated_at": "2026-09-30T04:00:00+00:00"
+ },
+ {
+  "id": "P0002",
+  "name": "Mill & Co Wheat Flour 500 g",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "wheat_flour"
+  ],
+  "unit_price": 499,
+  "stock": 220,
+  "updated_at": "2026-09-30T20:00:00+00:00"
+ },
+ {
+  "id": "P0003",
+  "name": "Daily Basics Wheat Flour 1 kg",
+  "brand": "Daily Basics",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "wheat_flour"
+  ],
+  "unit_price": 1269,
+  "stock": 13,
+  "updated_at": "2026-09-29T15:00:00+00:00"
+ },
+ {
+  "id": "P0004",
+  "name": "Golden Grain Durum Wheat Semolina 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "durum_wheat"
+  ],
+  "unit_price": 979,
+  "stock": 20,
+  "updated_at": "2026-09-28T19:00:00+00:00"
+ },
+ {
+  "id": "P0005",
+  "name": "Golden Grain Rye Flour 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "rye_flour"
+  ],
+  "unit_price": 1099,
+  "stock": 0,
+  "updated_at": "2026-09-29T06:00:00+00:00"
+ },
+ {
+  "id": "P0006",
+  "name": "Golden Grain Barley Malt 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "barley"
+  ],
+  "unit_price": 1289,
+  "stock": 248,
+  "updated_at": "2026-09-29T13:00:00+00:00"
+ },
+ {
+  "id": "P0007",
+  "name": "Mill & Co Barley Malt 1 kg",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "barley"
+  ],
+  "unit_price": 1089,
+  "stock": 184,
+  "updated_at": "2026-09-30T16:00:00+00:00"
+ },
+ {
+  "id": "P0008",
+  "name": "Daily Basics Barley Malt 500 g",
+  "brand": "Daily Basics",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "barley"
+  ],
+  "unit_price": 869,
+  "stock": 250,
+  "updated_at": "2026-09-30T01:00:00+00:00"
+ },
+ {
+  "id": "P0009",
+  "name": "Golden Grain Rice Flour 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "rice_flour"
+  ],
+  "unit_price": 1069,
+  "stock": 201,
+  "updated_at": "2026-09-28T22:00:00+00:00"
+ },
+ {
+  "id": "P0010",
+  "name": "Golden Grain Buckwheat Flour 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "buckwheat_flour"
+  ],
+  "unit_price": 899,
+  "stock": 154,
+  "updated_at": "2026-09-30T01:00:00+00:00"
+ },
+ {
+  "id": "P0011",
+  "name": "Golden Grain Rolled Oats 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "oats"
+  ],
+  "unit_price": 739,
+  "stock": 242,
+  "updated_at": "2026-10-01T00:00:00+00:00"
+ },
+ {
+  "id": "P0012",
+  "name": "Mill & Co Rolled Oats 500 g",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "oats"
+  ],
+  "unit_price": 699,
+  "stock": 195,
+  "updated_at": "2026-09-29T00:00:00+00:00"
+ },
+ {
+  "id": "P0013",
+  "name": "Daily Basics Rolled Oats 1 kg",
+  "brand": "Daily Basics",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "oats"
+  ],
+  "unit_price": 1019,
+  "stock": 89,
+  "updated_at": "2026-10-01T08:00:00+00:00"
+ },
+ {
+  "id": "P0014",
+  "name": "Golden Grain Gluten-Free Oats 1 kg",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "gf_oats"
+  ],
+  "unit_price": 929,
+  "stock": 127,
+  "updated_at": "2026-09-30T08:00:00+00:00"
+ },
+ {
+  "id": "P0015",
+  "name": "Golden Grain Long-Grain Rice 1 kg",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "rice"
+  ],
+  "unit_price": 779,
+  "stock": 74,
+  "updated_at": "2026-09-30T00:00:00+00:00"
+ },
+ {
+  "id": "P0016",
+  "name": "Mill & Co Long-Grain Rice 500 g",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "rice"
+  ],
+  "unit_price": 999,
+  "stock": 51,
+  "updated_at": "2026-10-01T01:00:00+00:00"
+ },
+ {
+  "id": "P0017",
+  "name": "Daily Basics Long-Grain Rice 500 g",
+  "brand": "Daily Basics",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "rice"
+  ],
+  "unit_price": 659,
+  "stock": 145,
+  "updated_at": "2026-09-30T05:00:00+00:00"
+ },
+ {
+  "id": "P0018",
+  "name": "Golden Grain Basmati Rice 1 kg",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "basmati_rice"
+  ],
+  "unit_price": 1149,
+  "stock": 128,
+  "updated_at": "2026-09-29T02:00:00+00:00"
+ },
+ {
+  "id": "P0019",
+  "name": "Mill & Co Basmati Rice 1 kg",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "basmati_rice"
+  ],
+  "unit_price": 1259,
+  "stock": 59,
+  "updated_at": "2026-09-29T08:00:00+00:00"
+ },
+ {
+  "id": "P0020",
+  "name": "Daily Basics Basmati Rice 1 kg",
+  "brand": "Daily Basics",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "basmati_rice"
+  ],
+  "unit_price": 1149,
+  "stock": 151,
+  "updated_at": "2026-09-29T12:00:00+00:00"
+ },
+ {
+  "id": "P0021",
+  "name": "Golden Grain Sushi Rice 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "sushi_rice"
+  ],
+  "unit_price": 909,
+  "stock": 111,
+  "updated_at": "2026-09-28T13:00:00+00:00"
+ },
+ {
+  "id": "P0022",
+  "name": "Golden Grain Arborio Rice 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "arborio_rice"
+  ],
+  "unit_price": 749,
+  "stock": 72,
+  "updated_at": "2026-09-29T20:00:00+00:00"
+ },
+ {
+  "id": "P0023",
+  "name": "Mill & Co Arborio Rice 500 g",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "arborio_rice"
+  ],
+  "unit_price": 669,
+  "stock": 52,
+  "updated_at": "2026-09-29T19:00:00+00:00"
+ },
+ {
+  "id": "P0024",
+  "name": "Golden Grain Quinoa 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "quinoa"
+  ],
+  "unit_price": 519,
+  "stock": 198,
+  "updated_at": "2026-09-30T12:00:00+00:00"
+ },
+ {
+  "id": "P0025",
+  "name": "Mill & Co Quinoa 1 kg",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "quinoa"
+  ],
+  "unit_price": 599,
+  "stock": 73,
+  "updated_at": "2026-09-28T16:00:00+00:00"
+ },
+ {
+  "id": "P0026",
+  "name": "Golden Grain Polenta 1 kg",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "polenta"
+  ],
+  "unit_price": 1049,
+  "stock": 216,
+  "updated_at": "2026-09-30T11:00:00+00:00"
+ },
+ {
+  "id": "P0027",
+  "name": "Mill & Co Polenta 500 g",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "polenta"
+  ],
+  "unit_price": 719,
+  "stock": 80,
+  "updated_at": "2026-10-01T10:00:00+00:00"
+ },
+ {
+  "id": "P0028",
+  "name": "Golden Grain Cornstarch 1 kg",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "cornstarch"
+  ],
+  "unit_price": 1169,
+  "stock": 14,
+  "updated_at": "2026-10-01T05:00:00+00:00"
+ },
+ {
+  "id": "P0029",
+  "name": "Mill & Co Cornstarch 500 g",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "cornstarch"
+  ],
+  "unit_price": 999,
+  "stock": 35,
+  "updated_at": "2026-09-28T21:00:00+00:00"
+ },
+ {
+  "id": "P0030",
+  "name": "Daily Basics Cornstarch 1 kg",
+  "brand": "Daily Basics",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "cornstarch"
+  ],
+  "unit_price": 499,
+  "stock": 0,
+  "updated_at": "2026-09-29T23:00:00+00:00"
+ },
+ {
+  "id": "P0031",
+  "name": "Golden Grain Couscous 1 kg",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "couscous"
+  ],
+  "unit_price": 909,
+  "stock": 50,
+  "updated_at": "2026-10-01T05:00:00+00:00"
+ },
+ {
+  "id": "P0032",
+  "name": "Golden Grain Bulgur Wheat 1 kg",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "bulgur"
+  ],
+  "unit_price": 669,
+  "stock": 32,
+  "updated_at": "2026-10-01T03:00:00+00:00"
+ },
+ {
+  "id": "P0033",
+  "name": "Mill & Co Bulgur Wheat 500 g",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "bulgur"
+  ],
+  "unit_price": 829,
+  "stock": 0,
+  "updated_at": "2026-10-01T05:00:00+00:00"
+ },
+ {
+  "id": "P0034",
+  "name": "Daily Basics Bulgur Wheat 500 g",
+  "brand": "Daily Basics",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "bulgur"
+  ],
+  "unit_price": 559,
+  "stock": 245,
+  "updated_at": "2026-09-29T21:00:00+00:00"
+ },
+ {
+  "id": "P0035",
+  "name": "Golden Grain Dried Pasta 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "pasta"
+  ],
+  "unit_price": 479,
+  "stock": 145,
+  "updated_at": "2026-09-29T06:00:00+00:00"
+ },
+ {
+  "id": "P0036",
+  "name": "Golden Grain Fresh Egg Pasta 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "egg_pasta"
+  ],
+  "unit_price": 1059,
+  "stock": 60,
+  "updated_at": "2026-09-28T17:00:00+00:00"
+ },
+ {
+  "id": "P0037",
+  "name": "Mill & Co Fresh Egg Pasta 500 g",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "egg_pasta"
+  ],
+  "unit_price": 809,
+  "stock": 79,
+  "updated_at": "2026-09-29T05:00:00+00:00"
+ },
+ {
+  "id": "P0038",
+  "name": "Golden Grain Rice Pasta 1 kg",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "rice_pasta"
+  ],
+  "unit_price": 729,
+  "stock": 159,
+  "updated_at": "2026-09-30T23:00:00+00:00"
+ },
+ {
+  "id": "P0039",
+  "name": "Golden Grain Chickpea Pasta 1 kg",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "chickpea_pasta"
+  ],
+  "unit_price": 1429,
+  "stock": 57,
+  "updated_at": "2026-09-30T02:00:00+00:00"
+ },
+ {
+  "id": "P0040",
+  "name": "Mill & Co Chickpea Pasta 1 kg",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "chickpea_pasta"
+  ],
+  "unit_price": 1119,
+  "stock": 47,
+  "updated_at": "2026-09-28T13:00:00+00:00"
+ },
+ {
+  "id": "P0041",
+  "name": "Golden Grain Rice Noodles 1 kg",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "rice_noodles"
+  ],
+  "unit_price": 469,
+  "stock": 0,
+  "updated_at": "2026-09-29T02:00:00+00:00"
+ },
+ {
+  "id": "P0042",
+  "name": "Golden Grain Sweet Potato Glass Noodles 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "glass_noodles"
+  ],
+  "unit_price": 1149,
+  "stock": 11,
+  "updated_at": "2026-09-30T06:00:00+00:00"
+ },
+ {
+  "id": "P0043",
+  "name": "Mill & Co Sweet Potato Glass Noodles 1 kg",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "glass_noodles"
+  ],
+  "unit_price": 709,
+  "stock": 223,
+  "updated_at": "2026-09-29T01:00:00+00:00"
+ },
+ {
+  "id": "P0044",
+  "name": "Golden Grain Egg Noodles 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "egg_noodles"
+  ],
+  "unit_price": 469,
+  "stock": 70,
+  "updated_at": "2026-09-30T10:00:00+00:00"
+ },
+ {
+  "id": "P0045",
+  "name": "Mill & Co Egg Noodles 500 g",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "egg_noodles"
+  ],
+  "unit_price": 859,
+  "stock": 168,
+  "updated_at": "2026-09-30T16:00:00+00:00"
+ },
+ {
+  "id": "P0046",
+  "name": "Daily Basics Egg Noodles 500 g",
+  "brand": "Daily Basics",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "egg_noodles"
+  ],
+  "unit_price": 1389,
+  "stock": 21,
+  "updated_at": "2026-10-01T04:00:00+00:00"
+ },
+ {
+  "id": "P0047",
+  "name": "Golden Grain Udon Noodles 1 kg",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "udon"
+  ],
+  "unit_price": 569,
+  "stock": 194,
+  "updated_at": "2026-09-29T23:00:00+00:00"
+ },
+ {
+  "id": "P0048",
+  "name": "Golden Grain Rice Paper Wrappers 1 kg",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "rice_paper"
+  ],
+  "unit_price": 869,
+  "stock": 80,
+  "updated_at": "2026-09-29T08:00:00+00:00"
+ },
+ {
+  "id": "P0049",
+  "name": "Mill & Co Rice Paper Wrappers 500 g",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "rice_paper"
+  ],
+  "unit_price": 1429,
+  "stock": 129,
+  "updated_at": "2026-09-29T03:00:00+00:00"
+ },
+ {
+  "id": "P0050",
+  "name": "Hearth Bakery White Bread 500 g",
+  "brand": "Hearth Bakery",
+  "category": "bakery",
+  "package": "500 g",
+  "ingredient_ids": [
+   "bread"
+  ],
+  "unit_price": 549,
+  "stock": 0,
+  "updated_at": "2026-09-29T04:00:00+00:00"
+ },
+ {
+  "id": "P0051",
+  "name": "Daily Basics White Bread 400 g",
+  "brand": "Daily Basics",
+  "category": "bakery",
+  "package": "400 g",
+  "ingredient_ids": [
+   "bread"
+  ],
+  "unit_price": 1079,
+  "stock": 9,
+  "updated_at": "2026-10-01T00:00:00+00:00"
+ },
+ {
+  "id": "P0052",
+  "name": "Mill & Co White Bread 400 g",
+  "brand": "Mill & Co",
+  "category": "bakery",
+  "package": "400 g",
+  "ingredient_ids": [
+   "bread"
+  ],
+  "unit_price": 669,
+  "stock": 223,
+  "updated_at": "2026-10-01T09:00:00+00:00"
+ },
+ {
+  "id": "P0053",
+  "name": "Hearth Bakery Rye Bread 500 g",
+  "brand": "Hearth Bakery",
+  "category": "bakery",
+  "package": "500 g",
+  "ingredient_ids": [
+   "rye_bread"
+  ],
+  "unit_price": 1289,
+  "stock": 71,
+  "updated_at": "2026-10-01T06:00:00+00:00"
+ },
+ {
+  "id": "P0054",
+  "name": "Hearth Bakery Gluten-Free Bread 500 g",
+  "brand": "Hearth Bakery",
+  "category": "bakery",
+  "package": "500 g",
+  "ingredient_ids": [
+   "gf_bread"
+  ],
+  "unit_price": 1099,
+  "stock": 135,
+  "updated_at": "2026-09-29T03:00:00+00:00"
+ },
+ {
+  "id": "P0055",
+  "name": "Daily Basics Gluten-Free Bread 400 g",
+  "brand": "Daily Basics",
+  "category": "bakery",
+  "package": "400 g",
+  "ingredient_ids": [
+   "gf_bread"
+  ],
+  "unit_price": 1219,
+  "stock": 152,
+  "updated_at": "2026-09-29T04:00:00+00:00"
+ },
+ {
+  "id": "P0056",
+  "name": "Hearth Bakery Pita Bread 500 g",
+  "brand": "Hearth Bakery",
+  "category": "bakery",
+  "package": "500 g",
+  "ingredient_ids": [
+   "pita"
+  ],
+  "unit_price": 999,
+  "stock": 26,
+  "updated_at": "2026-09-28T23:00:00+00:00"
+ },
+ {
+  "id": "P0057",
+  "name": "Hearth Bakery Naan Bread 500 g",
+  "brand": "Hearth Bakery",
+  "category": "bakery",
+  "package": "500 g",
+  "ingredient_ids": [
+   "naan"
+  ],
+  "unit_price": 769,
+  "stock": 174,
+  "updated_at": "2026-09-30T22:00:00+00:00"
+ },
+ {
+  "id": "P0058",
+  "name": "Hearth Bakery Wheat Tortilla 500 g",
+  "brand": "Hearth Bakery",
+  "category": "bakery",
+  "package": "500 g",
+  "ingredient_ids": [
+   "wheat_tortilla"
+  ],
+  "unit_price": 1179,
+  "stock": 180,
+  "updated_at": "2026-09-28T20:00:00+00:00"
+ },
+ {
+  "id": "P0059",
+  "name": "Daily Basics Wheat Tortilla 400 g",
+  "brand": "Daily Basics",
+  "category": "bakery",
+  "package": "400 g",
+  "ingredient_ids": [
+   "wheat_tortilla"
+  ],
+  "unit_price": 719,
+  "stock": 211,
+  "updated_at": "2026-09-28T13:00:00+00:00"
+ },
+ {
+  "id": "P0060",
+  "name": "Hearth Bakery Corn Tortilla 400 g",
+  "brand": "Hearth Bakery",
+  "category": "bakery",
+  "package": "400 g",
+  "ingredient_ids": [
+   "corn_tortilla"
+  ],
+  "unit_price": 519,
+  "stock": 67,
+  "updated_at": "2026-09-29T18:00:00+00:00"
+ },
+ {
+  "id": "P0061",
+  "name": "Daily Basics Corn Tortilla 400 g",
+  "brand": "Daily Basics",
+  "category": "bakery",
+  "package": "400 g",
+  "ingredient_ids": [
+   "corn_tortilla"
+  ],
+  "unit_price": 579,
+  "stock": 224,
+  "updated_at": "2026-09-28T18:00:00+00:00"
+ },
+ {
+  "id": "P0062",
+  "name": "Hearth Bakery Puff Pastry 500 g",
+  "brand": "Hearth Bakery",
+  "category": "bakery",
+  "package": "500 g",
+  "ingredient_ids": [
+   "puff_pastry"
+  ],
+  "unit_price": 1149,
+  "stock": 0,
+  "updated_at": "2026-09-28T14:00:00+00:00"
+ },
+ {
+  "id": "P0063",
+  "name": "Daily Basics Puff Pastry 500 g",
+  "brand": "Daily Basics",
+  "category": "bakery",
+  "package": "500 g",
+  "ingredient_ids": [
+   "puff_pastry"
+  ],
+  "unit_price": 859,
+  "stock": 0,
+  "updated_at": "2026-09-28T17:00:00+00:00"
+ },
+ {
+  "id": "P0064",
+  "name": "Mill & Co Puff Pastry 500 g",
+  "brand": "Mill & Co",
+  "category": "bakery",
+  "package": "500 g",
+  "ingredient_ids": [
+   "puff_pastry"
+  ],
+  "unit_price": 779,
+  "stock": 163,
+  "updated_at": "2026-09-29T03:00:00+00:00"
+ },
+ {
+  "id": "P0065",
+  "name": "Hearth Bakery Filo Pastry 400 g",
+  "brand": "Hearth Bakery",
+  "category": "bakery",
+  "package": "400 g",
+  "ingredient_ids": [
+   "filo_pastry"
+  ],
+  "unit_price": 1099,
+  "stock": 143,
+  "updated_at": "2026-09-30T19:00:00+00:00"
+ },
+ {
+  "id": "P0066",
+  "name": "Daily Basics Filo Pastry 400 g",
+  "brand": "Daily Basics",
+  "category": "bakery",
+  "package": "400 g",
+  "ingredient_ids": [
+   "filo_pastry"
+  ],
+  "unit_price": 1229,
+  "stock": 181,
+  "updated_at": "2026-09-28T21:00:00+00:00"
+ },
+ {
+  "id": "P0067",
+  "name": "Hearth Bakery Ladyfinger Biscuits 500 g",
+  "brand": "Hearth Bakery",
+  "category": "bakery",
+  "package": "500 g",
+  "ingredient_ids": [
+   "ladyfingers"
+  ],
+  "unit_price": 589,
+  "stock": 158,
+  "updated_at": "2026-09-30T05:00:00+00:00"
+ },
+ {
+  "id": "P0068",
+  "name": "Daily Basics Ladyfinger Biscuits 400 g",
+  "brand": "Daily Basics",
+  "category": "bakery",
+  "package": "400 g",
+  "ingredient_ids": [
+   "ladyfingers"
+  ],
+  "unit_price": 1059,
+  "stock": 6,
+  "updated_at": "2026-09-28T13:00:00+00:00"
+ },
+ {
+  "id": "P0069",
+  "name": "Mill & Co Ladyfinger Biscuits 400 g",
+  "brand": "Mill & Co",
+  "category": "bakery",
+  "package": "400 g",
+  "ingredient_ids": [
+   "ladyfingers"
+  ],
+  "unit_price": 819,
+  "stock": 218,
+  "updated_at": "2026-09-30T21:00:00+00:00"
+ },
+ {
+  "id": "P0070",
+  "name": "Hearth Bakery Breadcrumbs 400 g",
+  "brand": "Hearth Bakery",
+  "category": "bakery",
+  "package": "400 g",
+  "ingredient_ids": [
+   "breadcrumbs"
+  ],
+  "unit_price": 859,
+  "stock": 216,
+  "updated_at": "2026-09-30T16:00:00+00:00"
+ },
+ {
+  "id": "P0071",
+  "name": "Golden Grain Potato Gnocchi 500 g",
+  "brand": "Golden Grain",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "gnocchi"
+  ],
+  "unit_price": 939,
+  "stock": 133,
+  "updated_at": "2026-09-30T01:00:00+00:00"
+ },
+ {
+  "id": "P0072",
+  "name": "Mill & Co Potato Gnocchi 1 kg",
+  "brand": "Mill & Co",
+  "category": "grain",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "gnocchi"
+  ],
+  "unit_price": 849,
+  "stock": 123,
+  "updated_at": "2026-09-30T04:00:00+00:00"
+ },
+ {
+  "id": "P0073",
+  "name": "Daily Basics Potato Gnocchi 500 g",
+  "brand": "Daily Basics",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "gnocchi"
+  ],
+  "unit_price": 889,
+  "stock": 51,
+  "updated_at": "2026-09-28T18:00:00+00:00"
+ },
+ {
+  "id": "P0074",
+  "name": "Mill & Co Dried Yeast 100 g",
+  "brand": "Mill & Co",
+  "category": "baking",
+  "package": "100 g",
+  "ingredient_ids": [
+   "yeast"
+  ],
+  "unit_price": 489,
+  "stock": 20,
+  "updated_at": "2026-09-30T00:00:00+00:00"
+ },
+ {
+  "id": "P0075",
+  "name": "Daily Basics Dried Yeast 100 g",
+  "brand": "Daily Basics",
+  "category": "baking",
+  "package": "100 g",
+  "ingredient_ids": [
+   "yeast"
+  ],
+  "unit_price": 499,
+  "stock": 90,
+  "updated_at": "2026-09-28T19:00:00+00:00"
+ },
+ {
+  "id": "P0076",
+  "name": "Mill & Co Baking Powder 10 g",
+  "brand": "Mill & Co",
+  "category": "baking",
+  "package": "10 g",
+  "ingredient_ids": [
+   "baking_powder"
+  ],
+  "unit_price": 299,
+  "stock": 0,
+  "updated_at": "2026-09-29T21:00:00+00:00"
+ },
+ {
+  "id": "P0077",
+  "name": "Daily Basics Baking Powder 10 g",
+  "brand": "Daily Basics",
+  "category": "baking",
+  "package": "10 g",
+  "ingredient_ids": [
+   "baking_powder"
+  ],
+  "unit_price": 519,
+  "stock": 171,
+  "updated_at": "2026-09-28T21:00:00+00:00"
+ },
+ {
+  "id": "P0078",
+  "name": "Nordic Dairy Eggs 1 l",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "1 l",
+  "ingredient_ids": [
+   "egg"
+  ],
+  "unit_price": 2639,
+  "stock": 126,
+  "updated_at": "2026-09-29T15:00:00+00:00"
+ },
+ {
+  "id": "P0079",
+  "name": "Alpine Farm Eggs 250 g",
+  "brand": "Alpine Farm",
+  "category": "dairy",
+  "package": "250 g",
+  "ingredient_ids": [
+   "egg"
+  ],
+  "unit_price": 1249,
+  "stock": 99,
+  "updated_at": "2026-09-29T01:00:00+00:00"
+ },
+ {
+  "id": "P0080",
+  "name": "Daily Basics Eggs 1 l",
+  "brand": "Daily Basics",
+  "category": "dairy",
+  "package": "1 l",
+  "ingredient_ids": [
+   "egg"
+  ],
+  "unit_price": 2819,
+  "stock": 181,
+  "updated_at": "2026-09-30T05:00:00+00:00"
+ },
+ {
+  "id": "P0081",
+  "name": "Nordic Dairy Milk 200 g",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "milk"
+  ],
+  "unit_price": 1879,
+  "stock": 201,
+  "updated_at": "2026-09-29T07:00:00+00:00"
+ },
+ {
+  "id": "P0082",
+  "name": "Alpine Farm Milk 250 g",
+  "brand": "Alpine Farm",
+  "category": "dairy",
+  "package": "250 g",
+  "ingredient_ids": [
+   "milk"
+  ],
+  "unit_price": 499,
+  "stock": 183,
+  "updated_at": "2026-09-29T11:00:00+00:00"
+ },
+ {
+  "id": "P0083",
+  "name": "Nordic Dairy Butter 200 g",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "butter"
+  ],
+  "unit_price": 1389,
+  "stock": 213,
+  "updated_at": "2026-09-30T16:00:00+00:00"
+ },
+ {
+  "id": "P0084",
+  "name": "Alpine Farm Butter 250 g",
+  "brand": "Alpine Farm",
+  "category": "dairy",
+  "package": "250 g",
+  "ingredient_ids": [
+   "butter"
+  ],
+  "unit_price": 1679,
+  "stock": 0,
+  "updated_at": "2026-09-28T19:00:00+00:00"
+ },
+ {
+  "id": "P0085",
+  "name": "Nordic Dairy Cream 1 l",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "1 l",
+  "ingredient_ids": [
+   "cream"
+  ],
+  "unit_price": 2899,
+  "stock": 28,
+  "updated_at": "2026-09-29T03:00:00+00:00"
+ },
+ {
+  "id": "P0086",
+  "name": "Nordic Dairy Sour Cream 250 g",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "250 g",
+  "ingredient_ids": [
+   "sour_cream"
+  ],
+  "unit_price": 649,
+  "stock": 6,
+  "updated_at": "2026-09-30T17:00:00+00:00"
+ },
+ {
+  "id": "P0087",
+  "name": "Alpine Farm Sour Cream 1 l",
+  "brand": "Alpine Farm",
+  "category": "dairy",
+  "package": "1 l",
+  "ingredient_ids": [
+   "sour_cream"
+  ],
+  "unit_price": 1459,
+  "stock": 42,
+  "updated_at": "2026-10-01T02:00:00+00:00"
+ },
+ {
+  "id": "P0088",
+  "name": "Daily Basics Sour Cream 200 g",
+  "brand": "Daily Basics",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "sour_cream"
+  ],
+  "unit_price": 1609,
+  "stock": 89,
+  "updated_at": "2026-09-29T09:00:00+00:00"
+ },
+ {
+  "id": "P0089",
+  "name": "Nordic Dairy Natural Yogurt 200 g",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "yogurt"
+  ],
+  "unit_price": 2079,
+  "stock": 221,
+  "updated_at": "2026-09-28T15:00:00+00:00"
+ },
+ {
+  "id": "P0090",
+  "name": "Alpine Farm Natural Yogurt 1 l",
+  "brand": "Alpine Farm",
+  "category": "dairy",
+  "package": "1 l",
+  "ingredient_ids": [
+   "yogurt"
+  ],
+  "unit_price": 1379,
+  "stock": 186,
+  "updated_at": "2026-09-28T21:00:00+00:00"
+ },
+ {
+  "id": "P0091",
+  "name": "Daily Basics Natural Yogurt 250 g",
+  "brand": "Daily Basics",
+  "category": "dairy",
+  "package": "250 g",
+  "ingredient_ids": [
+   "yogurt"
+  ],
+  "unit_price": 2659,
+  "stock": 0,
+  "updated_at": "2026-10-01T03:00:00+00:00"
+ },
+ {
+  "id": "P0092",
+  "name": "Nordic Dairy Parmesan 1 l",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "1 l",
+  "ingredient_ids": [
+   "parmesan"
+  ],
+  "unit_price": 999,
+  "stock": 76,
+  "updated_at": "2026-09-30T06:00:00+00:00"
+ },
+ {
+  "id": "P0093",
+  "name": "Alpine Farm Parmesan 1 l",
+  "brand": "Alpine Farm",
+  "category": "dairy",
+  "package": "1 l",
+  "ingredient_ids": [
+   "parmesan"
+  ],
+  "unit_price": 2329,
+  "stock": 28,
+  "updated_at": "2026-09-30T23:00:00+00:00"
+ },
+ {
+  "id": "P0094",
+  "name": "Daily Basics Parmesan 200 g",
+  "brand": "Daily Basics",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "parmesan"
+  ],
+  "unit_price": 1539,
+  "stock": 234,
+  "updated_at": "2026-10-01T08:00:00+00:00"
+ },
+ {
+  "id": "P0095",
+  "name": "Nordic Dairy Mozzarella 250 g",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "250 g",
+  "ingredient_ids": [
+   "mozzarella"
+  ],
+  "unit_price": 509,
+  "stock": 78,
+  "updated_at": "2026-09-29T14:00:00+00:00"
+ },
+ {
+  "id": "P0096",
+  "name": "Nordic Dairy Mascarpone 1 l",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "1 l",
+  "ingredient_ids": [
+   "mascarpone"
+  ],
+  "unit_price": 1359,
+  "stock": 138,
+  "updated_at": "2026-09-29T07:00:00+00:00"
+ },
+ {
+  "id": "P0097",
+  "name": "Nordic Dairy Feta 200 g",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "feta"
+  ],
+  "unit_price": 1859,
+  "stock": 46,
+  "updated_at": "2026-09-30T13:00:00+00:00"
+ },
+ {
+  "id": "P0098",
+  "name": "Alpine Farm Feta 1 l",
+  "brand": "Alpine Farm",
+  "category": "dairy",
+  "package": "1 l",
+  "ingredient_ids": [
+   "feta"
+  ],
+  "unit_price": 599,
+  "stock": 161,
+  "updated_at": "2026-09-30T05:00:00+00:00"
+ },
+ {
+  "id": "P0099",
+  "name": "Daily Basics Feta 250 g",
+  "brand": "Daily Basics",
+  "category": "dairy",
+  "package": "250 g",
+  "ingredient_ids": [
+   "feta"
+  ],
+  "unit_price": 1679,
+  "stock": 62,
+  "updated_at": "2026-09-29T00:00:00+00:00"
+ },
+ {
+  "id": "P0100",
+  "name": "Nordic Dairy Cheddar 200 g",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "cheddar"
+  ],
+  "unit_price": 2049,
+  "stock": 173,
+  "updated_at": "2026-10-01T10:00:00+00:00"
+ },
+ {
+  "id": "P0101",
+  "name": "Alpine Farm Cheddar 200 g",
+  "brand": "Alpine Farm",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "cheddar"
+  ],
+  "unit_price": 2729,
+  "stock": 76,
+  "updated_at": "2026-09-28T14:00:00+00:00"
+ },
+ {
+  "id": "P0102",
+  "name": "Nordic Dairy Gruyere 250 g",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "250 g",
+  "ingredient_ids": [
+   "gruyere"
+  ],
+  "unit_price": 799,
+  "stock": 91,
+  "updated_at": "2026-09-29T21:00:00+00:00"
+ },
+ {
+  "id": "P0103",
+  "name": "Alpine Farm Gruyere 200 g",
+  "brand": "Alpine Farm",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "gruyere"
+  ],
+  "unit_price": 2049,
+  "stock": 67,
+  "updated_at": "2026-09-29T01:00:00+00:00"
+ },
+ {
+  "id": "P0104",
+  "name": "Nordic Dairy Halloumi 200 g",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "halloumi"
+  ],
+  "unit_price": 2589,
+  "stock": 101,
+  "updated_at": "2026-09-28T22:00:00+00:00"
+ },
+ {
+  "id": "P0105",
+  "name": "Nordic Dairy Paneer 200 g",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "paneer"
+  ],
+  "unit_price": 669,
+  "stock": 94,
+  "updated_at": "2026-09-29T22:00:00+00:00"
+ },
+ {
+  "id": "P0106",
+  "name": "Alpine Farm Paneer 200 g",
+  "brand": "Alpine Farm",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "paneer"
+  ],
+  "unit_price": 2969,
+  "stock": 215,
+  "updated_at": "2026-09-29T09:00:00+00:00"
+ },
+ {
+  "id": "P0107",
+  "name": "Daily Basics Paneer 1 l",
+  "brand": "Daily Basics",
+  "category": "dairy",
+  "package": "1 l",
+  "ingredient_ids": [
+   "paneer"
+  ],
+  "unit_price": 1099,
+  "stock": 178,
+  "updated_at": "2026-10-01T05:00:00+00:00"
+ },
+ {
+  "id": "P0108",
+  "name": "Nordic Dairy Ghee 200 g",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "ghee"
+  ],
+  "unit_price": 2759,
+  "stock": 216,
+  "updated_at": "2026-09-29T23:00:00+00:00"
+ },
+ {
+  "id": "P0109",
+  "name": "Alpine Farm Ghee 1 l",
+  "brand": "Alpine Farm",
+  "category": "dairy",
+  "package": "1 l",
+  "ingredient_ids": [
+   "ghee"
+  ],
+  "unit_price": 2409,
+  "stock": 208,
+  "updated_at": "2026-09-29T14:00:00+00:00"
+ },
+ {
+  "id": "P0110",
+  "name": "Nordic Dairy Curd Cheese (Turo) 200 g",
+  "brand": "Nordic Dairy",
+  "category": "dairy",
+  "package": "200 g",
+  "ingredient_ids": [
+   "curd_cheese"
+  ],
+  "unit_price": 959,
+  "stock": 67,
+  "updated_at": "2026-09-30T18:00:00+00:00"
+ },
+ {
+  "id": "P0111",
+  "name": "GreenField Oat Drink 1 l",
+  "brand": "GreenField",
+  "category": "alternative",
+  "package": "1 l",
+  "ingredient_ids": [
+   "oat_drink"
+  ],
+  "unit_price": 1409,
+  "stock": 168,
+  "updated_at": "2026-10-01T06:00:00+00:00"
+ },
+ {
+  "id": "P0112",
+  "name": "Plantly Oat Drink 200 g",
+  "brand": "Plantly",
+  "category": "alternative",
+  "package": "200 g",
+  "ingredient_ids": [
+   "oat_drink"
+  ],
+  "unit_price": 989,
+  "stock": 151,
+  "updated_at": "2026-09-29T13:00:00+00:00"
+ },
+ {
+  "id": "P0113",
+  "name": "Daily Basics Oat Drink 400 ml",
+  "brand": "Daily Basics",
+  "category": "alternative",
+  "package": "400 ml",
+  "ingredient_ids": [
+   "oat_drink"
+  ],
+  "unit_price": 1539,
+  "stock": 78,
+  "updated_at": "2026-09-29T18:00:00+00:00"
+ },
+ {
+  "id": "P0114",
+  "name": "GreenField Gluten-Free Oat Drink 200 g",
+  "brand": "GreenField",
+  "category": "alternative",
+  "package": "200 g",
+  "ingredient_ids": [
+   "gf_oat_drink"
+  ],
+  "unit_price": 1559,
+  "stock": 36,
+  "updated_at": "2026-09-28T14:00:00+00:00"
+ },
+ {
+  "id": "P0115",
+  "name": "Plantly Gluten-Free Oat Drink 200 g",
+  "brand": "Plantly",
+  "category": "alternative",
+  "package": "200 g",
+  "ingredient_ids": [
+   "gf_oat_drink"
+  ],
+  "unit_price": 1729,
+  "stock": 131,
+  "updated_at": "2026-09-30T01:00:00+00:00"
+ },
+ {
+  "id": "P0116",
+  "name": "GreenField Soy Drink 400 ml",
+  "brand": "GreenField",
+  "category": "alternative",
+  "package": "400 ml",
+  "ingredient_ids": [
+   "soy_drink"
+  ],
+  "unit_price": 1669,
+  "stock": 214,
+  "updated_at": "2026-09-28T22:00:00+00:00"
+ },
+ {
+  "id": "P0117",
+  "name": "Plantly Soy Drink 200 g",
+  "brand": "Plantly",
+  "category": "alternative",
+  "package": "200 g",
+  "ingredient_ids": [
+   "soy_drink"
+  ],
+  "unit_price": 1849,
+  "stock": 225,
+  "updated_at": "2026-09-29T16:00:00+00:00"
+ },
+ {
+  "id": "P0118",
+  "name": "GreenField Rice Drink 200 g",
+  "brand": "GreenField",
+  "category": "alternative",
+  "package": "200 g",
+  "ingredient_ids": [
+   "rice_drink"
+  ],
+  "unit_price": 1639,
+  "stock": 22,
+  "updated_at": "2026-09-30T17:00:00+00:00"
+ },
+ {
+  "id": "P0119",
+  "name": "Plantly Rice Drink 400 ml",
+  "brand": "Plantly",
+  "category": "alternative",
+  "package": "400 ml",
+  "ingredient_ids": [
+   "rice_drink"
+  ],
+  "unit_price": 1569,
+  "stock": 176,
+  "updated_at": "2026-09-29T09:00:00+00:00"
+ },
+ {
+  "id": "P0120",
+  "name": "Daily Basics Rice Drink 200 g",
+  "brand": "Daily Basics",
+  "category": "alternative",
+  "package": "200 g",
+  "ingredient_ids": [
+   "rice_drink"
+  ],
+  "unit_price": 1849,
+  "stock": 96,
+  "updated_at": "2026-10-01T00:00:00+00:00"
+ },
+ {
+  "id": "P0121",
+  "name": "GreenField Coconut Milk 1 l",
+  "brand": "GreenField",
+  "category": "alternative",
+  "package": "1 l",
+  "ingredient_ids": [
+   "coconut_milk"
+  ],
+  "unit_price": 1619,
+  "stock": 0,
+  "updated_at": "2026-09-28T15:00:00+00:00"
+ },
+ {
+  "id": "P0122",
+  "name": "Plantly Coconut Milk 200 g",
+  "brand": "Plantly",
+  "category": "alternative",
+  "package": "200 g",
+  "ingredient_ids": [
+   "coconut_milk"
+  ],
+  "unit_price": 749,
+  "stock": 194,
+  "updated_at": "2026-09-30T02:00:00+00:00"
+ },
+ {
+  "id": "P0123",
+  "name": "GreenField Coconut Cream 1 l",
+  "brand": "GreenField",
+  "category": "alternative",
+  "package": "1 l",
+  "ingredient_ids": [
+   "coconut_cream"
+  ],
+  "unit_price": 1349,
+  "stock": 243,
+  "updated_at": "2026-09-29T12:00:00+00:00"
+ },
+ {
+  "id": "P0124",
+  "name": "Plantly Coconut Cream 1 l",
+  "brand": "Plantly",
+  "category": "alternative",
+  "package": "1 l",
+  "ingredient_ids": [
+   "coconut_cream"
+  ],
+  "unit_price": 729,
+  "stock": 9,
+  "updated_at": "2026-09-28T12:00:00+00:00"
+ },
+ {
+  "id": "P0125",
+  "name": "Daily Basics Coconut Cream 200 g",
+  "brand": "Daily Basics",
+  "category": "alternative",
+  "package": "200 g",
+  "ingredient_ids": [
+   "coconut_cream"
+  ],
+  "unit_price": 1019,
+  "stock": 168,
+  "updated_at": "2026-10-01T03:00:00+00:00"
+ },
+ {
+  "id": "P0126",
+  "name": "GreenField Coconut Yogurt 400 ml",
+  "brand": "GreenField",
+  "category": "alternative",
+  "package": "400 ml",
+  "ingredient_ids": [
+   "coconut_yogurt"
+  ],
+  "unit_price": 1419,
+  "stock": 182,
+  "updated_at": "2026-09-29T21:00:00+00:00"
+ },
+ {
+  "id": "P0127",
+  "name": "Plantly Coconut Yogurt 400 ml",
+  "brand": "Plantly",
+  "category": "alternative",
+  "package": "400 ml",
+  "ingredient_ids": [
+   "coconut_yogurt"
+  ],
+  "unit_price": 1429,
+  "stock": 14,
+  "updated_at": "2026-10-01T07:00:00+00:00"
+ },
+ {
+  "id": "P0128",
+  "name": "GreenField Plant-Based Spread 400 ml",
+  "brand": "GreenField",
+  "category": "alternative",
+  "package": "400 ml",
+  "ingredient_ids": [
+   "vegan_butter"
+  ],
+  "unit_price": 989,
+  "stock": 27,
+  "updated_at": "2026-09-30T05:00:00+00:00"
+ },
+ {
+  "id": "P0129",
+  "name": "GreenField Plant-Based Cheese 400 ml",
+  "brand": "GreenField",
+  "category": "alternative",
+  "package": "400 ml",
+  "ingredient_ids": [
+   "vegan_cheese"
+  ],
+  "unit_price": 1739,
+  "stock": 119,
+  "updated_at": "2026-09-29T12:00:00+00:00"
+ },
+ {
+  "id": "P0130",
+  "name": "Plantly Plant-Based Cheese 200 g",
+  "brand": "Plantly",
+  "category": "alternative",
+  "package": "200 g",
+  "ingredient_ids": [
+   "vegan_cheese"
+  ],
+  "unit_price": 1459,
+  "stock": 245,
+  "updated_at": "2026-09-28T14:00:00+00:00"
+ },
+ {
+  "id": "P0131",
+  "name": "GreenField Egg-Free Mayonnaise 400 ml",
+  "brand": "GreenField",
+  "category": "alternative",
+  "package": "400 ml",
+  "ingredient_ids": [
+   "vegan_mayo"
+  ],
+  "unit_price": 1129,
+  "stock": 42,
+  "updated_at": "2026-09-29T06:00:00+00:00"
+ },
+ {
+  "id": "P0132",
+  "name": "Plantly Egg-Free Mayonnaise 200 g",
+  "brand": "Plantly",
+  "category": "alternative",
+  "package": "200 g",
+  "ingredient_ids": [
+   "vegan_mayo"
+  ],
+  "unit_price": 1439,
+  "stock": 160,
+  "updated_at": "2026-09-29T07:00:00+00:00"
+ },
+ {
+  "id": "P0133",
+  "name": "Daily Basics Egg-Free Mayonnaise 400 ml",
+  "brand": "Daily Basics",
+  "category": "alternative",
+  "package": "400 ml",
+  "ingredient_ids": [
+   "vegan_mayo"
+  ],
+  "unit_price": 1809,
+  "stock": 179,
+  "updated_at": "2026-09-29T12:00:00+00:00"
+ },
+ {
+  "id": "P0134",
+  "name": "GreenField Nutritional Yeast 400 ml",
+  "brand": "GreenField",
+  "category": "alternative",
+  "package": "400 ml",
+  "ingredient_ids": [
+   "nutritional_yeast"
+  ],
+  "unit_price": 869,
+  "stock": 63,
+  "updated_at": "2026-09-29T13:00:00+00:00"
+ },
+ {
+  "id": "P0135",
+  "name": "GreenField Ground Flaxseed 200 g",
+  "brand": "GreenField",
+  "category": "alternative",
+  "package": "200 g",
+  "ingredient_ids": [
+   "flaxseed"
+  ],
+  "unit_price": 719,
+  "stock": 142,
+  "updated_at": "2026-09-29T14:00:00+00:00"
+ },
+ {
+  "id": "P0136",
+  "name": "Plantly Ground Flaxseed 400 ml",
+  "brand": "Plantly",
+  "category": "alternative",
+  "package": "400 ml",
+  "ingredient_ids": [
+   "flaxseed"
+  ],
+  "unit_price": 669,
+  "stock": 250,
+  "updated_at": "2026-09-30T20:00:00+00:00"
+ },
+ {
+  "id": "P0137",
+  "name": "Daily Basics Ground Flaxseed 400 ml",
+  "brand": "Daily Basics",
+  "category": "alternative",
+  "package": "400 ml",
+  "ingredient_ids": [
+   "flaxseed"
+  ],
+  "unit_price": 1819,
+  "stock": 26,
+  "updated_at": "2026-09-30T08:00:00+00:00"
+ },
+ {
+  "id": "P0138",
+  "name": "GreenField Tofu 200 g",
+  "brand": "GreenField",
+  "category": "protein",
+  "package": "200 g",
+  "ingredient_ids": [
+   "tofu"
+  ],
+  "unit_price": 1599,
+  "stock": 8,
+  "updated_at": "2026-10-01T05:00:00+00:00"
+ },
+ {
+  "id": "P0139",
+  "name": "GreenField Tempeh 200 g",
+  "brand": "GreenField",
+  "category": "protein",
+  "package": "200 g",
+  "ingredient_ids": [
+   "tempeh"
+  ],
+  "unit_price": 1759,
+  "stock": 35,
+  "updated_at": "2026-09-30T09:00:00+00:00"
+ },
+ {
+  "id": "P0140",
+  "name": "Plantly Tempeh 200 g",
+  "brand": "Plantly",
+  "category": "protein",
+  "package": "200 g",
+  "ingredient_ids": [
+   "tempeh"
+  ],
+  "unit_price": 969,
+  "stock": 56,
+  "updated_at": "2026-09-30T08:00:00+00:00"
+ },
+ {
+  "id": "P0141",
+  "name": "GreenField Seitan 400 g",
+  "brand": "GreenField",
+  "category": "protein",
+  "package": "400 g",
+  "ingredient_ids": [
+   "seitan"
+  ],
+  "unit_price": 1779,
+  "stock": 201,
+  "updated_at": "2026-09-30T17:00:00+00:00"
+ },
+ {
+  "id": "P0142",
+  "name": "Plantly Seitan 200 g",
+  "brand": "Plantly",
+  "category": "protein",
+  "package": "200 g",
+  "ingredient_ids": [
+   "seitan"
+  ],
+  "unit_price": 1759,
+  "stock": 73,
+  "updated_at": "2026-09-30T17:00:00+00:00"
+ },
+ {
+  "id": "P0143",
+  "name": "Butcher's Choice Chicken Breast 400 g",
+  "brand": "Butcher's Choice",
+  "category": "meat",
+  "package": "400 g",
+  "ingredient_ids": [
+   "chicken"
+  ],
+  "unit_price": 5929,
+  "stock": 207,
+  "updated_at": "2026-09-30T13:00:00+00:00"
+ },
+ {
+  "id": "P0144",
+  "name": "FreshFarm Chicken Breast 1 kg",
+  "brand": "FreshFarm",
+  "category": "meat",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "chicken"
+  ],
+  "unit_price": 1979,
+  "stock": 36,
+  "updated_at": "2026-10-01T10:00:00+00:00"
+ },
+ {
+  "id": "P0145",
+  "name": "Daily Basics Chicken Breast 1 kg",
+  "brand": "Daily Basics",
+  "category": "meat",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "chicken"
+  ],
+  "unit_price": 3099,
+  "stock": 153,
+  "updated_at": "2026-09-29T18:00:00+00:00"
+ },
+ {
+  "id": "P0146",
+  "name": "Butcher's Choice Chicken Thighs 500 g",
+  "brand": "Butcher's Choice",
+  "category": "meat",
+  "package": "500 g",
+  "ingredient_ids": [
+   "chicken_thigh"
+  ],
+  "unit_price": 1559,
+  "stock": 35,
+  "updated_at": "2026-09-29T06:00:00+00:00"
+ },
+ {
+  "id": "P0147",
+  "name": "FreshFarm Chicken Thighs 400 g",
+  "brand": "FreshFarm",
+  "category": "meat",
+  "package": "400 g",
+  "ingredient_ids": [
+   "chicken_thigh"
+  ],
+  "unit_price": 3859,
+  "stock": 124,
+  "updated_at": "2026-09-29T02:00:00+00:00"
+ },
+ {
+  "id": "P0148",
+  "name": "Daily Basics Chicken Thighs 500 g",
+  "brand": "Daily Basics",
+  "category": "meat",
+  "package": "500 g",
+  "ingredient_ids": [
+   "chicken_thigh"
+  ],
+  "unit_price": 4989,
+  "stock": 30,
+  "updated_at": "2026-09-29T02:00:00+00:00"
+ },
+ {
+  "id": "P0149",
+  "name": "Butcher's Choice Beef Steak 400 g",
+  "brand": "Butcher's Choice",
+  "category": "meat",
+  "package": "400 g",
+  "ingredient_ids": [
+   "beef"
+  ],
+  "unit_price": 3759,
+  "stock": 14,
+  "updated_at": "2026-09-28T17:00:00+00:00"
+ },
+ {
+  "id": "P0150",
+  "name": "FreshFarm Beef Steak 400 g",
+  "brand": "FreshFarm",
+  "category": "meat",
+  "package": "400 g",
+  "ingredient_ids": [
+   "beef"
+  ],
+  "unit_price": 2849,
+  "stock": 10,
+  "updated_at": "2026-10-01T04:00:00+00:00"
+ },
+ {
+  "id": "P0151",
+  "name": "Butcher's Choice Beef Mince 1 kg",
+  "brand": "Butcher's Choice",
+  "category": "meat",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "beef_mince"
+  ],
+  "unit_price": 5979,
+  "stock": 112,
+  "updated_at": "2026-09-30T22:00:00+00:00"
+ },
+ {
+  "id": "P0152",
+  "name": "Butcher's Choice Pork Shoulder 500 g",
+  "brand": "Butcher's Choice",
+  "category": "meat",
+  "package": "500 g",
+  "ingredient_ids": [
+   "pork"
+  ],
+  "unit_price": 3699,
+  "stock": 21,
+  "updated_at": "2026-10-01T01:00:00+00:00"
+ },
+ {
+  "id": "P0153",
+  "name": "FreshFarm Pork Shoulder 500 g",
+  "brand": "FreshFarm",
+  "category": "meat",
+  "package": "500 g",
+  "ingredient_ids": [
+   "pork"
+  ],
+  "unit_price": 2939,
+  "stock": 35,
+  "updated_at": "2026-09-30T00:00:00+00:00"
+ },
+ {
+  "id": "P0154",
+  "name": "Butcher's Choice Cooked Ham 500 g",
+  "brand": "Butcher's Choice",
+  "category": "meat",
+  "package": "500 g",
+  "ingredient_ids": [
+   "ham"
+  ],
+  "unit_price": 4299,
+  "stock": 185,
+  "updated_at": "2026-09-29T18:00:00+00:00"
+ },
+ {
+  "id": "P0155",
+  "name": "FreshFarm Cooked Ham 1 kg",
+  "brand": "FreshFarm",
+  "category": "meat",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "ham"
+  ],
+  "unit_price": 3199,
+  "stock": 78,
+  "updated_at": "2026-09-29T01:00:00+00:00"
+ },
+ {
+  "id": "P0156",
+  "name": "Butcher's Choice Smoked Bacon 1 kg",
+  "brand": "Butcher's Choice",
+  "category": "meat",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "bacon"
+  ],
+  "unit_price": 3759,
+  "stock": 206,
+  "updated_at": "2026-09-30T21:00:00+00:00"
+ },
+ {
+  "id": "P0157",
+  "name": "Butcher's Choice Pork Sausages 1 kg",
+  "brand": "Butcher's Choice",
+  "category": "meat",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "sausage"
+  ],
+  "unit_price": 5329,
+  "stock": 199,
+  "updated_at": "2026-09-28T13:00:00+00:00"
+ },
+ {
+  "id": "P0158",
+  "name": "FreshFarm Pork Sausages 400 g",
+  "brand": "FreshFarm",
+  "category": "meat",
+  "package": "400 g",
+  "ingredient_ids": [
+   "sausage"
+  ],
+  "unit_price": 4729,
+  "stock": 118,
+  "updated_at": "2026-09-30T06:00:00+00:00"
+ },
+ {
+  "id": "P0159",
+  "name": "Daily Basics Pork Sausages 400 g",
+  "brand": "Daily Basics",
+  "category": "meat",
+  "package": "400 g",
+  "ingredient_ids": [
+   "sausage"
+  ],
+  "unit_price": 3349,
+  "stock": 105,
+  "updated_at": "2026-09-29T06:00:00+00:00"
+ },
+ {
+  "id": "P0160",
+  "name": "Butcher's Choice Gluten-Free Pork Sausages 1 kg",
+  "brand": "Butcher's Choice",
+  "category": "meat",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "gf_sausage"
+  ],
+  "unit_price": 4769,
+  "stock": 83,
+  "updated_at": "2026-09-30T03:00:00+00:00"
+ },
+ {
+  "id": "P0161",
+  "name": "FreshFarm Gluten-Free Pork Sausages 500 g",
+  "brand": "FreshFarm",
+  "category": "meat",
+  "package": "500 g",
+  "ingredient_ids": [
+   "gf_sausage"
+  ],
+  "unit_price": 3169,
+  "stock": 239,
+  "updated_at": "2026-09-28T23:00:00+00:00"
+ },
+ {
+  "id": "P0162",
+  "name": "Butcher's Choice Chorizo 400 g",
+  "brand": "Butcher's Choice",
+  "category": "meat",
+  "package": "400 g",
+  "ingredient_ids": [
+   "chorizo"
+  ],
+  "unit_price": 1789,
+  "stock": 26,
+  "updated_at": "2026-09-29T04:00:00+00:00"
+ },
+ {
+  "id": "P0163",
+  "name": "Butcher's Choice Lamb Shoulder 400 g",
+  "brand": "Butcher's Choice",
+  "category": "meat",
+  "package": "400 g",
+  "ingredient_ids": [
+   "lamb"
+  ],
+  "unit_price": 1919,
+  "stock": 210,
+  "updated_at": "2026-09-30T19:00:00+00:00"
+ },
+ {
+  "id": "P0164",
+  "name": "Butcher's Choice Lamb Mince 500 g",
+  "brand": "Butcher's Choice",
+  "category": "meat",
+  "package": "500 g",
+  "ingredient_ids": [
+   "lamb_mince"
+  ],
+  "unit_price": 3989,
+  "stock": 146,
+  "updated_at": "2026-09-28T12:00:00+00:00"
+ },
+ {
+  "id": "P0165",
+  "name": "FreshFarm Lamb Mince 400 g",
+  "brand": "FreshFarm",
+  "category": "meat",
+  "package": "400 g",
+  "ingredient_ids": [
+   "lamb_mince"
+  ],
+  "unit_price": 2969,
+  "stock": 93,
+  "updated_at": "2026-09-29T05:00:00+00:00"
+ },
+ {
+  "id": "P0166",
+  "name": "Daily Basics Lamb Mince 500 g",
+  "brand": "Daily Basics",
+  "category": "meat",
+  "package": "500 g",
+  "ingredient_ids": [
+   "lamb_mince"
+  ],
+  "unit_price": 5399,
+  "stock": 250,
+  "updated_at": "2026-09-29T23:00:00+00:00"
+ },
+ {
+  "id": "P0167",
+  "name": "Butcher's Choice Duck Breast 500 g",
+  "brand": "Butcher's Choice",
+  "category": "meat",
+  "package": "500 g",
+  "ingredient_ids": [
+   "duck"
+  ],
+  "unit_price": 4189,
+  "stock": 150,
+  "updated_at": "2026-09-28T19:00:00+00:00"
+ },
+ {
+  "id": "P0168",
+  "name": "Ocean's Catch Salmon Fillet 200 g",
+  "brand": "Ocean's Catch",
+  "category": "fish",
+  "package": "200 g",
+  "ingredient_ids": [
+   "salmon"
+  ],
+  "unit_price": 3269,
+  "stock": 60,
+  "updated_at": "2026-09-30T22:00:00+00:00"
+ },
+ {
+  "id": "P0169",
+  "name": "Blue Harbour Salmon Fillet 200 g",
+  "brand": "Blue Harbour",
+  "category": "fish",
+  "package": "200 g",
+  "ingredient_ids": [
+   "salmon"
+  ],
+  "unit_price": 4089,
+  "stock": 32,
+  "updated_at": "2026-09-30T00:00:00+00:00"
+ },
+ {
+  "id": "P0170",
+  "name": "Ocean's Catch Smoked Salmon 200 g",
+  "brand": "Ocean's Catch",
+  "category": "fish",
+  "package": "200 g",
+  "ingredient_ids": [
+   "smoked_salmon"
+  ],
+  "unit_price": 5429,
+  "stock": 219,
+  "updated_at": "2026-09-28T12:00:00+00:00"
+ },
+ {
+  "id": "P0171",
+  "name": "Blue Harbour Smoked Salmon 200 g",
+  "brand": "Blue Harbour",
+  "category": "fish",
+  "package": "200 g",
+  "ingredient_ids": [
+   "smoked_salmon"
+  ],
+  "unit_price": 7839,
+  "stock": 160,
+  "updated_at": "2026-09-28T12:00:00+00:00"
+ },
+ {
+  "id": "P0172",
+  "name": "Ocean's Catch Cod Fillet 200 g",
+  "brand": "Ocean's Catch",
+  "category": "fish",
+  "package": "200 g",
+  "ingredient_ids": [
+   "cod"
+  ],
+  "unit_price": 2149,
+  "stock": 215,
+  "updated_at": "2026-09-30T01:00:00+00:00"
+ },
+ {
+  "id": "P0173",
+  "name": "Ocean's Catch Carp 200 g",
+  "brand": "Ocean's Catch",
+  "category": "fish",
+  "package": "200 g",
+  "ingredient_ids": [
+   "carp"
+  ],
+  "unit_price": 2159,
+  "stock": 198,
+  "updated_at": "2026-09-29T20:00:00+00:00"
+ },
+ {
+  "id": "P0174",
+  "name": "Ocean's Catch Tuna 300 g",
+  "brand": "Ocean's Catch",
+  "category": "fish",
+  "package": "300 g",
+  "ingredient_ids": [
+   "tuna"
+  ],
+  "unit_price": 7519,
+  "stock": 49,
+  "updated_at": "2026-09-30T17:00:00+00:00"
+ },
+ {
+  "id": "P0175",
+  "name": "Blue Harbour Tuna 300 g",
+  "brand": "Blue Harbour",
+  "category": "fish",
+  "package": "300 g",
+  "ingredient_ids": [
+   "tuna"
+  ],
+  "unit_price": 5389,
+  "stock": 39,
+  "updated_at": "2026-10-01T08:00:00+00:00"
+ },
+ {
+  "id": "P0176",
+  "name": "Ocean's Catch Anchovies 300 g",
+  "brand": "Ocean's Catch",
+  "category": "fish",
+  "package": "300 g",
+  "ingredient_ids": [
+   "anchovy"
+  ],
+  "unit_price": 2539,
+  "stock": 99,
+  "updated_at": "2026-09-29T06:00:00+00:00"
+ },
+ {
+  "id": "P0177",
+  "name": "Ocean's Catch Prawns 250 g",
+  "brand": "Ocean's Catch",
+  "category": "shellfish",
+  "package": "250 g",
+  "ingredient_ids": [
+   "shrimp"
+  ],
+  "unit_price": 5439,
+  "stock": 82,
+  "updated_at": "2026-09-29T18:00:00+00:00"
+ },
+ {
+  "id": "P0178",
+  "name": "Ocean's Catch Shrimp Paste 250 g",
+  "brand": "Ocean's Catch",
+  "category": "shellfish",
+  "package": "250 g",
+  "ingredient_ids": [
+   "shrimp_paste"
+  ],
+  "unit_price": 7539,
+  "stock": 24,
+  "updated_at": "2026-10-01T05:00:00+00:00"
+ },
+ {
+  "id": "P0179",
+  "name": "Blue Harbour Shrimp Paste 500 g",
+  "brand": "Blue Harbour",
+  "category": "shellfish",
+  "package": "500 g",
+  "ingredient_ids": [
+   "shrimp_paste"
+  ],
+  "unit_price": 3499,
+  "stock": 15,
+  "updated_at": "2026-10-01T01:00:00+00:00"
+ },
+ {
+  "id": "P0180",
+  "name": "Ocean's Catch Mussels 500 g",
+  "brand": "Ocean's Catch",
+  "category": "shellfish",
+  "package": "500 g",
+  "ingredient_ids": [
+   "mussels"
+  ],
+  "unit_price": 4259,
+  "stock": 127,
+  "updated_at": "2026-09-29T03:00:00+00:00"
+ },
+ {
+  "id": "P0181",
+  "name": "Blue Harbour Mussels 500 g",
+  "brand": "Blue Harbour",
+  "category": "shellfish",
+  "package": "500 g",
+  "ingredient_ids": [
+   "mussels"
+  ],
+  "unit_price": 5179,
+  "stock": 134,
+  "updated_at": "2026-09-30T21:00:00+00:00"
+ },
+ {
+  "id": "P0182",
+  "name": "Ocean's Catch Clams 500 g",
+  "brand": "Ocean's Catch",
+  "category": "shellfish",
+  "package": "500 g",
+  "ingredient_ids": [
+   "clams"
+  ],
+  "unit_price": 4729,
+  "stock": 176,
+  "updated_at": "2026-09-28T21:00:00+00:00"
+ },
+ {
+  "id": "P0183",
+  "name": "Blue Harbour Clams 250 g",
+  "brand": "Blue Harbour",
+  "category": "shellfish",
+  "package": "250 g",
+  "ingredient_ids": [
+   "clams"
+  ],
+  "unit_price": 5919,
+  "stock": 59,
+  "updated_at": "2026-09-29T09:00:00+00:00"
+ },
+ {
+  "id": "P0184",
+  "name": "Ocean's Catch Squid 500 g",
+  "brand": "Ocean's Catch",
+  "category": "shellfish",
+  "package": "500 g",
+  "ingredient_ids": [
+   "squid"
+  ],
+  "unit_price": 8889,
+  "stock": 0,
+  "updated_at": "2026-09-30T09:00:00+00:00"
+ },
+ {
+  "id": "P0185",
+  "name": "GreenField Chickpeas 400 g",
+  "brand": "GreenField",
+  "category": "legume",
+  "package": "400 g",
+  "ingredient_ids": [
+   "chickpeas"
+  ],
+  "unit_price": 499,
+  "stock": 38,
+  "updated_at": "2026-09-30T03:00:00+00:00"
+ },
+ {
+  "id": "P0186",
+  "name": "GreenField Red Lentils 400 g",
+  "brand": "GreenField",
+  "category": "legume",
+  "package": "400 g",
+  "ingredient_ids": [
+   "lentils"
+  ],
+  "unit_price": 489,
+  "stock": 130,
+  "updated_at": "2026-09-29T04:00:00+00:00"
+ },
+ {
+  "id": "P0187",
+  "name": "Daily Basics Red Lentils 500 g",
+  "brand": "Daily Basics",
+  "category": "legume",
+  "package": "500 g",
+  "ingredient_ids": [
+   "lentils"
+  ],
+  "unit_price": 409,
+  "stock": 183,
+  "updated_at": "2026-09-30T06:00:00+00:00"
+ },
+ {
+  "id": "P0188",
+  "name": "Bella Cucina Red Lentils 400 g",
+  "brand": "Bella Cucina",
+  "category": "legume",
+  "package": "400 g",
+  "ingredient_ids": [
+   "lentils"
+  ],
+  "unit_price": 639,
+  "stock": 209,
+  "updated_at": "2026-09-29T14:00:00+00:00"
+ },
+ {
+  "id": "P0189",
+  "name": "GreenField Yellow Split Peas 500 g",
+  "brand": "GreenField",
+  "category": "legume",
+  "package": "500 g",
+  "ingredient_ids": [
+   "split_peas"
+  ],
+  "unit_price": 339,
+  "stock": 13,
+  "updated_at": "2026-09-29T04:00:00+00:00"
+ },
+ {
+  "id": "P0190",
+  "name": "GreenField Black Beans 400 g",
+  "brand": "GreenField",
+  "category": "legume",
+  "package": "400 g",
+  "ingredient_ids": [
+   "black_beans"
+  ],
+  "unit_price": 299,
+  "stock": 223,
+  "updated_at": "2026-09-29T19:00:00+00:00"
+ },
+ {
+  "id": "P0191",
+  "name": "Daily Basics Black Beans 400 g",
+  "brand": "Daily Basics",
+  "category": "legume",
+  "package": "400 g",
+  "ingredient_ids": [
+   "black_beans"
+  ],
+  "unit_price": 689,
+  "stock": 184,
+  "updated_at": "2026-09-29T06:00:00+00:00"
+ },
+ {
+  "id": "P0192",
+  "name": "Bella Cucina Black Beans 400 g",
+  "brand": "Bella Cucina",
+  "category": "legume",
+  "package": "400 g",
+  "ingredient_ids": [
+   "black_beans"
+  ],
+  "unit_price": 489,
+  "stock": 250,
+  "updated_at": "2026-09-29T18:00:00+00:00"
+ },
+ {
+  "id": "P0193",
+  "name": "GreenField Kidney Beans 400 g",
+  "brand": "GreenField",
+  "category": "legume",
+  "package": "400 g",
+  "ingredient_ids": [
+   "kidney_beans"
+  ],
+  "unit_price": 409,
+  "stock": 120,
+  "updated_at": "2026-09-29T13:00:00+00:00"
+ },
+ {
+  "id": "P0194",
+  "name": "GreenField White Beans 400 g",
+  "brand": "GreenField",
+  "category": "legume",
+  "package": "400 g",
+  "ingredient_ids": [
+   "white_beans"
+  ],
+  "unit_price": 349,
+  "stock": 65,
+  "updated_at": "2026-09-29T04:00:00+00:00"
+ },
+ {
+  "id": "P0195",
+  "name": "Daily Basics White Beans 400 g",
+  "brand": "Daily Basics",
+  "category": "legume",
+  "package": "400 g",
+  "ingredient_ids": [
+   "white_beans"
+  ],
+  "unit_price": 699,
+  "stock": 104,
+  "updated_at": "2026-09-29T20:00:00+00:00"
+ },
+ {
+  "id": "P0196",
+  "name": "Bella Cucina White Beans 500 g",
+  "brand": "Bella Cucina",
+  "category": "legume",
+  "package": "500 g",
+  "ingredient_ids": [
+   "white_beans"
+  ],
+  "unit_price": 809,
+  "stock": 202,
+  "updated_at": "2026-09-30T14:00:00+00:00"
+ },
+ {
+  "id": "P0197",
+  "name": "GreenField Soybeans 400 g",
+  "brand": "GreenField",
+  "category": "legume",
+  "package": "400 g",
+  "ingredient_ids": [
+   "soybean"
+  ],
+  "unit_price": 339,
+  "stock": 138,
+  "updated_at": "2026-09-28T18:00:00+00:00"
+ },
+ {
+  "id": "P0198",
+  "name": "GreenField Edamame 400 g",
+  "brand": "GreenField",
+  "category": "legume",
+  "package": "400 g",
+  "ingredient_ids": [
+   "edamame"
+  ],
+  "unit_price": 429,
+  "stock": 92,
+  "updated_at": "2026-09-30T17:00:00+00:00"
+ },
+ {
+  "id": "P0199",
+  "name": "Daily Basics Edamame 400 g",
+  "brand": "Daily Basics",
+  "category": "legume",
+  "package": "400 g",
+  "ingredient_ids": [
+   "edamame"
+  ],
+  "unit_price": 459,
+  "stock": 53,
+  "updated_at": "2026-09-30T13:00:00+00:00"
+ },
+ {
+  "id": "P0200",
+  "name": "Bella Cucina Edamame 500 g",
+  "brand": "Bella Cucina",
+  "category": "legume",
+  "package": "500 g",
+  "ingredient_ids": [
+   "edamame"
+  ],
+  "unit_price": 709,
+  "stock": 170,
+  "updated_at": "2026-10-01T02:00:00+00:00"
+ },
+ {
+  "id": "P0201",
+  "name": "GreenField Lupin Flour 500 g",
+  "brand": "GreenField",
+  "category": "legume",
+  "package": "500 g",
+  "ingredient_ids": [
+   "lupin_flour"
+  ],
+  "unit_price": 409,
+  "stock": 129,
+  "updated_at": "2026-09-29T00:00:00+00:00"
+ },
+ {
+  "id": "P0202",
+  "name": "Daily Basics Lupin Flour 500 g",
+  "brand": "Daily Basics",
+  "category": "legume",
+  "package": "500 g",
+  "ingredient_ids": [
+   "lupin_flour"
+  ],
+  "unit_price": 819,
+  "stock": 117,
+  "updated_at": "2026-09-29T18:00:00+00:00"
+ },
+ {
+  "id": "P0203",
+  "name": "Bella Cucina Lupin Flour 400 g",
+  "brand": "Bella Cucina",
+  "category": "legume",
+  "package": "400 g",
+  "ingredient_ids": [
+   "lupin_flour"
+  ],
+  "unit_price": 889,
+  "stock": 41,
+  "updated_at": "2026-09-29T03:00:00+00:00"
+ },
+ {
+  "id": "P0204",
+  "name": "Nutcracker Peanuts 100 g",
+  "brand": "Nutcracker",
+  "category": "nut",
+  "package": "100 g",
+  "ingredient_ids": [
+   "peanuts"
+  ],
+  "unit_price": 1159,
+  "stock": 80,
+  "updated_at": "2026-09-30T00:00:00+00:00"
+ },
+ {
+  "id": "P0205",
+  "name": "Daily Basics Peanuts 200 g",
+  "brand": "Daily Basics",
+  "category": "nut",
+  "package": "200 g",
+  "ingredient_ids": [
+   "peanuts"
+  ],
+  "unit_price": 2469,
+  "stock": 21,
+  "updated_at": "2026-09-29T20:00:00+00:00"
+ },
+ {
+  "id": "P0206",
+  "name": "Nutcracker Peanut Butter 100 g",
+  "brand": "Nutcracker",
+  "category": "nut",
+  "package": "100 g",
+  "ingredient_ids": [
+   "peanut_butter"
+  ],
+  "unit_price": 2139,
+  "stock": 0,
+  "updated_at": "2026-09-29T12:00:00+00:00"
+ },
+ {
+  "id": "P0207",
+  "name": "Daily Basics Peanut Butter 200 g",
+  "brand": "Daily Basics",
+  "category": "nut",
+  "package": "200 g",
+  "ingredient_ids": [
+   "peanut_butter"
+  ],
+  "unit_price": 3069,
+  "stock": 0,
+  "updated_at": "2026-10-01T00:00:00+00:00"
+ },
+ {
+  "id": "P0208",
+  "name": "Nutcracker Almonds 200 g",
+  "brand": "Nutcracker",
+  "category": "nut",
+  "package": "200 g",
+  "ingredient_ids": [
+   "almonds"
+  ],
+  "unit_price": 2529,
+  "stock": 121,
+  "updated_at": "2026-09-28T13:00:00+00:00"
+ },
+ {
+  "id": "P0209",
+  "name": "Daily Basics Almonds 100 g",
+  "brand": "Daily Basics",
+  "category": "nut",
+  "package": "100 g",
+  "ingredient_ids": [
+   "almonds"
+  ],
+  "unit_price": 3379,
+  "stock": 13,
+  "updated_at": "2026-09-29T02:00:00+00:00"
+ },
+ {
+  "id": "P0210",
+  "name": "Nutcracker Cashews 200 g",
+  "brand": "Nutcracker",
+  "category": "nut",
+  "package": "200 g",
+  "ingredient_ids": [
+   "cashews"
+  ],
+  "unit_price": 3259,
+  "stock": 51,
+  "updated_at": "2026-09-29T18:00:00+00:00"
+ },
+ {
+  "id": "P0211",
+  "name": "Nutcracker Walnuts 100 g",
+  "brand": "Nutcracker",
+  "category": "nut",
+  "package": "100 g",
+  "ingredient_ids": [
+   "walnuts"
+  ],
+  "unit_price": 2499,
+  "stock": 248,
+  "updated_at": "2026-10-01T04:00:00+00:00"
+ },
+ {
+  "id": "P0212",
+  "name": "Nutcracker Hazelnuts 200 g",
+  "brand": "Nutcracker",
+  "category": "nut",
+  "package": "200 g",
+  "ingredient_ids": [
+   "hazelnuts"
+  ],
+  "unit_price": 2119,
+  "stock": 217,
+  "updated_at": "2026-09-29T16:00:00+00:00"
+ },
+ {
+  "id": "P0213",
+  "name": "Nutcracker Pistachios 200 g",
+  "brand": "Nutcracker",
+  "category": "nut",
+  "package": "200 g",
+  "ingredient_ids": [
+   "pistachios"
+  ],
+  "unit_price": 3449,
+  "stock": 168,
+  "updated_at": "2026-09-30T13:00:00+00:00"
+ },
+ {
+  "id": "P0214",
+  "name": "Nutcracker Pine Nuts 100 g",
+  "brand": "Nutcracker",
+  "category": "nut",
+  "package": "100 g",
+  "ingredient_ids": [
+   "pine_nuts"
+  ],
+  "unit_price": 1089,
+  "stock": 115,
+  "updated_at": "2026-09-28T16:00:00+00:00"
+ },
+ {
+  "id": "P0215",
+  "name": "Nutcracker Sesame Seeds 300 g",
+  "brand": "Nutcracker",
+  "category": "seed",
+  "package": "300 g",
+  "ingredient_ids": [
+   "sesame"
+  ],
+  "unit_price": 1579,
+  "stock": 98,
+  "updated_at": "2026-09-29T23:00:00+00:00"
+ },
+ {
+  "id": "P0216",
+  "name": "GreenField Sesame Seeds 150 g",
+  "brand": "GreenField",
+  "category": "seed",
+  "package": "150 g",
+  "ingredient_ids": [
+   "sesame"
+  ],
+  "unit_price": 1329,
+  "stock": 176,
+  "updated_at": "2026-10-01T05:00:00+00:00"
+ },
+ {
+  "id": "P0217",
+  "name": "Nutcracker Tahini 300 g",
+  "brand": "Nutcracker",
+  "category": "seed",
+  "package": "300 g",
+  "ingredient_ids": [
+   "tahini"
+  ],
+  "unit_price": 2089,
+  "stock": 19,
+  "updated_at": "2026-09-29T17:00:00+00:00"
+ },
+ {
+  "id": "P0218",
+  "name": "GreenField Tahini 150 g",
+  "brand": "GreenField",
+  "category": "seed",
+  "package": "150 g",
+  "ingredient_ids": [
+   "tahini"
+  ],
+  "unit_price": 769,
+  "stock": 75,
+  "updated_at": "2026-09-30T03:00:00+00:00"
+ },
+ {
+  "id": "P0219",
+  "name": "Nutcracker Sunflower Seeds 150 g",
+  "brand": "Nutcracker",
+  "category": "seed",
+  "package": "150 g",
+  "ingredient_ids": [
+   "sunflower_seeds"
+  ],
+  "unit_price": 1969,
+  "stock": 235,
+  "updated_at": "2026-09-30T16:00:00+00:00"
+ },
+ {
+  "id": "P0220",
+  "name": "GreenField Sunflower Seeds 150 g",
+  "brand": "GreenField",
+  "category": "seed",
+  "package": "150 g",
+  "ingredient_ids": [
+   "sunflower_seeds"
+  ],
+  "unit_price": 1219,
+  "stock": 39,
+  "updated_at": "2026-09-29T15:00:00+00:00"
+ },
+ {
+  "id": "P0221",
+  "name": "Nutcracker Pumpkin Seeds 150 g",
+  "brand": "Nutcracker",
+  "category": "seed",
+  "package": "150 g",
+  "ingredient_ids": [
+   "pumpkin_seeds"
+  ],
+  "unit_price": 1179,
+  "stock": 172,
+  "updated_at": "2026-09-29T09:00:00+00:00"
+ },
+ {
+  "id": "P0222",
+  "name": "GreenField Pumpkin Seeds 150 g",
+  "brand": "GreenField",
+  "category": "seed",
+  "package": "150 g",
+  "ingredient_ids": [
+   "pumpkin_seeds"
+  ],
+  "unit_price": 839,
+  "stock": 24,
+  "updated_at": "2026-09-29T20:00:00+00:00"
+ },
+ {
+  "id": "P0223",
+  "name": "Nutcracker Sunflower Seed Butter 300 g",
+  "brand": "Nutcracker",
+  "category": "seed",
+  "package": "300 g",
+  "ingredient_ids": [
+   "sunflower_butter"
+  ],
+  "unit_price": 1649,
+  "stock": 87,
+  "updated_at": "2026-09-30T19:00:00+00:00"
+ },
+ {
+  "id": "P0224",
+  "name": "Spice Route Mustard Seed 30 g",
+  "brand": "Spice Route",
+  "category": "spice",
+  "package": "30 g",
+  "ingredient_ids": [
+   "mustard_seed"
+  ],
+  "unit_price": 959,
+  "stock": 192,
+  "updated_at": "2026-09-28T16:00:00+00:00"
+ },
+ {
+  "id": "P0225",
+  "name": "Daily Basics Mustard Seed 50 g",
+  "brand": "Daily Basics",
+  "category": "spice",
+  "package": "50 g",
+  "ingredient_ids": [
+   "mustard_seed"
+  ],
+  "unit_price": 379,
+  "stock": 133,
+  "updated_at": "2026-09-29T13:00:00+00:00"
+ },
+ {
+  "id": "P0226",
+  "name": "FreshFarm Tomatoes 1 pc",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "tomato"
+  ],
+  "unit_price": 199,
+  "stock": 246,
+  "updated_at": "2026-09-30T08:00:00+00:00"
+ },
+ {
+  "id": "P0227",
+  "name": "FreshFarm Chopped Tomatoes 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "canned_tomatoes"
+  ],
+  "unit_price": 459,
+  "stock": 52,
+  "updated_at": "2026-09-30T07:00:00+00:00"
+ },
+ {
+  "id": "P0228",
+  "name": "Daily Basics Chopped Tomatoes 1 pc",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "canned_tomatoes"
+  ],
+  "unit_price": 989,
+  "stock": 78,
+  "updated_at": "2026-09-30T23:00:00+00:00"
+ },
+ {
+  "id": "P0229",
+  "name": "Market Garden Chopped Tomatoes 1 kg",
+  "brand": "Market Garden",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "canned_tomatoes"
+  ],
+  "unit_price": 599,
+  "stock": 192,
+  "updated_at": "2026-09-28T16:00:00+00:00"
+ },
+ {
+  "id": "P0230",
+  "name": "FreshFarm Tomato Paste 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "tomato_paste"
+  ],
+  "unit_price": 219,
+  "stock": 199,
+  "updated_at": "2026-09-30T19:00:00+00:00"
+ },
+ {
+  "id": "P0231",
+  "name": "Daily Basics Tomato Paste 500 g",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "tomato_paste"
+  ],
+  "unit_price": 669,
+  "stock": 49,
+  "updated_at": "2026-09-30T14:00:00+00:00"
+ },
+ {
+  "id": "P0232",
+  "name": "FreshFarm Onions 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "onion"
+  ],
+  "unit_price": 769,
+  "stock": 0,
+  "updated_at": "2026-09-29T13:00:00+00:00"
+ },
+ {
+  "id": "P0233",
+  "name": "Daily Basics Onions 1 kg",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "onion"
+  ],
+  "unit_price": 729,
+  "stock": 116,
+  "updated_at": "2026-09-29T23:00:00+00:00"
+ },
+ {
+  "id": "P0234",
+  "name": "Market Garden Onions 500 g",
+  "brand": "Market Garden",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "onion"
+  ],
+  "unit_price": 789,
+  "stock": 62,
+  "updated_at": "2026-09-28T15:00:00+00:00"
+ },
+ {
+  "id": "P0235",
+  "name": "FreshFarm Red Onions 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "red_onion"
+  ],
+  "unit_price": 379,
+  "stock": 203,
+  "updated_at": "2026-09-28T23:00:00+00:00"
+ },
+ {
+  "id": "P0236",
+  "name": "FreshFarm Spring Onions 1 pc",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "spring_onion"
+  ],
+  "unit_price": 909,
+  "stock": 176,
+  "updated_at": "2026-09-29T03:00:00+00:00"
+ },
+ {
+  "id": "P0237",
+  "name": "FreshFarm Garlic 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "garlic"
+  ],
+  "unit_price": 559,
+  "stock": 100,
+  "updated_at": "2026-09-28T19:00:00+00:00"
+ },
+ {
+  "id": "P0238",
+  "name": "Daily Basics Garlic 1 pc",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "garlic"
+  ],
+  "unit_price": 609,
+  "stock": 212,
+  "updated_at": "2026-09-30T10:00:00+00:00"
+ },
+ {
+  "id": "P0239",
+  "name": "FreshFarm Carrots 1 pc",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "carrot"
+  ],
+  "unit_price": 829,
+  "stock": 67,
+  "updated_at": "2026-10-01T05:00:00+00:00"
+ },
+ {
+  "id": "P0240",
+  "name": "Daily Basics Carrots 1 pc",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "carrot"
+  ],
+  "unit_price": 699,
+  "stock": 144,
+  "updated_at": "2026-09-30T22:00:00+00:00"
+ },
+ {
+  "id": "P0241",
+  "name": "FreshFarm Celery 1 pc",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "celery"
+  ],
+  "unit_price": 759,
+  "stock": 34,
+  "updated_at": "2026-09-29T23:00:00+00:00"
+ },
+ {
+  "id": "P0242",
+  "name": "Daily Basics Celery 500 g",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "celery"
+  ],
+  "unit_price": 259,
+  "stock": 118,
+  "updated_at": "2026-09-28T18:00:00+00:00"
+ },
+ {
+  "id": "P0243",
+  "name": "FreshFarm Celeriac 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "celeriac"
+  ],
+  "unit_price": 309,
+  "stock": 245,
+  "updated_at": "2026-09-30T07:00:00+00:00"
+ },
+ {
+  "id": "P0244",
+  "name": "FreshFarm Fennel 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "fennel"
+  ],
+  "unit_price": 839,
+  "stock": 241,
+  "updated_at": "2026-10-01T08:00:00+00:00"
+ },
+ {
+  "id": "P0245",
+  "name": "Daily Basics Fennel 1 pc",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "fennel"
+  ],
+  "unit_price": 519,
+  "stock": 98,
+  "updated_at": "2026-09-30T05:00:00+00:00"
+ },
+ {
+  "id": "P0246",
+  "name": "Market Garden Fennel 500 g",
+  "brand": "Market Garden",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "fennel"
+  ],
+  "unit_price": 499,
+  "stock": 60,
+  "updated_at": "2026-10-01T08:00:00+00:00"
+ },
+ {
+  "id": "P0247",
+  "name": "FreshFarm Leeks 1 pc",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "leek"
+  ],
+  "unit_price": 439,
+  "stock": 185,
+  "updated_at": "2026-09-29T17:00:00+00:00"
+ },
+ {
+  "id": "P0248",
+  "name": "Daily Basics Leeks 1 pc",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "leek"
+  ],
+  "unit_price": 819,
+  "stock": 76,
+  "updated_at": "2026-09-28T23:00:00+00:00"
+ },
+ {
+  "id": "P0249",
+  "name": "FreshFarm Bell Peppers 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "bell_pepper"
+  ],
+  "unit_price": 749,
+  "stock": 183,
+  "updated_at": "2026-09-28T23:00:00+00:00"
+ },
+ {
+  "id": "P0250",
+  "name": "FreshFarm Fresh Chili 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "chili"
+  ],
+  "unit_price": 549,
+  "stock": 0,
+  "updated_at": "2026-10-01T01:00:00+00:00"
+ },
+ {
+  "id": "P0251",
+  "name": "FreshFarm Zucchini 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "zucchini"
+  ],
+  "unit_price": 209,
+  "stock": 41,
+  "updated_at": "2026-09-28T13:00:00+00:00"
+ },
+ {
+  "id": "P0252",
+  "name": "Daily Basics Zucchini 500 g",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "zucchini"
+  ],
+  "unit_price": 939,
+  "stock": 111,
+  "updated_at": "2026-09-30T21:00:00+00:00"
+ },
+ {
+  "id": "P0253",
+  "name": "FreshFarm Eggplant 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "eggplant"
+  ],
+  "unit_price": 809,
+  "stock": 34,
+  "updated_at": "2026-10-01T05:00:00+00:00"
+ },
+ {
+  "id": "P0254",
+  "name": "Daily Basics Eggplant 1 pc",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "eggplant"
+  ],
+  "unit_price": 379,
+  "stock": 162,
+  "updated_at": "2026-09-29T01:00:00+00:00"
+ },
+ {
+  "id": "P0255",
+  "name": "FreshFarm Spinach 1 pc",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "spinach"
+  ],
+  "unit_price": 239,
+  "stock": 130,
+  "updated_at": "2026-09-28T15:00:00+00:00"
+ },
+ {
+  "id": "P0256",
+  "name": "FreshFarm Mushrooms 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "mushroom"
+  ],
+  "unit_price": 199,
+  "stock": 64,
+  "updated_at": "2026-09-30T17:00:00+00:00"
+ },
+ {
+  "id": "P0257",
+  "name": "FreshFarm Potatoes 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "potato"
+  ],
+  "unit_price": 419,
+  "stock": 0,
+  "updated_at": "2026-09-29T14:00:00+00:00"
+ },
+ {
+  "id": "P0258",
+  "name": "Daily Basics Potatoes 1 pc",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "potato"
+  ],
+  "unit_price": 379,
+  "stock": 173,
+  "updated_at": "2026-10-01T01:00:00+00:00"
+ },
+ {
+  "id": "P0259",
+  "name": "Market Garden Potatoes 1 pc",
+  "brand": "Market Garden",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "potato"
+  ],
+  "unit_price": 609,
+  "stock": 247,
+  "updated_at": "2026-09-28T16:00:00+00:00"
+ },
+ {
+  "id": "P0260",
+  "name": "FreshFarm Sweet Potatoes 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "sweet_potato"
+  ],
+  "unit_price": 629,
+  "stock": 132,
+  "updated_at": "2026-09-28T13:00:00+00:00"
+ },
+ {
+  "id": "P0261",
+  "name": "FreshFarm Broccoli 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "broccoli"
+  ],
+  "unit_price": 209,
+  "stock": 14,
+  "updated_at": "2026-09-29T10:00:00+00:00"
+ },
+ {
+  "id": "P0262",
+  "name": "FreshFarm Cauliflower 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "cauliflower"
+  ],
+  "unit_price": 969,
+  "stock": 7,
+  "updated_at": "2026-09-29T14:00:00+00:00"
+ },
+ {
+  "id": "P0263",
+  "name": "Daily Basics Cauliflower 500 g",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "cauliflower"
+  ],
+  "unit_price": 819,
+  "stock": 190,
+  "updated_at": "2026-09-30T22:00:00+00:00"
+ },
+ {
+  "id": "P0264",
+  "name": "FreshFarm White Cabbage 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "cabbage"
+  ],
+  "unit_price": 809,
+  "stock": 88,
+  "updated_at": "2026-09-30T18:00:00+00:00"
+ },
+ {
+  "id": "P0265",
+  "name": "Daily Basics White Cabbage 1 kg",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "cabbage"
+  ],
+  "unit_price": 229,
+  "stock": 211,
+  "updated_at": "2026-09-30T13:00:00+00:00"
+ },
+ {
+  "id": "P0266",
+  "name": "Market Garden White Cabbage 1 pc",
+  "brand": "Market Garden",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "cabbage"
+  ],
+  "unit_price": 849,
+  "stock": 181,
+  "updated_at": "2026-09-28T22:00:00+00:00"
+ },
+ {
+  "id": "P0267",
+  "name": "FreshFarm Bok Choy 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "bok_choy"
+  ],
+  "unit_price": 699,
+  "stock": 19,
+  "updated_at": "2026-09-29T01:00:00+00:00"
+ },
+ {
+  "id": "P0268",
+  "name": "Daily Basics Bok Choy 1 kg",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "bok_choy"
+  ],
+  "unit_price": 219,
+  "stock": 205,
+  "updated_at": "2026-09-30T10:00:00+00:00"
+ },
+ {
+  "id": "P0269",
+  "name": "Market Garden Bok Choy 500 g",
+  "brand": "Market Garden",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "bok_choy"
+  ],
+  "unit_price": 899,
+  "stock": 82,
+  "updated_at": "2026-09-28T18:00:00+00:00"
+ },
+ {
+  "id": "P0270",
+  "name": "FreshFarm Cucumber 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "cucumber"
+  ],
+  "unit_price": 509,
+  "stock": 124,
+  "updated_at": "2026-09-30T03:00:00+00:00"
+ },
+ {
+  "id": "P0271",
+  "name": "Daily Basics Cucumber 1 kg",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "cucumber"
+  ],
+  "unit_price": 219,
+  "stock": 76,
+  "updated_at": "2026-09-29T14:00:00+00:00"
+ },
+ {
+  "id": "P0272",
+  "name": "Market Garden Cucumber 500 g",
+  "brand": "Market Garden",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "cucumber"
+  ],
+  "unit_price": 879,
+  "stock": 0,
+  "updated_at": "2026-09-29T17:00:00+00:00"
+ },
+ {
+  "id": "P0273",
+  "name": "FreshFarm Lettuce 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "lettuce"
+  ],
+  "unit_price": 409,
+  "stock": 114,
+  "updated_at": "2026-09-29T08:00:00+00:00"
+ },
+ {
+  "id": "P0274",
+  "name": "Daily Basics Lettuce 500 g",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "lettuce"
+  ],
+  "unit_price": 779,
+  "stock": 101,
+  "updated_at": "2026-09-29T16:00:00+00:00"
+ },
+ {
+  "id": "P0275",
+  "name": "FreshFarm Avocado 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "avocado"
+  ],
+  "unit_price": 969,
+  "stock": 130,
+  "updated_at": "2026-09-29T12:00:00+00:00"
+ },
+ {
+  "id": "P0276",
+  "name": "Daily Basics Avocado 1 kg",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "avocado"
+  ],
+  "unit_price": 929,
+  "stock": 208,
+  "updated_at": "2026-10-01T01:00:00+00:00"
+ },
+ {
+  "id": "P0277",
+  "name": "FreshFarm Sweetcorn 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "corn"
+  ],
+  "unit_price": 769,
+  "stock": 0,
+  "updated_at": "2026-09-30T12:00:00+00:00"
+ },
+ {
+  "id": "P0278",
+  "name": "FreshFarm Green Peas 1 pc",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "peas"
+  ],
+  "unit_price": 629,
+  "stock": 23,
+  "updated_at": "2026-09-29T18:00:00+00:00"
+ },
+ {
+  "id": "P0279",
+  "name": "FreshFarm Green Beans 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "green_beans"
+  ],
+  "unit_price": 719,
+  "stock": 157,
+  "updated_at": "2026-09-29T05:00:00+00:00"
+ },
+ {
+  "id": "P0280",
+  "name": "FreshFarm Bean Sprouts 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "bean_sprouts"
+  ],
+  "unit_price": 319,
+  "stock": 117,
+  "updated_at": "2026-10-01T06:00:00+00:00"
+ },
+ {
+  "id": "P0281",
+  "name": "Daily Basics Bean Sprouts 500 g",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "bean_sprouts"
+  ],
+  "unit_price": 769,
+  "stock": 160,
+  "updated_at": "2026-09-29T04:00:00+00:00"
+ },
+ {
+  "id": "P0282",
+  "name": "FreshFarm Green Papaya 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "green_papaya"
+  ],
+  "unit_price": 409,
+  "stock": 245,
+  "updated_at": "2026-10-01T04:00:00+00:00"
+ },
+ {
+  "id": "P0283",
+  "name": "Daily Basics Green Papaya 1 pc",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "green_papaya"
+  ],
+  "unit_price": 249,
+  "stock": 96,
+  "updated_at": "2026-09-28T18:00:00+00:00"
+ },
+ {
+  "id": "P0284",
+  "name": "FreshFarm Plantain 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "plantain"
+  ],
+  "unit_price": 829,
+  "stock": 246,
+  "updated_at": "2026-10-01T08:00:00+00:00"
+ },
+ {
+  "id": "P0285",
+  "name": "Daily Basics Plantain 1 pc",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "plantain"
+  ],
+  "unit_price": 299,
+  "stock": 203,
+  "updated_at": "2026-09-29T03:00:00+00:00"
+ },
+ {
+  "id": "P0286",
+  "name": "Market Garden Plantain 1 pc",
+  "brand": "Market Garden",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "plantain"
+  ],
+  "unit_price": 219,
+  "stock": 0,
+  "updated_at": "2026-09-29T13:00:00+00:00"
+ },
+ {
+  "id": "P0287",
+  "name": "FreshFarm Olives 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "olives"
+  ],
+  "unit_price": 479,
+  "stock": 11,
+  "updated_at": "2026-09-30T16:00:00+00:00"
+ },
+ {
+  "id": "P0288",
+  "name": "Daily Basics Olives 500 g",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "olives"
+  ],
+  "unit_price": 729,
+  "stock": 98,
+  "updated_at": "2026-09-29T03:00:00+00:00"
+ },
+ {
+  "id": "P0289",
+  "name": "FreshFarm Capers 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "capers"
+  ],
+  "unit_price": 799,
+  "stock": 138,
+  "updated_at": "2026-09-29T13:00:00+00:00"
+ },
+ {
+  "id": "P0290",
+  "name": "Daily Basics Capers 1 pc",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "capers"
+  ],
+  "unit_price": 509,
+  "stock": 66,
+  "updated_at": "2026-09-30T21:00:00+00:00"
+ },
+ {
+  "id": "P0291",
+  "name": "FreshFarm Nori Seaweed 500 g",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "nori"
+  ],
+  "unit_price": 209,
+  "stock": 135,
+  "updated_at": "2026-09-29T10:00:00+00:00"
+ },
+ {
+  "id": "P0292",
+  "name": "Daily Basics Nori Seaweed 500 g",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "500 g",
+  "ingredient_ids": [
+   "nori"
+  ],
+  "unit_price": 919,
+  "stock": 201,
+  "updated_at": "2026-09-30T02:00:00+00:00"
+ },
+ {
+  "id": "P0293",
+  "name": "FreshFarm Kimchi 1 kg",
+  "brand": "FreshFarm",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "kimchi"
+  ],
+  "unit_price": 749,
+  "stock": 159,
+  "updated_at": "2026-09-29T23:00:00+00:00"
+ },
+ {
+  "id": "P0294",
+  "name": "Daily Basics Kimchi 1 kg",
+  "brand": "Daily Basics",
+  "category": "vegetable",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "kimchi"
+  ],
+  "unit_price": 749,
+  "stock": 54,
+  "updated_at": "2026-09-30T20:00:00+00:00"
+ },
+ {
+  "id": "P0295",
+  "name": "Market Garden Kimchi 1 pc",
+  "brand": "Market Garden",
+  "category": "vegetable",
+  "package": "1 pc",
+  "ingredient_ids": [
+   "kimchi"
+  ],
+  "unit_price": 299,
+  "stock": 0,
+  "updated_at": "2026-09-30T13:00:00+00:00"
+ },
+ {
+  "id": "P0296",
+  "name": "FreshFarm Lemons 1 kg",
+  "brand": "FreshFarm",
+  "category": "fruit",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "lemon"
+  ],
+  "unit_price": 1369,
+  "stock": 25,
+  "updated_at": "2026-09-29T19:00:00+00:00"
+ },
+ {
+  "id": "P0297",
+  "name": "Market Garden Lemons 500 g",
+  "brand": "Market Garden",
+  "category": "fruit",
+  "package": "500 g",
+  "ingredient_ids": [
+   "lemon"
+  ],
+  "unit_price": 1089,
+  "stock": 143,
+  "updated_at": "2026-09-28T14:00:00+00:00"
+ },
+ {
+  "id": "P0298",
+  "name": "FreshFarm Limes 500 g",
+  "brand": "FreshFarm",
+  "category": "fruit",
+  "package": "500 g",
+  "ingredient_ids": [
+   "lime"
+  ],
+  "unit_price": 639,
+  "stock": 43,
+  "updated_at": "2026-09-30T13:00:00+00:00"
+ },
+ {
+  "id": "P0299",
+  "name": "Market Garden Limes 1 kg",
+  "brand": "Market Garden",
+  "category": "fruit",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "lime"
+  ],
+  "unit_price": 1239,
+  "stock": 34,
+  "updated_at": "2026-09-30T10:00:00+00:00"
+ },
+ {
+  "id": "P0300",
+  "name": "FreshFarm Apples 1 kg",
+  "brand": "FreshFarm",
+  "category": "fruit",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "apple"
+  ],
+  "unit_price": 1239,
+  "stock": 129,
+  "updated_at": "2026-10-01T08:00:00+00:00"
+ },
+ {
+  "id": "P0301",
+  "name": "FreshFarm Bananas 500 g",
+  "brand": "FreshFarm",
+  "category": "fruit",
+  "package": "500 g",
+  "ingredient_ids": [
+   "banana"
+  ],
+  "unit_price": 719,
+  "stock": 122,
+  "updated_at": "2026-09-28T13:00:00+00:00"
+ },
+ {
+  "id": "P0302",
+  "name": "FreshFarm Mixed Berries 1 kg",
+  "brand": "FreshFarm",
+  "category": "fruit",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "berries"
+  ],
+  "unit_price": 449,
+  "stock": 19,
+  "updated_at": "2026-09-29T20:00:00+00:00"
+ },
+ {
+  "id": "P0303",
+  "name": "Market Garden Mixed Berries 500 g",
+  "brand": "Market Garden",
+  "category": "fruit",
+  "package": "500 g",
+  "ingredient_ids": [
+   "berries"
+  ],
+  "unit_price": 769,
+  "stock": 125,
+  "updated_at": "2026-09-28T16:00:00+00:00"
+ },
+ {
+  "id": "P0304",
+  "name": "FreshFarm Mango 1 kg",
+  "brand": "FreshFarm",
+  "category": "fruit",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "mango"
+  ],
+  "unit_price": 779,
+  "stock": 150,
+  "updated_at": "2026-10-01T02:00:00+00:00"
+ },
+ {
+  "id": "P0305",
+  "name": "Market Garden Mango 500 g",
+  "brand": "Market Garden",
+  "category": "fruit",
+  "package": "500 g",
+  "ingredient_ids": [
+   "mango"
+  ],
+  "unit_price": 439,
+  "stock": 21,
+  "updated_at": "2026-09-29T02:00:00+00:00"
+ },
+ {
+  "id": "P0306",
+  "name": "FreshFarm Pineapple 1 kg",
+  "brand": "FreshFarm",
+  "category": "fruit",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "pineapple"
+  ],
+  "unit_price": 849,
+  "stock": 35,
+  "updated_at": "2026-09-28T13:00:00+00:00"
+ },
+ {
+  "id": "P0307",
+  "name": "Market Garden Pineapple 1 kg",
+  "brand": "Market Garden",
+  "category": "fruit",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "pineapple"
+  ],
+  "unit_price": 1059,
+  "stock": 250,
+  "updated_at": "2026-09-30T19:00:00+00:00"
+ },
+ {
+  "id": "P0308",
+  "name": "FreshFarm Dried Apricots 1 kg",
+  "brand": "FreshFarm",
+  "category": "fruit",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "dried_apricots"
+  ],
+  "unit_price": 809,
+  "stock": 17,
+  "updated_at": "2026-09-30T20:00:00+00:00"
+ },
+ {
+  "id": "P0309",
+  "name": "Market Garden Dried Apricots 1 kg",
+  "brand": "Market Garden",
+  "category": "fruit",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "dried_apricots"
+  ],
+  "unit_price": 909,
+  "stock": 44,
+  "updated_at": "2026-09-29T18:00:00+00:00"
+ },
+ {
+  "id": "P0310",
+  "name": "FreshFarm Raisins 500 g",
+  "brand": "FreshFarm",
+  "category": "fruit",
+  "package": "500 g",
+  "ingredient_ids": [
+   "raisins"
+  ],
+  "unit_price": 1409,
+  "stock": 245,
+  "updated_at": "2026-09-28T17:00:00+00:00"
+ },
+ {
+  "id": "P0311",
+  "name": "FreshFarm Dates 1 kg",
+  "brand": "FreshFarm",
+  "category": "fruit",
+  "package": "1 kg",
+  "ingredient_ids": [
+   "dates"
+  ],
+  "unit_price": 1359,
+  "stock": 67,
+  "updated_at": "2026-09-30T10:00:00+00:00"
+ },
+ {
+  "id": "P0312",
+  "name": "Market Garden Dates 500 g",
+  "brand": "Market Garden",
+  "category": "fruit",
+  "package": "500 g",
+  "ingredient_ids": [
+   "dates"
+  ],
+  "unit_price": 1049,
+  "stock": 35,
+  "updated_at": "2026-09-29T21:00:00+00:00"
+ },
+ {
+  "id": "P0313",
+  "name": "FreshFarm Basil 1 bunch",
+  "brand": "FreshFarm",
+  "category": "herb",
+  "package": "1 bunch",
+  "ingredient_ids": [
+   "basil"
+  ],
+  "unit_price": 539,
+  "stock": 167,
+  "updated_at": "2026-09-30T14:00:00+00:00"
+ },
+ {
+  "id": "P0314",
+  "name": "Spice Route Basil 20 g",
+  "brand": "Spice Route",
+  "category": "herb",
+  "package": "20 g",
+  "ingredient_ids": [
+   "basil"
+  ],
+  "unit_price": 529,
+  "stock": 46,
+  "updated_at": "2026-09-29T16:00:00+00:00"
+ },
+ {
+  "id": "P0315",
+  "name": "FreshFarm Coriander 1 bunch",
+  "brand": "FreshFarm",
+  "category": "herb",
+  "package": "1 bunch",
+  "ingredient_ids": [
+   "coriander"
+  ],
+  "unit_price": 629,
+  "stock": 214,
+  "updated_at": "2026-10-01T08:00:00+00:00"
+ },
+ {
+  "id": "P0316",
+  "name": "Spice Route Coriander 20 g",
+  "brand": "Spice Route",
+  "category": "herb",
+  "package": "20 g",
+  "ingredient_ids": [
+   "coriander"
+  ],
+  "unit_price": 319,
+  "stock": 200,
+  "updated_at": "2026-09-30T02:00:00+00:00"
+ },
+ {
+  "id": "P0317",
+  "name": "FreshFarm Parsley 1 bunch",
+  "brand": "FreshFarm",
+  "category": "herb",
+  "package": "1 bunch",
+  "ingredient_ids": [
+   "parsley"
+  ],
+  "unit_price": 549,
+  "stock": 109,
+  "updated_at": "2026-10-01T08:00:00+00:00"
+ },
+ {
+  "id": "P0318",
+  "name": "Spice Route Parsley 1 bunch",
+  "brand": "Spice Route",
+  "category": "herb",
+  "package": "1 bunch",
+  "ingredient_ids": [
+   "parsley"
+  ],
+  "unit_price": 489,
+  "stock": 77,
+  "updated_at": "2026-09-29T21:00:00+00:00"
+ },
+ {
+  "id": "P0319",
+  "name": "FreshFarm Dill 1 bunch",
+  "brand": "FreshFarm",
+  "category": "herb",
+  "package": "1 bunch",
+  "ingredient_ids": [
+   "dill"
+  ],
+  "unit_price": 479,
+  "stock": 178,
+  "updated_at": "2026-09-29T08:00:00+00:00"
+ },
+ {
+  "id": "P0320",
+  "name": "Spice Route Dill 20 g",
+  "brand": "Spice Route",
+  "category": "herb",
+  "package": "20 g",
+  "ingredient_ids": [
+   "dill"
+  ],
+  "unit_price": 409,
+  "stock": 0,
+  "updated_at": "2026-10-01T04:00:00+00:00"
+ },
+ {
+  "id": "P0321",
+  "name": "FreshFarm Mint 20 g",
+  "brand": "FreshFarm",
+  "category": "herb",
+  "package": "20 g",
+  "ingredient_ids": [
+   "mint"
+  ],
+  "unit_price": 349,
+  "stock": 121,
+  "updated_at": "2026-09-30T09:00:00+00:00"
+ },
+ {
+  "id": "P0322",
+  "name": "Spice Route Mint 20 g",
+  "brand": "Spice Route",
+  "category": "herb",
+  "package": "20 g",
+  "ingredient_ids": [
+   "mint"
+  ],
+  "unit_price": 429,
+  "stock": 223,
+  "updated_at": "2026-09-29T19:00:00+00:00"
+ },
+ {
+  "id": "P0323",
+  "name": "FreshFarm Thyme 1 bunch",
+  "brand": "FreshFarm",
+  "category": "herb",
+  "package": "1 bunch",
+  "ingredient_ids": [
+   "thyme"
+  ],
+  "unit_price": 579,
+  "stock": 105,
+  "updated_at": "2026-09-30T19:00:00+00:00"
+ },
+ {
+  "id": "P0324",
+  "name": "Spice Route Thyme 20 g",
+  "brand": "Spice Route",
+  "category": "herb",
+  "package": "20 g",
+  "ingredient_ids": [
+   "thyme"
+  ],
+  "unit_price": 589,
+  "stock": 30,
+  "updated_at": "2026-09-29T19:00:00+00:00"
+ },
+ {
+  "id": "P0325",
+  "name": "FreshFarm Oregano 1 bunch",
+  "brand": "FreshFarm",
+  "category": "herb",
+  "package": "1 bunch",
+  "ingredient_ids": [
+   "oregano"
+  ],
+  "unit_price": 389,
+  "stock": 118,
+  "updated_at": "2026-09-30T04:00:00+00:00"
+ },
+ {
+  "id": "P0326",
+  "name": "FreshFarm Lemongrass 20 g",
+  "brand": "FreshFarm",
+  "category": "herb",
+  "package": "20 g",
+  "ingredient_ids": [
+   "lemongrass"
+  ],
+  "unit_price": 349,
+  "stock": 0,
+  "updated_at": "2026-09-29T10:00:00+00:00"
+ },
+ {
+  "id": "P0327",
+  "name": "Spice Route Ginger 30 g",
+  "brand": "Spice Route",
+  "category": "spice",
+  "package": "30 g",
+  "ingredient_ids": [
+   "ginger"
+  ],
+  "unit_price": 1149,
+  "stock": 249,
+  "updated_at": "2026-09-30T15:00:00+00:00"
+ },
+ {
+  "id": "P0328",
+  "name": "Spice Route Cumin 30 g",
+  "brand": "Spice Route",
+  "category": "spice",
+  "package": "30 g",
+  "ingredient_ids": [
+   "cumin"
+  ],
+  "unit_price": 1099,
+  "stock": 187,
+  "updated_at": "2026-09-29T19:00:00+00:00"
+ },
+ {
+  "id": "P0329",
+  "name": "Spice Route Sweet Paprika 30 g",
+  "brand": "Spice Route",
+  "category": "spice",
+  "package": "30 g",
+  "ingredient_ids": [
+   "paprika"
+  ],
+  "unit_price": 479,
+  "stock": 134,
+  "updated_at": "2026-09-29T00:00:00+00:00"
+ },
+ {
+  "id": "P0330",
+  "name": "Daily Basics Sweet Paprika 50 g",
+  "brand": "Daily Basics",
+  "category": "spice",
+  "package": "50 g",
+  "ingredient_ids": [
+   "paprika"
+  ],
+  "unit_price": 789,
+  "stock": 8,
+  "updated_at": "2026-10-01T00:00:00+00:00"
+ },
+ {
+  "id": "P0331",
+  "name": "Spice Route Caraway Seeds 30 g",
+  "brand": "Spice Route",
+  "category": "spice",
+  "package": "30 g",
+  "ingredient_ids": [
+   "caraway"
+  ],
+  "unit_price": 1239,
+  "stock": 250,
+  "updated_at": "2026-09-30T05:00:00+00:00"
+ },
+ {
+  "id": "P0332",
+  "name": "Daily Basics Caraway Seeds 50 g",
+  "brand": "Daily Basics",
+  "category": "spice",
+  "package": "50 g",
+  "ingredient_ids": [
+   "caraway"
+  ],
+  "unit_price": 509,
+  "stock": 15,
+  "updated_at": "2026-09-29T23:00:00+00:00"
+ },
+ {
+  "id": "P0333",
+  "name": "Spice Route Turmeric 50 g",
+  "brand": "Spice Route",
+  "category": "spice",
+  "package": "50 g",
+  "ingredient_ids": [
+   "turmeric"
+  ],
+  "unit_price": 779,
+  "stock": 170,
+  "updated_at": "2026-09-28T23:00:00+00:00"
+ },
+ {
+  "id": "P0334",
+  "name": "Daily Basics Turmeric 30 g",
+  "brand": "Daily Basics",
+  "category": "spice",
+  "package": "30 g",
+  "ingredient_ids": [
+   "turmeric"
+  ],
+  "unit_price": 579,
+  "stock": 0,
+  "updated_at": "2026-09-30T22:00:00+00:00"
+ },
+ {
+  "id": "P0335",
+  "name": "Spice Route Cinnamon 30 g",
+  "brand": "Spice Route",
+  "category": "spice",
+  "package": "30 g",
+  "ingredient_ids": [
+   "cinnamon"
+  ],
+  "unit_price": 719,
+  "stock": 189,
+  "updated_at": "2026-09-29T13:00:00+00:00"
+ },
+ {
+  "id": "P0336",
+  "name": "Spice Route Black Pepper 50 g",
+  "brand": "Spice Route",
+  "category": "spice",
+  "package": "50 g",
+  "ingredient_ids": [
+   "black_pepper"
+  ],
+  "unit_price": 1049,
+  "stock": 105,
+  "updated_at": "2026-10-01T05:00:00+00:00"
+ },
+ {
+  "id": "P0337",
+  "name": "Spice Route Saffron 30 g",
+  "brand": "Spice Route",
+  "category": "spice",
+  "package": "30 g",
+  "ingredient_ids": [
+   "saffron"
+  ],
+  "unit_price": 859,
+  "stock": 144,
+  "updated_at": "2026-09-29T23:00:00+00:00"
+ },
+ {
+  "id": "P0338",
+  "name": "Spice Route Garam Masala 30 g",
+  "brand": "Spice Route",
+  "category": "spice",
+  "package": "30 g",
+  "ingredient_ids": [
+   "garam_masala"
+  ],
+  "unit_price": 359,
+  "stock": 198,
+  "updated_at": "2026-09-28T13:00:00+00:00"
+ },
+ {
+  "id": "P0339",
+  "name": "Daily Basics Garam Masala 30 g",
+  "brand": "Daily Basics",
+  "category": "spice",
+  "package": "30 g",
+  "ingredient_ids": [
+   "garam_masala"
+  ],
+  "unit_price": 569,
+  "stock": 177,
+  "updated_at": "2026-09-30T20:00:00+00:00"
+ },
+ {
+  "id": "P0340",
+  "name": "Spice Route Curry Powder 50 g",
+  "brand": "Spice Route",
+  "category": "spice",
+  "package": "50 g",
+  "ingredient_ids": [
+   "curry_powder"
+  ],
+  "unit_price": 419,
+  "stock": 98,
+  "updated_at": "2026-09-29T16:00:00+00:00"
+ },
+ {
+  "id": "P0341",
+  "name": "Spice Route Harissa Paste 50 g",
+  "brand": "Spice Route",
+  "category": "spice",
+  "package": "50 g",
+  "ingredient_ids": [
+   "harissa"
+  ],
+  "unit_price": 849,
+  "stock": 39,
+  "updated_at": "2026-09-30T10:00:00+00:00"
+ },
+ {
+  "id": "P0342",
+  "name": "Spice Route Sea Salt 50 g",
+  "brand": "Spice Route",
+  "category": "spice",
+  "package": "50 g",
+  "ingredient_ids": [
+   "salt"
+  ],
+  "unit_price": 889,
+  "stock": 13,
+  "updated_at": "2026-10-01T06:00:00+00:00"
+ },
+ {
+  "id": "P0343",
+  "name": "Daily Basics Sea Salt 50 g",
+  "brand": "Daily Basics",
+  "category": "spice",
+  "package": "50 g",
+  "ingredient_ids": [
+   "salt"
+  ],
+  "unit_price": 329,
+  "stock": 208,
+  "updated_at": "2026-09-28T23:00:00+00:00"
+ },
+ {
+  "id": "P0344",
+  "name": "Spice Route Soy Sauce 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "soy_sauce"
+  ],
+  "unit_price": 1269,
+  "stock": 231,
+  "updated_at": "2026-09-28T18:00:00+00:00"
+ },
+ {
+  "id": "P0345",
+  "name": "Bella Cucina Soy Sauce 150 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "soy_sauce"
+  ],
+  "unit_price": 699,
+  "stock": 84,
+  "updated_at": "2026-09-30T15:00:00+00:00"
+ },
+ {
+  "id": "P0346",
+  "name": "Asia Pantry Soy Sauce 250 ml",
+  "brand": "Asia Pantry",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "soy_sauce"
+  ],
+  "unit_price": 1079,
+  "stock": 218,
+  "updated_at": "2026-09-29T21:00:00+00:00"
+ },
+ {
+  "id": "P0347",
+  "name": "Spice Route Tamari 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "tamari"
+  ],
+  "unit_price": 1379,
+  "stock": 133,
+  "updated_at": "2026-09-28T15:00:00+00:00"
+ },
+ {
+  "id": "P0348",
+  "name": "Bella Cucina Tamari 150 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "tamari"
+  ],
+  "unit_price": 1219,
+  "stock": 124,
+  "updated_at": "2026-10-01T09:00:00+00:00"
+ },
+ {
+  "id": "P0349",
+  "name": "Spice Route Coconut Aminos 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "coconut_aminos"
+  ],
+  "unit_price": 1039,
+  "stock": 109,
+  "updated_at": "2026-09-29T20:00:00+00:00"
+ },
+ {
+  "id": "P0350",
+  "name": "Bella Cucina Coconut Aminos 250 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "coconut_aminos"
+  ],
+  "unit_price": 1689,
+  "stock": 179,
+  "updated_at": "2026-10-01T08:00:00+00:00"
+ },
+ {
+  "id": "P0351",
+  "name": "Asia Pantry Coconut Aminos 150 ml",
+  "brand": "Asia Pantry",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "coconut_aminos"
+  ],
+  "unit_price": 1389,
+  "stock": 170,
+  "updated_at": "2026-09-30T06:00:00+00:00"
+ },
+ {
+  "id": "P0352",
+  "name": "Spice Route Fish Sauce 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "fish_sauce"
+  ],
+  "unit_price": 1569,
+  "stock": 46,
+  "updated_at": "2026-09-28T16:00:00+00:00"
+ },
+ {
+  "id": "P0353",
+  "name": "Bella Cucina Fish Sauce 150 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "fish_sauce"
+  ],
+  "unit_price": 1429,
+  "stock": 218,
+  "updated_at": "2026-09-29T11:00:00+00:00"
+ },
+ {
+  "id": "P0354",
+  "name": "Spice Route Oyster Sauce 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "oyster_sauce"
+  ],
+  "unit_price": 709,
+  "stock": 11,
+  "updated_at": "2026-09-30T21:00:00+00:00"
+ },
+ {
+  "id": "P0355",
+  "name": "Bella Cucina Oyster Sauce 150 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "oyster_sauce"
+  ],
+  "unit_price": 779,
+  "stock": 110,
+  "updated_at": "2026-09-30T16:00:00+00:00"
+ },
+ {
+  "id": "P0356",
+  "name": "Asia Pantry Oyster Sauce 250 ml",
+  "brand": "Asia Pantry",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "oyster_sauce"
+  ],
+  "unit_price": 1109,
+  "stock": 131,
+  "updated_at": "2026-09-28T23:00:00+00:00"
+ },
+ {
+  "id": "P0357",
+  "name": "Spice Route Hoisin Sauce 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "hoisin"
+  ],
+  "unit_price": 1799,
+  "stock": 18,
+  "updated_at": "2026-09-30T18:00:00+00:00"
+ },
+ {
+  "id": "P0358",
+  "name": "Bella Cucina Hoisin Sauce 150 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "hoisin"
+  ],
+  "unit_price": 1269,
+  "stock": 172,
+  "updated_at": "2026-09-28T22:00:00+00:00"
+ },
+ {
+  "id": "P0359",
+  "name": "Spice Route Miso Paste 150 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "miso"
+  ],
+  "unit_price": 1279,
+  "stock": 47,
+  "updated_at": "2026-09-29T01:00:00+00:00"
+ },
+ {
+  "id": "P0360",
+  "name": "Spice Route Chickpea Miso 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "chickpea_miso"
+  ],
+  "unit_price": 1859,
+  "stock": 93,
+  "updated_at": "2026-09-30T02:00:00+00:00"
+ },
+ {
+  "id": "P0361",
+  "name": "Spice Route Gochujang 150 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "gochujang"
+  ],
+  "unit_price": 1409,
+  "stock": 66,
+  "updated_at": "2026-09-30T00:00:00+00:00"
+ },
+ {
+  "id": "P0362",
+  "name": "Bella Cucina Gochujang 150 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "gochujang"
+  ],
+  "unit_price": 1329,
+  "stock": 79,
+  "updated_at": "2026-09-29T23:00:00+00:00"
+ },
+ {
+  "id": "P0363",
+  "name": "Asia Pantry Gochujang 150 ml",
+  "brand": "Asia Pantry",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "gochujang"
+  ],
+  "unit_price": 1549,
+  "stock": 128,
+  "updated_at": "2026-09-29T19:00:00+00:00"
+ },
+ {
+  "id": "P0364",
+  "name": "Spice Route Red Curry Paste 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "red_curry_paste"
+  ],
+  "unit_price": 1209,
+  "stock": 242,
+  "updated_at": "2026-09-30T00:00:00+00:00"
+ },
+ {
+  "id": "P0365",
+  "name": "Bella Cucina Red Curry Paste 250 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "red_curry_paste"
+  ],
+  "unit_price": 919,
+  "stock": 142,
+  "updated_at": "2026-09-29T11:00:00+00:00"
+ },
+ {
+  "id": "P0366",
+  "name": "Spice Route Green Curry Paste 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "green_curry_paste"
+  ],
+  "unit_price": 1829,
+  "stock": 91,
+  "updated_at": "2026-09-30T17:00:00+00:00"
+ },
+ {
+  "id": "P0367",
+  "name": "Bella Cucina Green Curry Paste 250 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "green_curry_paste"
+  ],
+  "unit_price": 929,
+  "stock": 185,
+  "updated_at": "2026-10-01T01:00:00+00:00"
+ },
+ {
+  "id": "P0368",
+  "name": "Asia Pantry Green Curry Paste 150 ml",
+  "brand": "Asia Pantry",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "green_curry_paste"
+  ],
+  "unit_price": 1009,
+  "stock": 68,
+  "updated_at": "2026-09-28T22:00:00+00:00"
+ },
+ {
+  "id": "P0369",
+  "name": "Spice Route Vegan Curry Paste 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "vegan_curry_paste"
+  ],
+  "unit_price": 809,
+  "stock": 72,
+  "updated_at": "2026-09-28T12:00:00+00:00"
+ },
+ {
+  "id": "P0370",
+  "name": "Spice Route Tamarind Paste 150 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "tamarind"
+  ],
+  "unit_price": 1529,
+  "stock": 160,
+  "updated_at": "2026-09-30T05:00:00+00:00"
+ },
+ {
+  "id": "P0371",
+  "name": "Bella Cucina Tamarind Paste 250 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "tamarind"
+  ],
+  "unit_price": 849,
+  "stock": 138,
+  "updated_at": "2026-09-30T07:00:00+00:00"
+ },
+ {
+  "id": "P0372",
+  "name": "Spice Route Basil Pesto 150 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "pesto"
+  ],
+  "unit_price": 1449,
+  "stock": 0,
+  "updated_at": "2026-09-29T07:00:00+00:00"
+ },
+ {
+  "id": "P0373",
+  "name": "Bella Cucina Basil Pesto 250 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "pesto"
+  ],
+  "unit_price": 989,
+  "stock": 177,
+  "updated_at": "2026-09-30T18:00:00+00:00"
+ },
+ {
+  "id": "P0374",
+  "name": "Spice Route Mayonnaise 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "mayonnaise"
+  ],
+  "unit_price": 499,
+  "stock": 240,
+  "updated_at": "2026-09-30T15:00:00+00:00"
+ },
+ {
+  "id": "P0375",
+  "name": "Bella Cucina Mayonnaise 250 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "mayonnaise"
+  ],
+  "unit_price": 1099,
+  "stock": 227,
+  "updated_at": "2026-09-28T23:00:00+00:00"
+ },
+ {
+  "id": "P0376",
+  "name": "Spice Route Dijon Mustard 150 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "dijon_mustard"
+  ],
+  "unit_price": 1209,
+  "stock": 249,
+  "updated_at": "2026-09-29T23:00:00+00:00"
+ },
+ {
+  "id": "P0377",
+  "name": "Bella Cucina Dijon Mustard 250 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "dijon_mustard"
+  ],
+  "unit_price": 969,
+  "stock": 235,
+  "updated_at": "2026-10-01T00:00:00+00:00"
+ },
+ {
+  "id": "P0378",
+  "name": "Asia Pantry Dijon Mustard 150 ml",
+  "brand": "Asia Pantry",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "dijon_mustard"
+  ],
+  "unit_price": 1469,
+  "stock": 192,
+  "updated_at": "2026-10-01T07:00:00+00:00"
+ },
+ {
+  "id": "P0379",
+  "name": "Spice Route Horseradish 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "horseradish"
+  ],
+  "unit_price": 1859,
+  "stock": 228,
+  "updated_at": "2026-09-30T13:00:00+00:00"
+ },
+ {
+  "id": "P0380",
+  "name": "Bella Cucina Horseradish 250 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "horseradish"
+  ],
+  "unit_price": 1889,
+  "stock": 0,
+  "updated_at": "2026-09-29T09:00:00+00:00"
+ },
+ {
+  "id": "P0381",
+  "name": "Spice Route Worcestershire Sauce 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "worcestershire"
+  ],
+  "unit_price": 1669,
+  "stock": 194,
+  "updated_at": "2026-09-29T22:00:00+00:00"
+ },
+ {
+  "id": "P0382",
+  "name": "Spice Route Malt Vinegar 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "malt_vinegar"
+  ],
+  "unit_price": 1809,
+  "stock": 0,
+  "updated_at": "2026-09-30T22:00:00+00:00"
+ },
+ {
+  "id": "P0383",
+  "name": "Bella Cucina Malt Vinegar 150 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "malt_vinegar"
+  ],
+  "unit_price": 1879,
+  "stock": 119,
+  "updated_at": "2026-09-28T14:00:00+00:00"
+ },
+ {
+  "id": "P0384",
+  "name": "Spice Route White Wine Vinegar 150 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "white_wine_vinegar"
+  ],
+  "unit_price": 1279,
+  "stock": 37,
+  "updated_at": "2026-09-28T19:00:00+00:00"
+ },
+ {
+  "id": "P0385",
+  "name": "Bella Cucina White Wine Vinegar 150 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "white_wine_vinegar"
+  ],
+  "unit_price": 1189,
+  "stock": 31,
+  "updated_at": "2026-09-29T17:00:00+00:00"
+ },
+ {
+  "id": "P0386",
+  "name": "Spice Route Rice Vinegar 150 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "rice_vinegar"
+  ],
+  "unit_price": 729,
+  "stock": 68,
+  "updated_at": "2026-09-30T12:00:00+00:00"
+ },
+ {
+  "id": "P0387",
+  "name": "Bella Cucina Rice Vinegar 150 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "rice_vinegar"
+  ],
+  "unit_price": 509,
+  "stock": 78,
+  "updated_at": "2026-09-30T11:00:00+00:00"
+ },
+ {
+  "id": "P0388",
+  "name": "Spice Route Apple Cider Vinegar 250 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "cider_vinegar"
+  ],
+  "unit_price": 749,
+  "stock": 232,
+  "updated_at": "2026-09-29T08:00:00+00:00"
+ },
+ {
+  "id": "P0389",
+  "name": "Bella Cucina Apple Cider Vinegar 150 ml",
+  "brand": "Bella Cucina",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "cider_vinegar"
+  ],
+  "unit_price": 1729,
+  "stock": 25,
+  "updated_at": "2026-09-29T08:00:00+00:00"
+ },
+ {
+  "id": "P0390",
+  "name": "Asia Pantry Apple Cider Vinegar 250 ml",
+  "brand": "Asia Pantry",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "cider_vinegar"
+  ],
+  "unit_price": 1489,
+  "stock": 38,
+  "updated_at": "2026-09-28T22:00:00+00:00"
+ },
+ {
+  "id": "P0391",
+  "name": "Spice Route Balsamic Vinegar 150 ml",
+  "brand": "Spice Route",
+  "category": "sauce",
+  "package": "150 ml",
+  "ingredient_ids": [
+   "balsamic"
+  ],
+  "unit_price": 979,
+  "stock": 69,
+  "updated_at": "2026-09-29T10:00:00+00:00"
+ },
+ {
+  "id": "P0392",
+  "name": "Cellar Select Dry White Wine 750 ml",
+  "brand": "Cellar Select",
+  "category": "drink",
+  "package": "750 ml",
+  "ingredient_ids": [
+   "white_wine"
+  ],
+  "unit_price": 1389,
+  "stock": 247,
+  "updated_at": "2026-09-29T17:00:00+00:00"
+ },
+ {
+  "id": "P0393",
+  "name": "Daily Basics Dry White Wine 750 ml",
+  "brand": "Daily Basics",
+  "category": "drink",
+  "package": "750 ml",
+  "ingredient_ids": [
+   "white_wine"
+  ],
+  "unit_price": 1619,
+  "stock": 5,
+  "updated_at": "2026-09-30T02:00:00+00:00"
+ },
+ {
+  "id": "P0394",
+  "name": "Cellar Select Red Wine 750 ml",
+  "brand": "Cellar Select",
+  "category": "drink",
+  "package": "750 ml",
+  "ingredient_ids": [
+   "red_wine"
+  ],
+  "unit_price": 2809,
+  "stock": 18,
+  "updated_at": "2026-09-30T20:00:00+00:00"
+ },
+ {
+  "id": "P0395",
+  "name": "Cellar Select Lager Beer 750 ml",
+  "brand": "Cellar Select",
+  "category": "drink",
+  "package": "750 ml",
+  "ingredient_ids": [
+   "beer"
+  ],
+  "unit_price": 2169,
+  "stock": 178,
+  "updated_at": "2026-09-28T19:00:00+00:00"
+ },
+ {
+  "id": "P0396",
+  "name": "Daily Basics Lager Beer 750 ml",
+  "brand": "Daily Basics",
+  "category": "drink",
+  "package": "750 ml",
+  "ingredient_ids": [
+   "beer"
+  ],
+  "unit_price": 3729,
+  "stock": 200,
+  "updated_at": "2026-09-29T20:00:00+00:00"
+ },
+ {
+  "id": "P0397",
+  "name": "Cellar Select Espresso Coffee 750 ml",
+  "brand": "Cellar Select",
+  "category": "drink",
+  "package": "750 ml",
+  "ingredient_ids": [
+   "coffee"
+  ],
+  "unit_price": 2939,
+  "stock": 243,
+  "updated_at": "2026-09-29T22:00:00+00:00"
+ },
+ {
+  "id": "P0398",
+  "name": "Daily Basics Espresso Coffee 750 ml",
+  "brand": "Daily Basics",
+  "category": "drink",
+  "package": "750 ml",
+  "ingredient_ids": [
+   "coffee"
+  ],
+  "unit_price": 1839,
+  "stock": 248,
+  "updated_at": "2026-09-30T18:00:00+00:00"
+ },
+ {
+  "id": "P0399",
+  "name": "Daily Basics Chicken Stock 10 cubes",
+  "brand": "Daily Basics",
+  "category": "stock",
+  "package": "10 cubes",
+  "ingredient_ids": [
+   "chicken_stock"
+  ],
+  "unit_price": 579,
+  "stock": 158,
+  "updated_at": "2026-09-29T12:00:00+00:00"
+ },
+ {
+  "id": "P0400",
+  "name": "Daily Basics Vegetable Stock 500 ml",
+  "brand": "Daily Basics",
+  "category": "stock",
+  "package": "500 ml",
+  "ingredient_ids": [
+   "vegetable_stock"
+  ],
+  "unit_price": 539,
+  "stock": 123,
+  "updated_at": "2026-09-28T15:00:00+00:00"
+ },
+ {
+  "id": "P0401",
+  "name": "Daily Basics Beef Stock 500 ml",
+  "brand": "Daily Basics",
+  "category": "stock",
+  "package": "500 ml",
+  "ingredient_ids": [
+   "beef_stock"
+  ],
+  "unit_price": 769,
+  "stock": 198,
+  "updated_at": "2026-09-30T04:00:00+00:00"
+ },
+ {
+  "id": "P0402",
+  "name": "Bella Cucina Beef Stock 500 ml",
+  "brand": "Bella Cucina",
+  "category": "stock",
+  "package": "500 ml",
+  "ingredient_ids": [
+   "beef_stock"
+  ],
+  "unit_price": 699,
+  "stock": 204,
+  "updated_at": "2026-10-01T01:00:00+00:00"
+ },
+ {
+  "id": "P0403",
+  "name": "Daily Basics Celery-Free Vegetable Stock 500 ml",
+  "brand": "Daily Basics",
+  "category": "stock",
+  "package": "500 ml",
+  "ingredient_ids": [
+   "celery_free_stock"
+  ],
+  "unit_price": 609,
+  "stock": 95,
+  "updated_at": "2026-10-01T02:00:00+00:00"
+ },
+ {
+  "id": "P0404",
+  "name": "Bella Cucina Olive Oil 500 ml",
+  "brand": "Bella Cucina",
+  "category": "oil",
+  "package": "500 ml",
+  "ingredient_ids": [
+   "olive_oil"
+  ],
+  "unit_price": 4639,
+  "stock": 215,
+  "updated_at": "2026-09-28T13:00:00+00:00"
+ },
+ {
+  "id": "P0405",
+  "name": "Bella Cucina Sunflower Oil 500 ml",
+  "brand": "Bella Cucina",
+  "category": "oil",
+  "package": "500 ml",
+  "ingredient_ids": [
+   "sunflower_oil"
+  ],
+  "unit_price": 4579,
+  "stock": 140,
+  "updated_at": "2026-09-30T16:00:00+00:00"
+ },
+ {
+  "id": "P0406",
+  "name": "Bella Cucina Coconut Oil 500 ml",
+  "brand": "Bella Cucina",
+  "category": "oil",
+  "package": "500 ml",
+  "ingredient_ids": [
+   "coconut_oil"
+  ],
+  "unit_price": 1479,
+  "stock": 116,
+  "updated_at": "2026-09-30T21:00:00+00:00"
+ },
+ {
+  "id": "P0407",
+  "name": "Bella Cucina Toasted Sesame Oil 500 ml",
+  "brand": "Bella Cucina",
+  "category": "oil",
+  "package": "500 ml",
+  "ingredient_ids": [
+   "sesame_oil"
+  ],
+  "unit_price": 3649,
+  "stock": 128,
+  "updated_at": "2026-10-01T00:00:00+00:00"
+ },
+ {
+  "id": "P0408",
+  "name": "Daily Basics Toasted Sesame Oil 500 ml",
+  "brand": "Daily Basics",
+  "category": "oil",
+  "package": "500 ml",
+  "ingredient_ids": [
+   "sesame_oil"
+  ],
+  "unit_price": 4569,
+  "stock": 17,
+  "updated_at": "2026-09-29T01:00:00+00:00"
+ },
+ {
+  "id": "P0409",
+  "name": "Sweet Valley Sugar 250 g",
+  "brand": "Sweet Valley",
+  "category": "sweet",
+  "package": "250 g",
+  "ingredient_ids": [
+   "sugar"
+  ],
+  "unit_price": 669,
+  "stock": 147,
+  "updated_at": "2026-10-01T04:00:00+00:00"
+ },
+ {
+  "id": "P0410",
+  "name": "Daily Basics Sugar 250 g",
+  "brand": "Daily Basics",
+  "category": "sweet",
+  "package": "250 g",
+  "ingredient_ids": [
+   "sugar"
+  ],
+  "unit_price": 1559,
+  "stock": 81,
+  "updated_at": "2026-10-01T09:00:00+00:00"
+ },
+ {
+  "id": "P0411",
+  "name": "Sweet Valley Honey 100 g",
+  "brand": "Sweet Valley",
+  "category": "sweet",
+  "package": "100 g",
+  "ingredient_ids": [
+   "honey"
+  ],
+  "unit_price": 1219,
+  "stock": 193,
+  "updated_at": "2026-09-30T08:00:00+00:00"
+ },
+ {
+  "id": "P0412",
+  "name": "Sweet Valley Maple Syrup 250 g",
+  "brand": "Sweet Valley",
+  "category": "sweet",
+  "package": "250 g",
+  "ingredient_ids": [
+   "maple_syrup"
+  ],
+  "unit_price": 1599,
+  "stock": 0,
+  "updated_at": "2026-09-29T15:00:00+00:00"
+ },
+ {
+  "id": "P0413",
+  "name": "Sweet Valley Dark Chocolate 100 g",
+  "brand": "Sweet Valley",
+  "category": "sweet",
+  "package": "100 g",
+  "ingredient_ids": [
+   "dark_chocolate"
+  ],
+  "unit_price": 1859,
+  "stock": 18,
+  "updated_at": "2026-10-01T03:00:00+00:00"
+ },
+ {
+  "id": "P0414",
+  "name": "Sweet Valley Cocoa Powder 250 g",
+  "brand": "Sweet Valley",
+  "category": "sweet",
+  "package": "250 g",
+  "ingredient_ids": [
+   "cocoa_powder"
+  ],
+  "unit_price": 2459,
+  "stock": 76,
+  "updated_at": "2026-09-29T07:00:00+00:00"
+ },
+ {
+  "id": "P0415",
+  "name": "Daily Basics Cocoa Powder 250 g",
+  "brand": "Daily Basics",
+  "category": "sweet",
+  "package": "250 g",
+  "ingredient_ids": [
+   "cocoa_powder"
+  ],
+  "unit_price": 769,
+  "stock": 167,
+  "updated_at": "2026-09-29T06:00:00+00:00"
+ },
+ {
+  "id": "P0416",
+  "name": "Bella Cucina Basil Pesto with Cashews 190 g",
+  "brand": "Bella",
+  "category": "sauce",
+  "package": "190 g",
+  "ingredient_ids": [
+   "pesto",
+   "cashews"
+  ],
+  "unit_price": 1049,
+  "stock": 117,
+  "updated_at": "2026-09-29T11:00:00+00:00"
+ },
+ {
+  "id": "P0417",
+  "name": "Hearth Bakery Seeded White Loaf 500 g",
+  "brand": "Hearth",
+  "category": "bakery",
+  "package": "500 g",
+  "ingredient_ids": [
+   "bread",
+   "sesame"
+  ],
+  "unit_price": 789,
+  "stock": 172,
+  "updated_at": "2026-09-28T14:00:00+00:00"
+ },
+ {
+  "id": "P0418",
+  "name": "Sweet Valley Dark Chocolate (contains milk) 100 g",
+  "brand": "Sweet",
+  "category": "sweet",
+  "package": "100 g",
+  "ingredient_ids": [
+   "dark_chocolate",
+   "milk"
+  ],
+  "unit_price": 669,
+  "stock": 33,
+  "updated_at": "2026-09-30T13:00:00+00:00"
+ },
+ {
+  "id": "P0419",
+  "name": "Daily Basics Vegetable Bouillon with Lovage 10 cubes",
+  "brand": "Daily",
+  "category": "stock",
+  "package": "10 cubes",
+  "ingredient_ids": [
+   "vegetable_stock",
+   "celery"
+  ],
+  "unit_price": 889,
+  "stock": 35,
+  "updated_at": "2026-09-30T07:00:00+00:00"
+ },
+ {
+  "id": "P0420",
+  "name": "Butcher's Choice Mustard Pork Sausages 400 g",
+  "brand": "Butcher's",
+  "category": "meat",
+  "package": "400 g",
+  "ingredient_ids": [
+   "sausage",
+   "mustard_seed"
+  ],
+  "unit_price": 5249,
+  "stock": 79,
+  "updated_at": "2026-09-29T00:00:00+00:00"
+ },
+ {
+  "id": "P0421",
+  "name": "Spice Route Madras Curry Powder with Celery Seed 50 g",
+  "brand": "Spice",
+  "category": "spice",
+  "package": "50 g",
+  "ingredient_ids": [
+   "curry_powder",
+   "celery"
+  ],
+  "unit_price": 959,
+  "stock": 139,
+  "updated_at": "2026-09-29T11:00:00+00:00"
+ },
+ {
+  "id": "P0422",
+  "name": "Mill & Co Egg-Glazed Panko 200 g",
+  "brand": "Mill",
+  "category": "bakery",
+  "package": "200 g",
+  "ingredient_ids": [
+   "breadcrumbs",
+   "egg"
+  ],
+  "unit_price": 1149,
+  "stock": 91,
+  "updated_at": "2026-09-30T16:00:00+00:00"
+ },
+ {
+  "id": "P0423",
+  "name": "Bella Cucina Gnocchi with Egg 500 g",
+  "brand": "Bella",
+  "category": "grain",
+  "package": "500 g",
+  "ingredient_ids": [
+   "gnocchi",
+   "egg"
+  ],
+  "unit_price": 689,
+  "stock": 188,
+  "updated_at": "2026-09-30T21:00:00+00:00"
+ },
+ {
+  "id": "P0424",
+  "name": "Nutcracker Tahini with Roasted Peanuts 300 g",
+  "brand": "Nutcracker",
+  "category": "seed",
+  "package": "300 g",
+  "ingredient_ids": [
+   "tahini",
+   "peanuts"
+  ],
+  "unit_price": 649,
+  "stock": 160,
+  "updated_at": "2026-10-01T09:00:00+00:00"
+ },
+ {
+  "id": "P0425",
+  "name": "Asia Pantry Hoisin Sauce with Garlic 250 ml",
+  "brand": "Asia",
+  "category": "sauce",
+  "package": "250 ml",
+  "ingredient_ids": [
+   "hoisin",
+   "garlic"
+  ],
+  "unit_price": 849,
+  "stock": 0,
+  "updated_at": "2026-10-01T07:00:00+00:00"
+ }
+]

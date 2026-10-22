@@ -1,0 +1,1863 @@
+[
+ {
+  "id": "wheat_flour",
+  "name": "wheat flour",
+  "category": "grain",
+  "allergens": [
+   "GLU"
+  ],
+  "components": []
+ },
+ {
+  "id": "durum_wheat",
+  "name": "durum wheat semolina",
+  "category": "grain",
+  "allergens": [
+   "GLU"
+  ],
+  "components": []
+ },
+ {
+  "id": "rye_flour",
+  "name": "rye flour",
+  "category": "grain",
+  "allergens": [
+   "GLU"
+  ],
+  "components": []
+ },
+ {
+  "id": "barley",
+  "name": "barley malt",
+  "category": "grain",
+  "allergens": [
+   "GLU"
+  ],
+  "components": []
+ },
+ {
+  "id": "rice_flour",
+  "name": "rice flour",
+  "category": "grain",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "buckwheat_flour",
+  "name": "buckwheat flour",
+  "category": "grain",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "oats",
+  "name": "rolled oats",
+  "category": "grain",
+  "allergens": [
+   "GLU"
+  ],
+  "components": []
+ },
+ {
+  "id": "gf_oats",
+  "name": "gluten-free oats",
+  "category": "grain",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "rice",
+  "name": "long-grain rice",
+  "category": "grain",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "basmati_rice",
+  "name": "basmati rice",
+  "category": "grain",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "sushi_rice",
+  "name": "sushi rice",
+  "category": "grain",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "arborio_rice",
+  "name": "arborio rice",
+  "category": "grain",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "quinoa",
+  "name": "quinoa",
+  "category": "grain",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "polenta",
+  "name": "polenta",
+  "category": "grain",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "cornstarch",
+  "name": "cornstarch",
+  "category": "grain",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "couscous",
+  "name": "couscous",
+  "category": "grain",
+  "allergens": [],
+  "components": [
+   "durum_wheat"
+  ]
+ },
+ {
+  "id": "bulgur",
+  "name": "bulgur wheat",
+  "category": "grain",
+  "allergens": [
+   "GLU"
+  ],
+  "components": []
+ },
+ {
+  "id": "pasta",
+  "name": "dried pasta",
+  "category": "grain",
+  "allergens": [],
+  "components": [
+   "durum_wheat"
+  ]
+ },
+ {
+  "id": "egg_pasta",
+  "name": "fresh egg pasta",
+  "category": "grain",
+  "allergens": [],
+  "components": [
+   "durum_wheat",
+   "egg"
+  ]
+ },
+ {
+  "id": "rice_pasta",
+  "name": "rice pasta",
+  "category": "grain",
+  "allergens": [],
+  "components": [
+   "rice_flour"
+  ]
+ },
+ {
+  "id": "chickpea_pasta",
+  "name": "chickpea pasta",
+  "category": "grain",
+  "allergens": [],
+  "components": [
+   "chickpeas"
+  ]
+ },
+ {
+  "id": "rice_noodles",
+  "name": "rice noodles",
+  "category": "grain",
+  "allergens": [],
+  "components": [
+   "rice_flour"
+  ]
+ },
+ {
+  "id": "glass_noodles",
+  "name": "sweet potato glass noodles",
+  "category": "grain",
+  "allergens": [],
+  "components": [
+   "sweet_potato"
+  ]
+ },
+ {
+  "id": "egg_noodles",
+  "name": "egg noodles",
+  "category": "grain",
+  "allergens": [],
+  "components": [
+   "wheat_flour",
+   "egg"
+  ]
+ },
+ {
+  "id": "udon",
+  "name": "udon noodles",
+  "category": "grain",
+  "allergens": [],
+  "components": [
+   "wheat_flour"
+  ]
+ },
+ {
+  "id": "rice_paper",
+  "name": "rice paper wrappers",
+  "category": "grain",
+  "allergens": [],
+  "components": [
+   "rice_flour"
+  ]
+ },
+ {
+  "id": "bread",
+  "name": "white bread",
+  "category": "bakery",
+  "allergens": [],
+  "components": [
+   "wheat_flour",
+   "yeast"
+  ]
+ },
+ {
+  "id": "rye_bread",
+  "name": "rye bread",
+  "category": "bakery",
+  "allergens": [],
+  "components": [
+   "rye_flour",
+   "wheat_flour"
+  ]
+ },
+ {
+  "id": "gf_bread",
+  "name": "gluten-free bread",
+  "category": "bakery",
+  "allergens": [],
+  "components": [
+   "rice_flour",
+   "egg"
+  ]
+ },
+ {
+  "id": "pita",
+  "name": "pita bread",
+  "category": "bakery",
+  "allergens": [],
+  "components": [
+   "wheat_flour"
+  ]
+ },
+ {
+  "id": "naan",
+  "name": "naan bread",
+  "category": "bakery",
+  "allergens": [],
+  "components": [
+   "wheat_flour",
+   "yogurt"
+  ]
+ },
+ {
+  "id": "wheat_tortilla",
+  "name": "wheat tortilla",
+  "category": "bakery",
+  "allergens": [],
+  "components": [
+   "wheat_flour"
+  ]
+ },
+ {
+  "id": "corn_tortilla",
+  "name": "corn tortilla",
+  "category": "bakery",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "puff_pastry",
+  "name": "puff pastry",
+  "category": "bakery",
+  "allergens": [],
+  "components": [
+   "wheat_flour",
+   "butter"
+  ]
+ },
+ {
+  "id": "filo_pastry",
+  "name": "filo pastry",
+  "category": "bakery",
+  "allergens": [],
+  "components": [
+   "wheat_flour"
+  ]
+ },
+ {
+  "id": "ladyfingers",
+  "name": "ladyfinger biscuits",
+  "category": "bakery",
+  "allergens": [],
+  "components": [
+   "wheat_flour",
+   "egg",
+   "sugar"
+  ]
+ },
+ {
+  "id": "breadcrumbs",
+  "name": "breadcrumbs",
+  "category": "bakery",
+  "allergens": [],
+  "components": [
+   "wheat_flour"
+  ]
+ },
+ {
+  "id": "gnocchi",
+  "name": "potato gnocchi",
+  "category": "grain",
+  "allergens": [],
+  "components": [
+   "potato",
+   "wheat_flour"
+  ]
+ },
+ {
+  "id": "yeast",
+  "name": "dried yeast",
+  "category": "baking",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "baking_powder",
+  "name": "baking powder",
+  "category": "baking",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "egg",
+  "name": "eggs",
+  "category": "dairy",
+  "allergens": [
+   "EGG"
+  ],
+  "components": []
+ },
+ {
+  "id": "milk",
+  "name": "milk",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "butter",
+  "name": "butter",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "cream",
+  "name": "cream",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "sour_cream",
+  "name": "sour cream",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "yogurt",
+  "name": "natural yogurt",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "parmesan",
+  "name": "parmesan",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "mozzarella",
+  "name": "mozzarella",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "mascarpone",
+  "name": "mascarpone",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "feta",
+  "name": "feta",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "cheddar",
+  "name": "cheddar",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "gruyere",
+  "name": "gruyere",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "halloumi",
+  "name": "halloumi",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "paneer",
+  "name": "paneer",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "ghee",
+  "name": "ghee",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "curd_cheese",
+  "name": "curd cheese (turo)",
+  "category": "dairy",
+  "allergens": [
+   "MLK"
+  ],
+  "components": []
+ },
+ {
+  "id": "oat_drink",
+  "name": "oat drink",
+  "category": "alternative",
+  "allergens": [],
+  "components": [
+   "oats"
+  ]
+ },
+ {
+  "id": "gf_oat_drink",
+  "name": "gluten-free oat drink",
+  "category": "alternative",
+  "allergens": [],
+  "components": [
+   "gf_oats"
+  ]
+ },
+ {
+  "id": "soy_drink",
+  "name": "soy drink",
+  "category": "alternative",
+  "allergens": [],
+  "components": [
+   "soybean"
+  ]
+ },
+ {
+  "id": "rice_drink",
+  "name": "rice drink",
+  "category": "alternative",
+  "allergens": [],
+  "components": [
+   "rice"
+  ]
+ },
+ {
+  "id": "coconut_milk",
+  "name": "coconut milk",
+  "category": "alternative",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "coconut_cream",
+  "name": "coconut cream",
+  "category": "alternative",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "coconut_yogurt",
+  "name": "coconut yogurt",
+  "category": "alternative",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "vegan_butter",
+  "name": "plant-based spread",
+  "category": "alternative",
+  "allergens": [],
+  "components": [
+   "sunflower_oil"
+  ]
+ },
+ {
+  "id": "vegan_cheese",
+  "name": "plant-based cheese",
+  "category": "alternative",
+  "allergens": [],
+  "components": [
+   "coconut_oil"
+  ]
+ },
+ {
+  "id": "vegan_mayo",
+  "name": "egg-free mayonnaise",
+  "category": "alternative",
+  "allergens": [],
+  "components": [
+   "chickpeas",
+   "sunflower_oil",
+   "mustard_seed"
+  ]
+ },
+ {
+  "id": "nutritional_yeast",
+  "name": "nutritional yeast",
+  "category": "alternative",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "flaxseed",
+  "name": "ground flaxseed",
+  "category": "alternative",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "tofu",
+  "name": "tofu",
+  "category": "protein",
+  "allergens": [],
+  "components": [
+   "soybean"
+  ]
+ },
+ {
+  "id": "tempeh",
+  "name": "tempeh",
+  "category": "protein",
+  "allergens": [],
+  "components": [
+   "soybean"
+  ]
+ },
+ {
+  "id": "seitan",
+  "name": "seitan",
+  "category": "protein",
+  "allergens": [],
+  "components": [
+   "wheat_flour"
+  ]
+ },
+ {
+  "id": "chicken",
+  "name": "chicken breast",
+  "category": "meat",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "chicken_thigh",
+  "name": "chicken thighs",
+  "category": "meat",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "beef",
+  "name": "beef steak",
+  "category": "meat",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "beef_mince",
+  "name": "beef mince",
+  "category": "meat",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "pork",
+  "name": "pork shoulder",
+  "category": "meat",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "ham",
+  "name": "cooked ham",
+  "category": "meat",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "bacon",
+  "name": "smoked bacon",
+  "category": "meat",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "sausage",
+  "name": "pork sausages",
+  "category": "meat",
+  "allergens": [],
+  "components": [
+   "pork",
+   "breadcrumbs"
+  ]
+ },
+ {
+  "id": "gf_sausage",
+  "name": "gluten-free pork sausages",
+  "category": "meat",
+  "allergens": [],
+  "components": [
+   "pork",
+   "rice_flour"
+  ]
+ },
+ {
+  "id": "chorizo",
+  "name": "chorizo",
+  "category": "meat",
+  "allergens": [],
+  "components": [
+   "pork",
+   "paprika"
+  ]
+ },
+ {
+  "id": "lamb",
+  "name": "lamb shoulder",
+  "category": "meat",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "lamb_mince",
+  "name": "lamb mince",
+  "category": "meat",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "duck",
+  "name": "duck breast",
+  "category": "meat",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "salmon",
+  "name": "salmon fillet",
+  "category": "fish",
+  "allergens": [
+   "FSH"
+  ],
+  "components": []
+ },
+ {
+  "id": "smoked_salmon",
+  "name": "smoked salmon",
+  "category": "fish",
+  "allergens": [
+   "FSH"
+  ],
+  "components": []
+ },
+ {
+  "id": "cod",
+  "name": "cod fillet",
+  "category": "fish",
+  "allergens": [
+   "FSH"
+  ],
+  "components": []
+ },
+ {
+  "id": "carp",
+  "name": "carp",
+  "category": "fish",
+  "allergens": [
+   "FSH"
+  ],
+  "components": []
+ },
+ {
+  "id": "tuna",
+  "name": "tuna",
+  "category": "fish",
+  "allergens": [
+   "FSH"
+  ],
+  "components": []
+ },
+ {
+  "id": "anchovy",
+  "name": "anchovies",
+  "category": "fish",
+  "allergens": [
+   "FSH"
+  ],
+  "components": []
+ },
+ {
+  "id": "shrimp",
+  "name": "prawns",
+  "category": "shellfish",
+  "allergens": [
+   "CRU"
+  ],
+  "components": []
+ },
+ {
+  "id": "shrimp_paste",
+  "name": "shrimp paste",
+  "category": "shellfish",
+  "allergens": [],
+  "components": [
+   "shrimp"
+  ]
+ },
+ {
+  "id": "mussels",
+  "name": "mussels",
+  "category": "shellfish",
+  "allergens": [
+   "MOL"
+  ],
+  "components": []
+ },
+ {
+  "id": "clams",
+  "name": "clams",
+  "category": "shellfish",
+  "allergens": [
+   "MOL"
+  ],
+  "components": []
+ },
+ {
+  "id": "squid",
+  "name": "squid",
+  "category": "shellfish",
+  "allergens": [
+   "MOL"
+  ],
+  "components": []
+ },
+ {
+  "id": "chickpeas",
+  "name": "chickpeas",
+  "category": "legume",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "lentils",
+  "name": "red lentils",
+  "category": "legume",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "split_peas",
+  "name": "yellow split peas",
+  "category": "legume",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "black_beans",
+  "name": "black beans",
+  "category": "legume",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "kidney_beans",
+  "name": "kidney beans",
+  "category": "legume",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "white_beans",
+  "name": "white beans",
+  "category": "legume",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "soybean",
+  "name": "soybeans",
+  "category": "legume",
+  "allergens": [
+   "SOY"
+  ],
+  "components": []
+ },
+ {
+  "id": "edamame",
+  "name": "edamame",
+  "category": "legume",
+  "allergens": [],
+  "components": [
+   "soybean"
+  ]
+ },
+ {
+  "id": "lupin_flour",
+  "name": "lupin flour",
+  "category": "legume",
+  "allergens": [
+   "LUP"
+  ],
+  "components": []
+ },
+ {
+  "id": "peanuts",
+  "name": "peanuts",
+  "category": "nut",
+  "allergens": [
+   "PNT"
+  ],
+  "components": []
+ },
+ {
+  "id": "peanut_butter",
+  "name": "peanut butter",
+  "category": "nut",
+  "allergens": [],
+  "components": [
+   "peanuts"
+  ]
+ },
+ {
+  "id": "almonds",
+  "name": "almonds",
+  "category": "nut",
+  "allergens": [
+   "NUT"
+  ],
+  "components": []
+ },
+ {
+  "id": "cashews",
+  "name": "cashews",
+  "category": "nut",
+  "allergens": [
+   "NUT"
+  ],
+  "components": []
+ },
+ {
+  "id": "walnuts",
+  "name": "walnuts",
+  "category": "nut",
+  "allergens": [
+   "NUT"
+  ],
+  "components": []
+ },
+ {
+  "id": "hazelnuts",
+  "name": "hazelnuts",
+  "category": "nut",
+  "allergens": [
+   "NUT"
+  ],
+  "components": []
+ },
+ {
+  "id": "pistachios",
+  "name": "pistachios",
+  "category": "nut",
+  "allergens": [
+   "NUT"
+  ],
+  "components": []
+ },
+ {
+  "id": "pine_nuts",
+  "name": "pine nuts",
+  "category": "nut",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "sesame",
+  "name": "sesame seeds",
+  "category": "seed",
+  "allergens": [
+   "SES"
+  ],
+  "components": []
+ },
+ {
+  "id": "tahini",
+  "name": "tahini",
+  "category": "seed",
+  "allergens": [],
+  "components": [
+   "sesame"
+  ]
+ },
+ {
+  "id": "sunflower_seeds",
+  "name": "sunflower seeds",
+  "category": "seed",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "pumpkin_seeds",
+  "name": "pumpkin seeds",
+  "category": "seed",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "sunflower_butter",
+  "name": "sunflower seed butter",
+  "category": "seed",
+  "allergens": [],
+  "components": [
+   "sunflower_seeds"
+  ]
+ },
+ {
+  "id": "mustard_seed",
+  "name": "mustard seed",
+  "category": "spice",
+  "allergens": [
+   "MUS"
+  ],
+  "components": []
+ },
+ {
+  "id": "tomato",
+  "name": "tomatoes",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "canned_tomatoes",
+  "name": "chopped tomatoes",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "tomato_paste",
+  "name": "tomato paste",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "onion",
+  "name": "onions",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "red_onion",
+  "name": "red onions",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "spring_onion",
+  "name": "spring onions",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "garlic",
+  "name": "garlic",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "carrot",
+  "name": "carrots",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "celery",
+  "name": "celery",
+  "category": "vegetable",
+  "allergens": [
+   "CEL"
+  ],
+  "components": []
+ },
+ {
+  "id": "celeriac",
+  "name": "celeriac",
+  "category": "vegetable",
+  "allergens": [
+   "CEL"
+  ],
+  "components": []
+ },
+ {
+  "id": "fennel",
+  "name": "fennel",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "leek",
+  "name": "leeks",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "bell_pepper",
+  "name": "bell peppers",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "chili",
+  "name": "fresh chili",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "zucchini",
+  "name": "zucchini",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "eggplant",
+  "name": "eggplant",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "spinach",
+  "name": "spinach",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "mushroom",
+  "name": "mushrooms",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "potato",
+  "name": "potatoes",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "sweet_potato",
+  "name": "sweet potatoes",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "broccoli",
+  "name": "broccoli",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "cauliflower",
+  "name": "cauliflower",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "cabbage",
+  "name": "white cabbage",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "bok_choy",
+  "name": "bok choy",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "cucumber",
+  "name": "cucumber",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "lettuce",
+  "name": "lettuce",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "avocado",
+  "name": "avocado",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "corn",
+  "name": "sweetcorn",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "peas",
+  "name": "green peas",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "green_beans",
+  "name": "green beans",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "bean_sprouts",
+  "name": "bean sprouts",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "green_papaya",
+  "name": "green papaya",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "plantain",
+  "name": "plantain",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "olives",
+  "name": "olives",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "capers",
+  "name": "capers",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "nori",
+  "name": "nori seaweed",
+  "category": "vegetable",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "kimchi",
+  "name": "kimchi",
+  "category": "vegetable",
+  "allergens": [],
+  "components": [
+   "cabbage",
+   "chili",
+   "garlic",
+   "fish_sauce",
+   "shrimp_paste"
+  ]
+ },
+ {
+  "id": "lemon",
+  "name": "lemons",
+  "category": "fruit",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "lime",
+  "name": "limes",
+  "category": "fruit",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "apple",
+  "name": "apples",
+  "category": "fruit",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "banana",
+  "name": "bananas",
+  "category": "fruit",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "berries",
+  "name": "mixed berries",
+  "category": "fruit",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "mango",
+  "name": "mango",
+  "category": "fruit",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "pineapple",
+  "name": "pineapple",
+  "category": "fruit",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "dried_apricots",
+  "name": "dried apricots",
+  "category": "fruit",
+  "allergens": [
+   "SUL"
+  ],
+  "components": []
+ },
+ {
+  "id": "raisins",
+  "name": "raisins",
+  "category": "fruit",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "dates",
+  "name": "dates",
+  "category": "fruit",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "basil",
+  "name": "basil",
+  "category": "herb",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "coriander",
+  "name": "coriander",
+  "category": "herb",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "parsley",
+  "name": "parsley",
+  "category": "herb",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "dill",
+  "name": "dill",
+  "category": "herb",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "mint",
+  "name": "mint",
+  "category": "herb",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "thyme",
+  "name": "thyme",
+  "category": "herb",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "oregano",
+  "name": "oregano",
+  "category": "herb",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "lemongrass",
+  "name": "lemongrass",
+  "category": "herb",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "ginger",
+  "name": "ginger",
+  "category": "spice",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "cumin",
+  "name": "cumin",
+  "category": "spice",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "paprika",
+  "name": "sweet paprika",
+  "category": "spice",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "caraway",
+  "name": "caraway seeds",
+  "category": "spice",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "turmeric",
+  "name": "turmeric",
+  "category": "spice",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "cinnamon",
+  "name": "cinnamon",
+  "category": "spice",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "black_pepper",
+  "name": "black pepper",
+  "category": "spice",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "saffron",
+  "name": "saffron",
+  "category": "spice",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "garam_masala",
+  "name": "garam masala",
+  "category": "spice",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "curry_powder",
+  "name": "curry powder",
+  "category": "spice",
+  "allergens": [],
+  "components": [
+   "turmeric",
+   "cumin",
+   "mustard_seed"
+  ]
+ },
+ {
+  "id": "harissa",
+  "name": "harissa paste",
+  "category": "spice",
+  "allergens": [],
+  "components": [
+   "chili",
+   "garlic",
+   "caraway"
+  ]
+ },
+ {
+  "id": "salt",
+  "name": "sea salt",
+  "category": "spice",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "soy_sauce",
+  "name": "soy sauce",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "soybean",
+   "wheat_flour"
+  ]
+ },
+ {
+  "id": "tamari",
+  "name": "tamari",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "soybean"
+  ]
+ },
+ {
+  "id": "coconut_aminos",
+  "name": "coconut aminos",
+  "category": "sauce",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "fish_sauce",
+  "name": "fish sauce",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "anchovy"
+  ]
+ },
+ {
+  "id": "oyster_sauce",
+  "name": "oyster sauce",
+  "category": "sauce",
+  "allergens": [
+   "MOL"
+  ],
+  "components": [
+   "soybean",
+   "wheat_flour"
+  ]
+ },
+ {
+  "id": "hoisin",
+  "name": "hoisin sauce",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "soybean",
+   "wheat_flour",
+   "sesame"
+  ]
+ },
+ {
+  "id": "miso",
+  "name": "miso paste",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "soybean",
+   "rice"
+  ]
+ },
+ {
+  "id": "chickpea_miso",
+  "name": "chickpea miso",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "chickpeas",
+   "rice"
+  ]
+ },
+ {
+  "id": "gochujang",
+  "name": "gochujang",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "chili",
+   "soybean",
+   "wheat_flour"
+  ]
+ },
+ {
+  "id": "red_curry_paste",
+  "name": "red curry paste",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "chili",
+   "garlic",
+   "lemongrass",
+   "shrimp_paste"
+  ]
+ },
+ {
+  "id": "green_curry_paste",
+  "name": "green curry paste",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "chili",
+   "coriander",
+   "lemongrass",
+   "shrimp_paste"
+  ]
+ },
+ {
+  "id": "vegan_curry_paste",
+  "name": "vegan curry paste",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "chili",
+   "garlic",
+   "lemongrass"
+  ]
+ },
+ {
+  "id": "tamarind",
+  "name": "tamarind paste",
+  "category": "sauce",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "pesto",
+  "name": "basil pesto",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "basil",
+   "pine_nuts",
+   "parmesan",
+   "olive_oil"
+  ]
+ },
+ {
+  "id": "mayonnaise",
+  "name": "mayonnaise",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "egg",
+   "mustard_seed",
+   "sunflower_oil"
+  ]
+ },
+ {
+  "id": "dijon_mustard",
+  "name": "dijon mustard",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "mustard_seed",
+   "white_wine_vinegar"
+  ]
+ },
+ {
+  "id": "horseradish",
+  "name": "horseradish",
+  "category": "sauce",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "worcestershire",
+  "name": "worcestershire sauce",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "anchovy",
+   "malt_vinegar"
+  ]
+ },
+ {
+  "id": "malt_vinegar",
+  "name": "malt vinegar",
+  "category": "sauce",
+  "allergens": [],
+  "components": [
+   "barley"
+  ]
+ },
+ {
+  "id": "white_wine_vinegar",
+  "name": "white wine vinegar",
+  "category": "sauce",
+  "allergens": [
+   "SUL"
+  ],
+  "components": []
+ },
+ {
+  "id": "rice_vinegar",
+  "name": "rice vinegar",
+  "category": "sauce",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "cider_vinegar",
+  "name": "apple cider vinegar",
+  "category": "sauce",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "balsamic",
+  "name": "balsamic vinegar",
+  "category": "sauce",
+  "allergens": [
+   "SUL"
+  ],
+  "components": []
+ },
+ {
+  "id": "white_wine",
+  "name": "dry white wine",
+  "category": "drink",
+  "allergens": [
+   "SUL"
+  ],
+  "components": []
+ },
+ {
+  "id": "red_wine",
+  "name": "red wine",
+  "category": "drink",
+  "allergens": [
+   "SUL"
+  ],
+  "components": []
+ },
+ {
+  "id": "beer",
+  "name": "lager beer",
+  "category": "drink",
+  "allergens": [],
+  "components": [
+   "barley"
+  ]
+ },
+ {
+  "id": "coffee",
+  "name": "espresso coffee",
+  "category": "drink",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "chicken_stock",
+  "name": "chicken stock",
+  "category": "stock",
+  "allergens": [],
+  "components": [
+   "chicken",
+   "celery",
+   "carrot",
+   "onion"
+  ]
+ },
+ {
+  "id": "vegetable_stock",
+  "name": "vegetable stock",
+  "category": "stock",
+  "allergens": [],
+  "components": [
+   "celery",
+   "carrot",
+   "onion"
+  ]
+ },
+ {
+  "id": "beef_stock",
+  "name": "beef stock",
+  "category": "stock",
+  "allergens": [],
+  "components": [
+   "beef",
+   "celery",
+   "onion"
+  ]
+ },
+ {
+  "id": "celery_free_stock",
+  "name": "celery-free vegetable stock",
+  "category": "stock",
+  "allergens": [],
+  "components": [
+   "carrot",
+   "onion",
+   "leek"
+  ]
+ },
+ {
+  "id": "olive_oil",
+  "name": "olive oil",
+  "category": "oil",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "sunflower_oil",
+  "name": "sunflower oil",
+  "category": "oil",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "coconut_oil",
+  "name": "coconut oil",
+  "category": "oil",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "sesame_oil",
+  "name": "toasted sesame oil",
+  "category": "oil",
+  "allergens": [],
+  "components": [
+   "sesame"
+  ]
+ },
+ {
+  "id": "sugar",
+  "name": "sugar",
+  "category": "sweet",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "honey",
+  "name": "honey",
+  "category": "sweet",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "maple_syrup",
+  "name": "maple syrup",
+  "category": "sweet",
+  "allergens": [],
+  "components": []
+ },
+ {
+  "id": "dark_chocolate",
+  "name": "dark chocolate",
+  "category": "sweet",
+  "allergens": [],
+  "components": [
+   "sugar",
+   "soybean"
+  ]
+ },
+ {
+  "id": "cocoa_powder",
+  "name": "cocoa powder",
+  "category": "sweet",
+  "allergens": [],
+  "components": []
+ }
+]

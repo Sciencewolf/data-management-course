@@ -1,0 +1,15 @@
+Corpus: 224 recipe vectors, all-MiniLM-L6-v2, normalised, cosine distance, 20 fixed queries
+pgvector 0.8.7: HNSW m=16 ef_construction=64, hnsw.ef_search=40
+Qdrant: HNSW m=16 ef_construct=64 full_scan_threshold=10 KB, hnsw_ef=40, 224/224 vectors indexed, payload indexes: ['allergen_codes', 'cuisine', 'preparation_minutes']
+pgvector plan uses the HNSW index: unfiltered=True, exact run=False
+
+1) No filter: HNSW top-10 vs the same system's exact top-10
+  pgvector (ef_search=40)                ANN recall@10 mean 1.000 (min 1.00) | results returned mean 10.0 (min 10) | latency p50 0.86 ms (max 1.75)
+  Qdrant (hnsw_ef=40)                    ANN recall@10 mean 1.000 (min 1.00) | results returned mean 10.0 (min 10) | latency p50 1.02 ms (max 2.36)
+  shared ids between pgvector and Qdrant HNSW top-10: mean 10.0 / 10, min 10, per query [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+
+2) Filter cuisine = 'korean' keeps 11/224 rows (4.9%)
+  pgvector ef_search=40 iterative=off    ANN recall@10 mean 0.840 (min 0.20) | results returned mean 8.4 (min 2) | latency p50 0.77 ms (max 1.82)
+  pgvector ef_search=40 iterative=relaxed_order ANN recall@10 mean 1.000 (min 1.00) | results returned mean 10.0 (min 10) | latency p50 0.66 ms (max 0.85)
+  pgvector ef_search=200 iterative=off   ANN recall@10 mean 1.000 (min 1.00) | results returned mean 10.0 (min 10) | latency p50 0.66 ms (max 0.81)
+  Qdrant hnsw_ef=40 + payload index      ANN recall@10 mean 1.000 (min 1.00) | results returned mean 10.0 (min 10) | latency p50 0.92 ms (max 1.24)

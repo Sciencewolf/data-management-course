@@ -1,0 +1,12 @@
+neo4j==6.4.1
+numpy==2.5.4
+pgvector==0.5.1
+psycopg==3.3.6
+psycopg-binary==3.3.6
+pymongo==4.19.0
+python-dotenv==1.2.4
+qdrant-client==1.20.0
+redis==8.1.0
+sentence-transformers==6.2.0
+torch==2.14.1
+transformers==5.20.2

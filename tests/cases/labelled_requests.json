@@ -1,0 +1,27 @@
+{
+  "written": "2026-10-22, before any tuning of ef_search / hnsw_ef",
+  "how_labelled": "Relevant recipes were chosen by hand from the recipe titles and descriptions. Labels are recipe titles; tests/resolve_labels.py maps them to ids and fails if a title does not exist.",
+  "metric": "recall@5 = |relevant in top 5| / |relevant|; MRR = 1 / rank of the first relevant recipe in the top 10 (0 if none). No allergy filter.",
+  "requests": [
+    {"id": "L01", "text": "mild creamy chicken curry that children will eat", "relevant": ["Chicken Korma", "Chicken Tikka Masala"]},
+    {"id": "L02", "text": "vegan lentil soup", "relevant": ["Mercimek Red Lentil Soup", "Harira Soup"]},
+    {"id": "L03", "text": "Vietnamese beef noodle broth", "relevant": ["Beef Pho"]},
+    {"id": "L04", "text": "garlicky prawns for a tapas evening", "relevant": ["Gambas al Ajillo"]},
+    {"id": "L05", "text": "chocolate dessert", "relevant": ["Chocolate Mousse", "Churros with Chocolate", "Somloi Galuska"]},
+    {"id": "L06", "text": "healthy breakfast with oats", "relevant": ["Overnight Oats with Berries", "Peanut Butter Banana Smoothie"]},
+    {"id": "L07", "text": "fish tacos", "relevant": ["Fish Tacos"]},
+    {"id": "L08", "text": "eggs cooked in a spicy tomato sauce", "relevant": ["Shakshuka", "Menemen", "Huevos Rancheros"]},
+    {"id": "L09", "text": "chickpea dip with sesame paste", "relevant": ["Hummus"]},
+    {"id": "L10", "text": "salmon with rice", "relevant": ["Salmon Teriyaki Bowl", "Salmon with Mango Salsa", "Salmon Sushi Rolls"]},
+    {"id": "L11", "text": "chicken in paprika and sour cream sauce with dumplings", "relevant": ["Chicken Paprikash with Nokedli"]},
+    {"id": "L12", "text": "cold soup for a hot summer day", "relevant": ["Gazpacho"]},
+    {"id": "L13", "text": "tofu stir-fry with peanuts", "relevant": ["Tofu Kung Pao", "Tofu Pad Thai"]},
+    {"id": "L14", "text": "baked pasta with cheese", "relevant": ["Mac and Cheese", "Beef Lasagne", "Lentil Lasagne"]},
+    {"id": "L15", "text": "Japanese breaded cutlet with curry sauce", "relevant": ["Chicken Katsu Curry", "Pork Katsu Curry", "Tofu Katsu Curry"]},
+    {"id": "L16", "text": "Korean rice bowl with vegetables and a fried egg", "relevant": ["Beef Bibimbap", "Tofu Bibimbap", "Vegetable Bibimbap"]},
+    {"id": "L17", "text": "mussels steamed in white wine", "relevant": ["Moules Marinieres"]},
+    {"id": "L18", "text": "slow-cooked lamb with dried fruit", "relevant": ["Lamb Tagine with Apricots"]},
+    {"id": "L19", "text": "vegan eggplant dish", "relevant": ["Ratatouille", "Imam Bayildi", "Baba Ganoush"]},
+    {"id": "L20", "text": "sweet cinnamon pastry", "relevant": ["Cinnamon Buns", "Apple Strudel"]}
+  ]
+}
